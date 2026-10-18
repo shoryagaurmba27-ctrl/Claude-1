@@ -9,6 +9,7 @@
 - CEO tenure: 0 quarters (appointed 1 Apr 2026)
 - Mandate: restore profitability & deleverage within 8 quarters, then grow
 - Reporting currency: USD m (assumed INR/USD 84.5)
+- Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen.
 
 ## Company
 Vardhan Precision Industries Ltd (VPIL) — Pune, India. Listed. Founded 1987 by Rajendra Vardhan.
