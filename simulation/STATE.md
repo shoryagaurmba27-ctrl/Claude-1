@@ -62,8 +62,11 @@ Repo 5.00% | Steel +1% | INR 94.5 | US tariff 5% | Strong.
 - Nordvalve's price war eases mid-2034 (~60%).
 - UAE/Qatar demand: GCC licence enables hub (cost ~2M; sales ~8M/yr by yr 3).
 
-## Pending decisions (FY34 Q4)
-A Return-recovery programme ("Project Prime") | B Handling the succession shortlist | C GCC (UAE) sales hub
+## Decisions made (FY34 Q4, CEO 'approve all 3' = my quick view) — exec meeting on Valves business held, time paused
+A Project Prime APPROVED in full: Lean 2.0 (~4M/yr savings by 2035), working-capital release (~5M), sale of Hydrokraft's old Rajkot site (~6M; new building), one-off cost ~1.5M; target +1.5 pts ROIC (~$15 in FY36).
+B Succession shortlist: option 2 — keep strongest non-conflicted outside candidate warm (quiet meeting); focus on developing Kavita.
+C UAE (Dubai) sales hub APPROVED IN STAGES: $0.8M now; total ~2M; ~8M sales/yr by yr 3.
+Valves business briefing given (see meeting). Pro forma annual Valves sales ~$260M (organic ~197 + AquaSense ~19 + Hydrokraft ~45); balanced KPIs for sales (230) and operating profit (50) will be exceeded in FY35; ROIC is the binding KPI.
 
 ## Decision log
 - FY27–FY33: see earlier history.
