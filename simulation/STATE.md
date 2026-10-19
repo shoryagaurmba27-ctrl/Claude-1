@@ -92,10 +92,18 @@ Repo 5.75% | INR 87.5 | Steel +1% | US–India trade talks ongoing (≈50% tarif
 1. Valves: grow (smart valves, Flow Arabia) AND fix quality (factory checks). Harish/Kavita quality plan proposed: Quality head + extra QA team, ~0.6/yr. Draft targets: Valves sales ~150 by FY31, margin >= 23%, zero major recalls.
 2. Car Parts: sustain — protect Bharat, margin >= 11%, no big new investment.
 3. Voltrix: CEO asked for details (briefing given). Undecided.
-Meera asked CEO to add the board's condition (ROIC toward 10% by FY31) as an explicit goal — pending.
+Meera asked CEO to add the board's condition (ROIC toward 10% by FY31) as an explicit goal — CEO put ON HOLD (Meera uneasy; board may raise it).
+DECIDED: Quality plan APPROVED (Quality head + extra QA per shift + 100% pressure testing, ~0.6/yr). Voltrix: plan to pay pro-rata (~2.4) in next round "for now".
+Nikhil tasked: study how Car Parts can make Voltrix faster/cheaper (report delivered, see below).
 
 ## Voltrix detail (fictional)
 Bengaluru, founded 2023 by Ishaan Kapoor (CEO) & Dr. Leena Joseph (CTO). Product: e-axle (motor+gearbox+controller) for electric 3-wheelers & small commercial vehicles. Customers: 1 small production order, 2 EV 3-wheeler makers testing, 1 truck-maker trial. Last-12-month revenue ~1.5; loss ~10/yr; cash ~4 → needs ~10 round by FY29 Q2. Last post-money ~45 → VPIL 24% ≈ 10.8 paper (cost 11.92, book 8.32). Gear housings made by VPIL Auto (so Ashoka gets 49% of that profit); potential 3–5/yr parts sales by FY30. Competition: Kaveri in-house e-axle, Chinese imports. Scenarios to 2030: bear 35% (stake ~0–3), base 45% (~10–15), bull 20% (~35+). Round options: pro-rata 2.4 (keep 24%), skip (→~19%), lead with ~5 (→~28%), sell part to an EV fund.
+
+## Nikhil's Car Parts → Voltrix study (Apr 2028)
+Ideas: (1) VPIL Auto makes more e-axle parts (gears, shafts, motor housings) — saves Voltrix ~4–6 own capex; (2) assemble e-axles in Hosur spare space (unit cost −15–20%); (3) shared steel/aluminium buying (−8–12% material cost); (4) VPIL's auto quality certifications & processes speed OEM approvals (~6–9 months faster); (5) Sunita intros to OEMs; (6) continue engineer support.
+Effect if deep: Voltrix burn ~10 → ~7/yr; next round ~7 instead of 10 (VPIL pro-rata ~1.7 not 2.4); Auto revenue from Voltrix 0.4 → 4–8/yr by FY30 at 12–14% margin; Hosur gets work back.
+Packages: Light (parts only, no cost), Medium (parts + Hosur assembly, Auto invests ~1.5 tooling), Deep (5-yr exclusive manufacturing partner + VPIL gets ~3% extra Voltrix via warrants).
+Hurdles: Ashoka approval (49% of Auto; wants fair prices, payment security), audit-committee related-party approval (arm's-length pricing), Voltrix founders' fear of dependence, keep plans out of Kaveri observer's sessions, Bharat stays first priority.
 
 ## Pending (FY29 Q1)
 - GOAL-SETTING DISCUSSION FY29–FY31 (player-led meeting).
