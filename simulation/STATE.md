@@ -105,6 +105,11 @@ Effect if deep: Voltrix burn ~10 → ~7/yr; next round ~7 instead of 10 (VPIL pr
 Packages: Light (parts only, no cost), Medium (parts + Hosur assembly, Auto invests ~1.5 tooling), Deep (5-yr exclusive manufacturing partner + VPIL gets ~3% extra Voltrix via warrants).
 Hurdles: Ashoka approval (49% of Auto; wants fair prices, payment security), audit-committee related-party approval (arm's-length pricing), Voltrix founders' fear of dependence, keep plans out of Kaveri observer's sessions, Bharat stays first priority.
 
+## Deep Voltrix partnership — CEO chose DEEP; CEO + Nikhil presented (Apr 2028)
+Ashoka (via Auto board): likes revenue; objections: (a) the ~3% Voltrix warrants go to VPIL parent while Auto does the work → wants warrants in Auto or better margin; (b) credit risk → wants VPIL parent guarantee of Voltrix payables to Auto or advance payment; (c) wants capex (1.5) reimbursed if Voltrix exits early.
+Voltrix founders: Leena keen; Ishaan fears dependence. Counter: exclusivity 3 yrs (not 5) + right to second-source if VPIL misses quality/delivery; warrants 2% (not 3%); asks VPIL to commit pro-rata in next round; benchmark pricing review yearly.
+Open points for CEO: warrants location (VPIL vs Auto), payment guarantee, exclusivity 3 vs 5 yrs, warrants 2 vs 3%.
+
 ## Pending (FY29 Q1)
 - GOAL-SETTING DISCUSSION FY29–FY31 (player-led meeting).
 - Then quarterly decisions.
