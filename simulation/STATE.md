@@ -58,8 +58,12 @@ Repo 4.75% | Steel flat | INR 95.6 | US tariff 5% | Strong.
 - Proxy advisers: Governance Compass ~60% likely to oppose exec chair unless a strong lead independent director and 12-month term.
 - Nordvalve may bid for VPIL (cash-light now) ~8%/12m.
 
-## Pending decisions (FY35 Q4)
-A Update goals (stretch / Vision 2040 / hold) | B Executive Chair charter and pay | C Nordik at $55M (exclusivity to 31 Mar)
+## Decisions made (FY35 Q4, 'Approved all 3' = quick view) — company/Saudi briefing given, time paused
+A STRETCH GOALS now official for 31 Mar 2037: sales $350M, operating profit $75M, ROIC $16/100 (engine ~60%).
+B Executive Chair charter: scope strategy/M&A/investors/mentoring; pay = half CEO fixed, no bonus, small options; Kavita holds day-to-day authority; Lead Independent Director = Justice Raghavan; 12-month initial term.
+C Nordik: PASS for now (digest other deals); keep relationship.
+SAUDI/GULF briefing (engine est.): Sales co (Riyadh, 80/20): ~$21M/yr sales, EBITDA ~$2.0M (~9.5%), ~45 staff; UAE hub (Dubai) ~$8.4M/yr, ~12 staff; JV (Dammam; 50/50): sales ~$40M/yr, capacity $50M (80%), net ~$5.2M (VPIL half 2.6), ~190 staff (65% Saudi); VPIL fees ~1.6 + parts from Vadodara ~7.2 (margin ~1.8). VPIL Saudi/Gulf economic income ~$7.6M/yr; Gulf-related consolidated sales ~$38M (≈13% of sales). Backlog ~$36M; 3 big tenders (~$60M) next 12 months, ~35% win rate; top-3 customers ~55%; payment 90–120 days (Saudi receivables ~9); local content ~45% (gov. preference 40%). Risks: concentration, payment, Korean/Chinese rivals, partner Al-Rimal. People: Vikram Joshi (JV CEO), Khalid Al-Mansour (sales co GM), Faisal Al-Rimal (partner chair).
+Pro forma product lines (~$330M run-rate): specialty 66, standard 74, spares & service 41, Hydrokraft 48, smart valves 22, AquaSense 21, AmeriFlow 42, other/Gulf parts 16.
 
 ## Decision log
 - FY27–FY34: see earlier history.
