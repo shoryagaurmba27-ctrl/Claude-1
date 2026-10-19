@@ -29,11 +29,11 @@ TTM (Oct 2033–Sep 2034): Valves sales 268.4; continuing EBITDA 57.8; underlyin
 Quarterly: smart valves 5.4; AquaSense 5.2; Hydrokraft 12.0; Saudi sales co 5.1; UAE hub 1.6; AmeriFlow half-month 1.7.
 
 ## Balance sheet 30 Sep 2034 (continuing)
-Cash 33.85 | Receivables 48.0 | Inventory 29.6 | Other CA 5.75
-PP&E 71.45 (Phase 5 ~8 of 14 spent) | Voltrix 8.75 | Flow Arabia 15.25 | Goodwill & intangibles 79.95 | Other NCA 3.9 | **Total ≈ 296.5**
-Payables 33.0 | Other CL 12.35 | WC lines 25.0 | Term loan 0 (repaid early, $15M) | Other NCL 12.95 (deferred acquisition payments ~6.8)
-**Liabilities ≈ 83.3 | Equity ≈ 213.2**
-Net cash ≈ 8.85. Cash $33.85M vs Meera's cushion ≥ $15M.
+Cash 29.85 | Receivables 48.0 | Inventory 29.6 | Other CA 5.75
+PP&E 71.45 (Phase 5 ~8 of 14 spent) | Voltrix 8.75 | Flow Arabia 15.25 | Goodwill & intangibles 79.95 | Other NCA 3.9 | **Total ≈ 292.5**
+Payables 33.0 | Other CL 12.35 | WC lines 25.0 | Term loan 0 (repaid early, $15M) | Other NCL 8.95 (deferred acquisition payments ~2.8: AquaSense $3M due Jun 2035 + AmeriFlow $1M earn-out, at fair value)
+**Liabilities ≈ 79.3 | Equity ≈ 213.2**
+Net cash ≈ 4.85. Cash $29.85M vs Meera's cushion ≥ $15M. CORRECTION (Meera, Oct 2034): first AquaSense deferred payment $4M (due Jun 2034, Anita + engineers stayed) was paid in Q33 but omitted from cash flow; cash/net cash $4M lower than first reported; liabilities lower by 4; ROIC unaffected.
 Dividend paid Aug: $4.5M ($0.047/share). 'Use it or return it' policy SATISFIED: loan repaid (15), AmeriFlow (16.5), Phase 5 committed; no special dividend needed.
 
 ## AmeriFlow Distributors (Ohio) — closed 15 Sep 2034
@@ -58,6 +58,9 @@ Repo 4.75% | Steel flat | INR 95.3 | US tariff 5% | Strong.
 - Europe opportunity: Nordik Armaturen (Germany; sales ~60; EBITDA ~7; price ~60); yr1 return ~$10, yr3 ~$16; integration risk high after 3 deals in 18 months.
 - Nordvalve may resume price war in 2035 (~35%).
 - Bid for VPIL ~8%/12m.
+
+## Meeting (Oct 2034) on capital allocation, Europe, post-2037 role — see briefing
+Nordik Armaturen (Stuttgart): sales ~$60M, EBITDA ~$7M, price ~$60M; Meridian recheck: year-1 return ~$8, year-3 ~$14 (earlier $10/$16 too high); walk-away ~$50M (year-3 ~17%). 
 
 ## Pending decisions (FY35 Q3)
 A Capital allocation policy from 2035 | B Europe acquisition (Nordik ~60) vs digest first | C Your post-2037 role (chair?) and succession handover plan
