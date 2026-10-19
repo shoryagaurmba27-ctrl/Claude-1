@@ -4,78 +4,73 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2033 Q1 (1 Apr 2032). Indian FY = Apr–Mar.
+- Current sim date: start of FY2033 Q2 (1 Jul 2032). Indian FY = Apr–Mar.
 - Difficulty: Realistic / Hard
-- CEO tenure: 24 quarters (6 years; appointed 1 Apr 2026). Contract to 31 Mar 2034. ORIGINAL KPI ($10 ROIC) achieved. NEW STRETCH GOAL (board approved Feb 2032): ROIC ≥ $12/100 by Mar 2034; EBITDA ≥ ~65; leverage <2x; bonus cap raised to 150% of fixed pay; no new options. Clause: board consults CEO + independent committee before responding to Kaveri/>10% holder approach.
-- Reporting currency: USD m (INR/USD 92.4)
+- CEO tenure: 25 quarters (appointed 1 Apr 2026). Contract to 31 Mar 2034. Stretch KPI (board, Feb 2032): ROIC ≥ $12/100 by Mar 2034; EBITDA ≥ ~65; leverage <2x; bonus cap 150%. Clause: board consults CEO + independent committee before responding to Kaveri/>10% holder approach.
+- Reporting currency: USD m (INR/USD 92.7)
 - Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations, delegating detail, structural "why/how" questions. Says "end meeting"/"approve all"/numbers to pick options; engine states assumptions. Terse answers possible.
-- State Reports: #1 after FY28 Q1; #2 after FY29 Q1; #3 after FY30 Q2; #4 after FY31 Q3; #5 delivered after FY32 Q4. Next (#6) due after FY34 Q1 (5 quarters later).
+- State Reports: #1–#5 delivered (latest #5 after FY32 Q4). Next (#6) due after FY34 Q1.
+- Corrections logged: (a) Kaveri's $145M offer = 6.6× FY32 Auto EBITDA (22.1), i.e. ~fair value, not an 11% premium (earlier used FY31 EBITDA); (b) net cash after a Car Parts sale ≈ $60–65M, not $35M.
 
 ## Structure
-VPIL = listed parent/group. Valves ("Flow") = unit INSIDE VPIL, 100% owned (incl. SensAqua + Saudi sales co 80/20). Car Parts = "VPIL Auto": since 28 Mar 2032 VPIL 75.5% / Ashoka 24.5% (Tsukuba to buy Ashoka's remaining 24.5% by Dec 2032 → VPIL 75.5% / Tsukuba 24.5%). Saudi plant = Flow Arabia JV 50/50 Al-Rimal (equity-accounted). Voltrix ~20.5%.
-Board: 10 (CEO + 9): family 3 (Rajendra chair, Aditya, Priya), investors 2 (Thomas/Halden, Anjali/Sahyadri), independents 4 (Raghavan, Dev, Lata, Mrs. Narayanan). Employees ~3,420.
+VPIL = listed parent/group. Valves ("Flow") = unit INSIDE VPIL, 100% owned (incl. SensAqua + Saudi sales co 80/20). Car Parts = "VPIL Auto": VPIL 75.5% / Ashoka 24.5% (Tsukuba to buy Ashoka's 24.5% by Dec 2032). Saudi plant = Flow Arabia JV 50/50 Al-Rimal. Voltrix ~20.5%.
+Board: 10 (CEO + 9): family 3 (Rajendra chair, Aditya, Priya), investors 2 (Thomas/Halden, Anjali/Sahyadri), independents 4 (Raghavan, Dev, Lata, Mrs. Narayanan). Employees ~3,450.
 
 ## Income statement history (USD m)
-| Item | FY2030 | FY2031 | FY32 Q1 | Q2 | Q3 | Q4 | FY2032 |
-|---|---|---|---|---|---|---|---|
-| Revenue | 290.9 | 319.4 | 84.7 | 86.4 | 88.6 | 91.8 | 351.5 (+10.1%) |
-| — Auto | 168.3 | 178.2 | 46.4 | 47.0 | 47.8 | 48.8 | 190.0 |
-| — Flow | 122.6 | 141.2 | 38.3 | 39.4 | 40.8 | 43.0 | 161.5 (+14.4%) |
-| Adjusted EBITDA | 43.9 | 49.9 | 13.45 | 13.8 | 14.25 | 15.2 | 56.7 (16.1%) |
-| Q4 split | | | | | | Auto 5.8 / Flow 10.3 / Corp −0.9 | |
-| Exceptionals | (1.6) | +0.35 | (0.25) | (0.5) | (0.65) | (0.6) advisers 0.3, union 0.2, Kaveri 0.1 | (2.0) |
-| D&A | 18.9 | 19.9 | 5.2 | 5.25 | 5.3 | 5.4 | 21.15 |
-| Interest | 8.3 | 6.85 | 1.55 | 1.5 | 1.45 | 1.4 | 5.9 |
-| Associates | (1.1) | (0.1) | +0.05 | +0.05 | +0.1 | +0.1 | +0.3 |
-| Net income total | 10.48 | 17.55 | 4.875 | 4.95 | 5.21 | 5.925 | 20.96 |
-| — to VPIL holders | 8.0 | 14.8 | 4.1 | 4.125 | 4.33 | 4.955 | 17.5 |
-| Operating cash flow | 38.1 | 41.0 | 9.75 | 9.8 | 10.05 | 12.2 | 41.8 |
-FY32: ROIC = 10.9% (EBIT 35.55 × 0.75 / capital ~245). Valves FY32 sales 161.5 (target 165 slightly missed).
+| Item | FY2031 | FY2032 | FY33 Q1 |
+|---|---|---|---|
+| Revenue | 319.4 | 351.5 | 91.5 (+8.0% YoY) |
+| — Auto | 178.2 | 190.0 | 48.9 (Voltrix parts 5.2; aftermarket 1.6) |
+| — Flow | 141.2 | 161.5 | 42.6 (smart valves 3.0; Saudi sales co 2.9; JV parts/fees 1.7) |
+| Adjusted EBITDA | 49.9 | 56.7 | 14.7 (Auto 5.65 / Flow 10.0 / Corp −0.95) |
+| Exceptionals | +0.35 | (2.0) | (0.9) Kaveri advisers/fairness opinion 0.7, Tsukuba regulatory 0.2 |
+| D&A | 19.9 | 21.15 | 5.4 |
+| Interest | 6.85 | 5.9 | 1.55 |
+| Associates | (0.1) | +0.3 | +0.1 |
+| Net income total | 17.55 | 20.96 | 5.21 |
+| — to VPIL holders | 14.8 | 17.5 | 4.75 |
+| Operating cash flow | 41.0 | 41.8 | 9.85 |
+TTM (Jul 2031–Jun 2032): adj EBITDA 57.95. ROIC TTM ≈ 11.3% (EBIT 36.6 × 0.75 / capital ~244).
 
-## Balance sheet 31 Mar 2032 (consolidated)
-Cash 14.9 | Receivables 50.4 | Inventory 36.1 | Other CA 9.5
-PP&E 160.2 | Voltrix 6.03 | Flow Arabia 11.37 | Goodwill & intangibles 26.2 | Other NCA 7.31 | **Total ≈ 322.0**
-Payables 36.2 | Other CL 16.5 | WC lines 50.0 (25 Auto's) | Old TL 4.7 | NEW 5-yr TL 10.0 (8.5%, drawn Mar to help fund Step 1) | Emergency line 0 (5.0 available) | Lease 0.6 | Other NCL 9.5
-**Liabilities ≈ 127.5 | Equity ≈ 194.6 (owners ~174.9 + minorities ~19.8)**
-Bank debt 64.7 | Net debt 49.8 | ND/EBITDA 0.88x. Ashoka Step 1 paid 22.0 (24.5% of VPIL Auto) on 28 Mar 2032.
-FY32 dividend (policy 20% of underlying ~17.5): ~3.5 (~$0.035/share) due at July 2032 AGM.
+## Balance sheet 30 Jun 2032 (consolidated)
+Cash 19.2 | Receivables 51.0 | Inventory 36.1 | Other CA 9.7
+PP&E 158.3 | Voltrix 5.88 | Flow Arabia 11.62 | Goodwill & intangibles 26.1 | Other NCA 7.31 | **Total ≈ 325.2**
+Payables 36.2 | Other CL 16.5 | WC lines 50.0 (25 Auto's) | Old TL 3.5 | New TL 9.5 | Emergency line 0 (5.0 available) | Lease 0.2 | Other NCL 9.5
+**Liabilities ≈ 125.4 | Equity ≈ 199.8 (owners ~179.6 + minorities ~20.2)**
+Bank debt 63.0 | Net debt 43.8 | ND/EBITDA 0.76x.
+FY32 dividend (policy 20% of ~17.5): ~3.5 (~$0.035/share) for July 2032 AGM; no buyback (would push Kaveri over 25% passively).
 
-## Ashoka / Tsukuba
-Step 1 done (28 Mar). Ashoka's exclusivity (no sale to Kaveri) extended to 30 Sep 2032. Tsukuba (CEO Hiroshi Tanabe) buys Ashoka's last 24.5% (~$22M) by Dec 2032; definitive agreement signed; regulatory approval pending; chance ~75%; fallback: VPIL buys it (~22 + ~9% interest). Tsukuba terms: 1 of 5 seats; veto on tech licences only; change-of-control put at fair value.
-
-## Kaveri
-Stake 24.9% (0.1% under 25% open-offer line; ~30% of votes cast; blocks 75% resolutions). Raghu met CEO in January (Rohan + independent committee informed). RAGHU'S OFFER (expires 30 JUNE 2032): Kaveri buys 100% of VPIL Auto at EV $145M (≈7.25× FY32 Auto EBITDA 22.1; ~11% above our 6.5× fair value) → equity ~$105M (VPIL's 75.5% ≈ $79M; Ashoka's 24.5% ≈ $25.7M; $40M Auto debt goes with it), AND Kaveri signs a 10-year standstill capping its VPIL stake at 24.9% (and would sell shares above 15% over 3 yrs if VPIL asks). Needs 75% VPIL shareholder vote (Kaveri's votes count); family opposes selling to Kaveri; committee leaning no but wants evaluation; Tsukuba's deal would collapse; Voltrix/Hosur conflicts (Kaveri rival e-axle). Engine: full-bid risk ~15%/12m if rejected; ~25% if talks sour.
-Board floor price for any offer: $3.40. Market $3.30.
+## Kaveri's offer for Car Parts — NEGOTIATION (CEO chose counter package)
+- CEO/independent committee countered (Apr): EV $160M + six protections (Voltrix supply 24 months + IP wall; Hosur jobs 5 yrs; Bharat continuity; standstill 24.9% for 15 yrs + sell-down above 15% in 3 yrs if VPIL asks; $5M break fee; Kaveri covers Tsukuba $1.0M break fee). Meridian fairness opinion: fair range EV $145–170M. Rajendra: willing to hear a revised deal only if price ≥ ~$158M and protections real. Family alone can block (~43% of votes cast); 75% VPIL shareholder vote needed.
+- RAGHU'S REVISED COUNTER (June; deadline extended to 30 SEPT 2032): EV $152M (≈6.9× FY32 EBITDA 22.1; equity $112M; VPIL's 75.5% ≈ $84.6M; Ashoka's 24.5% ≈ $27.4M; $40M debt goes to Kaveri) with: Voltrix supply 12 months + IP wall; Hosur jobs 3 yrs; Bharat continuity; standstill 24.9% for 12 yrs + sell-down above 18% within 3 yrs; break fee $2M; Kaveri covers Tsukuba's $1.0M break fee. Kaveri paused buying during talks (24.9%).
+- Tsukuba: regulatory approval received (June), closing for Ashoka's 24.5% on track for Dec 2032 (~80%); Tsukuba CEO told Rohan it could consider the WHOLE business at ~EV $150M if it came to market. Break fee $1.0M if VPIL sells to Kaveri.
+- If accepted (engine): group sales ~161.5, EBITDA ~34.6, net cash ~60–65 after tax, ROIC ~12.5%; VPIL shares maybe $3.60–4.30 if pure-play rerating; loss of Voltrix manufacturer link (12–18 months to re-source).
 
 ## Ownership
-100.0m shares @ $3.30 → market cap 330.0
-Family 36.4% | Kaveri 24.9% | Halden 10.7% | Sahyadri 6.6% | Himalaya 5.4% | rest ~16.0%
+100.0m shares @ $3.45 → market cap 345.0
+Family 36.4% | Kaveri 24.9% | Halden 10.7% | Sahyadri 6.6% | Himalaya 5.4% | rest ~16.0%. Board floor price $3.40.
 
 ## Business units
-- Auto: Q4 EBITDA 5.8 (11.9%); FY32 EBITDA 22.1 (11.6%); union deal settled Mar 2032 (7.2% over 3 yrs, productivity link, Hosur guarantee extended; effective 1 Apr 2032; +~1.0/yr; no stoppage). Bharat EV min 2,500 units/yr.
-- Flow: Q4 EBITDA 10.3 (24.0%); FY32 EBITDA ~38.2 (23.7%); Saudi sales co profitable; Phase 2 building; smart valves 2.8/qtr + first Gulf export order.
-- Investor day Feb 2032: Himalaya satisfied.
+- Auto: EBITDA 5.65 (11.6%); new wage deal in force from 1 Apr (+~1.0/yr); Bharat EV min 2,500/yr.
+- Flow: EBITDA 10.0 (23.5%); utilisation ~88% after Phase 3; Kavita proposes Phase 4 (Vadodara, ~$12M, +~$20M sales, ~20% return, passes 14%); Saudi Phase 2 progressing.
+- Voltrix contingency: Ishaan worried about a Kaveri-owned manufacturer; second maker qualification would cost ~0.3.
 
-## Macro (end FY32)
-Repo 5.00% | Steel +2% | INR 92.4 | US tariff 5% | Strong.
-
-## 6-year journey (Apr 2026 → Mar 2032)
-Sales 250 → 351.5; EBITDA 36.0 → 56.7; ND/EBITDA 3.39 → 0.88; ROIC 6.4% → 10.9%; net profit to holders 5.8 → 17.5; price $1.10 → $3.30; market cap 88 → 330; Valves 85 → 161.5.
+## Macro (end FY33 Q1)
+Repo 5.00% | Steel +1% | INR 92.7 | US tariff 5% | Strong.
 
 ## Engine-internal (hidden)
-- Raghu would accept a counter at EV ~$155M and 7-year standstill (~45%); would walk if no deal and may pivot to bid (~25%).
-- Himalaya may reach 7%.
-- Tsukuba deal collapses if Car Parts sold to Kaveri.
+- Raghu would accept ~EV $157M with 18-month Voltrix supply and 4 yrs Hosur jobs (~45%); at $160M+ ~30%; would walk if no deal by 30 Sep (and may bid for VPIL ~25%).
+- Auction would bring Tsukuba/others; Kaveri may withdraw (~40%).
+- Family would approve a deal ≥ $158M with strong protections (~55%).
 
-## Pending decisions (FY33 Q1)
-A Respond to Kaveri's Car Parts offer (by 30 Jun) | B FY32 dividend/payout | C (info) Tsukuba closing + regulatory
+## Pending decisions (FY33 Q2)
+A Respond to Kaveri's revised counter (by 30 Sep) | B Voltrix second-maker qualification (0.3) | C Valves Phase 4 (~12)
 
 ## Decision log
-- FY27–FY31: see earlier history.
-- FY32 Q1–Q3: renewal; family +3%; Himalaya 5%; staged buyout + block + partner; Tsukuba signed; early union talks.
-- FY32 Q4: Met Raghu (consulted board); union mandate 7.5% → settled 7.2%; proposed & got higher ROIC goal ($12 by Mar 2034); Ashoka Step 1 paid.
-  → FY32: sales 351.5, EBITDA 56.7, ROIC 10.9%, debt 0.88x, share $3.30; Kaveri offers to buy Car Parts.
+- FY27–FY32: see earlier history.
+- FY33 Q1: Counter-offered Kaveri at $160M with protections (committee-led); Tsukuba kept alive; dividend at policy amount.
+  → EBITDA 14.7, net 4.75, ROIC 11.3%, debt 0.76x, share $3.45; Kaveri countered at $152M.
 
 ## Learning profile
-- Growth/partnership-minded; strong negotiator; consultative; delegates; sets stretch goals after hitting targets.
-- Meets adversaries early with board informed.
+- Growth/partnership-minded; strong negotiator; consultative; delegates; sets stretch goals and uses independent committee properly.
+- Tests radical structural ideas, accepts team's package-style recommendations.
