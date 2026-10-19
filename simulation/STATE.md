@@ -108,7 +108,7 @@ Hurdles: Ashoka approval (49% of Auto; wants fair prices, payment security), aud
 ## Deep Voltrix partnership — CEO chose DEEP; CEO + Nikhil presented (Apr 2028)
 Ashoka (via Auto board): likes revenue; objections: (a) the ~3% Voltrix warrants go to VPIL parent while Auto does the work → wants warrants in Auto or better margin; (b) credit risk → wants VPIL parent guarantee of Voltrix payables to Auto or advance payment; (c) wants capex (1.5) reimbursed if Voltrix exits early.
 Voltrix founders: Leena keen; Ishaan fears dependence. Counter: exclusivity 3 yrs (not 5) + right to second-source if VPIL misses quality/delivery; warrants 2% (not 3%); asks VPIL to commit pro-rata in next round; benchmark pricing review yearly.
-Open points for CEO: warrants location (VPIL vs Auto), payment guarantee, exclusivity 3 vs 5 yrs, warrants 2 vs 3%.
+FINAL (signed Apr 2028, audit committee approved): warrants stay at VPIL — 2.5% (VPIL total ~26.5% once exercised); Auto gets higher price on Voltrix work (~14% margin vs 12%) to satisfy Ashoka; VPIL guarantees Voltrix payables to Auto capped at 1.5; exclusivity 3 yrs with second-source right if VPIL misses quality/delivery KPIs; Voltrix repays Hosur line (1.5) if it exits early; yearly price benchmark; VPIL commits pro-rata in next round (~1.7). Hosur assembly line build ~2 quarters (Auto capex 1.5).
 
 ## Pending (FY29 Q1)
 - GOAL-SETTING DISCUSSION FY29–FY31 (player-led meeting).
