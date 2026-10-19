@@ -88,6 +88,15 @@ Repo 5.75% | INR 87.5 | Steel +1% | US–India trade talks ongoing (≈50% tarif
 - Kaveri after standstill (Nov 2029) may bid if share price < ~$1.60.
 - Aquaflux considering price war in standard valves FY29.
 
+## Goals discussion (Apr 2028) — CEO direction
+1. Valves: grow (smart valves, Flow Arabia) AND fix quality (factory checks). Harish/Kavita quality plan proposed: Quality head + extra QA team, ~0.6/yr. Draft targets: Valves sales ~150 by FY31, margin >= 23%, zero major recalls.
+2. Car Parts: sustain — protect Bharat, margin >= 11%, no big new investment.
+3. Voltrix: CEO asked for details (briefing given). Undecided.
+Meera asked CEO to add the board's condition (ROIC toward 10% by FY31) as an explicit goal — pending.
+
+## Voltrix detail (fictional)
+Bengaluru, founded 2023 by Ishaan Kapoor (CEO) & Dr. Leena Joseph (CTO). Product: e-axle (motor+gearbox+controller) for electric 3-wheelers & small commercial vehicles. Customers: 1 small production order, 2 EV 3-wheeler makers testing, 1 truck-maker trial. Last-12-month revenue ~1.5; loss ~10/yr; cash ~4 → needs ~10 round by FY29 Q2. Last post-money ~45 → VPIL 24% ≈ 10.8 paper (cost 11.92, book 8.32). Gear housings made by VPIL Auto (so Ashoka gets 49% of that profit); potential 3–5/yr parts sales by FY30. Competition: Kaveri in-house e-axle, Chinese imports. Scenarios to 2030: bear 35% (stake ~0–3), base 45% (~10–15), bull 20% (~35+). Round options: pro-rata 2.4 (keep 24%), skip (→~19%), lead with ~5 (→~28%), sell part to an EV fund.
+
 ## Pending (FY29 Q1)
 - GOAL-SETTING DISCUSSION FY29–FY31 (player-led meeting).
 - Then quarterly decisions.
