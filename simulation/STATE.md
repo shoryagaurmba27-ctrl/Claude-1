@@ -4,99 +4,102 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2027 Q3 (1 Oct 2026). Indian FY = Apr–Mar.
+- Current sim date: start of FY2027 Q4 (1 Jan 2027). Indian FY = Apr–Mar.
 - Difficulty: Realistic / Hard
-- CEO tenure: 2 quarters (appointed 1 Apr 2026)
+- CEO tenure: 3 quarters (appointed 1 Apr 2026)
 - Mandate: restore profitability & deleverage within 8 quarters, then grow
-- Reporting currency: USD m (INR/USD 85.6 at end Q2)
+- Reporting currency: USD m (INR/USD 86.0 at end Q3)
 - Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen.
+- Next 5-quarter State Report due after FY28 Q1.
 
 ## Company
 Vardhan Precision Industries Ltd (VPIL) — Pune, India. Listed. Founded 1987 by Rajendra Vardhan.
-Employees ~3,140 (60 Hosur workers left via voluntary exit in Q1–Q2). Two business units + 24% stake in Voltrix.
+Employees ~3,120. Two business units + 24% stake in Voltrix.
 
 ## Income statement history (USD m)
-| Item | FY2026 | FY27 Q1 | FY27 Q2 |
-|---|---|---|---|
-| Revenue | 250.0 | 60.0 | 62.5 (−0.8% YoY vs 63.0) |
-| — Auto | 165.0 | 38.5 | 40.5 |
-| — Flow | 85.0 | 21.5 | 22.0 |
-| Adjusted EBITDA | 36.0 | 7.7 | 8.65 (Auto 4.4 / Flow 4.95 / Corp −0.7) |
-| Exceptionals | — | (12.0) | +11.0 (land gain 6.0, Hosur provision reversal 3.0, scrap sale 2.0) |
-| D&A | 15.0 | 3.75 | 3.8 |
-| Interest | 13.3 | 3.3 | 3.35 |
-| PBT | 7.7 | (11.35) | 12.5 |
-| Tax | (1.9) | +2.86 | (3.15) |
-| Net income | 5.8 | (8.5) | 9.35 |
-| Operating cash flow | 14.8 | 5.1 | 5.2 |
-| Capex | 17.5 | 7.0 | 5.0 (3.0 maint + 2.0 Valves ph1) |
-| Other investing | — | — | +8.5 land, −10.0 Voltrix |
-| Debt net | 0 | −3.75 | +2.0 (−3.75 amort, −4.25 land prepay, +10.0 NBFC) |
-| Dividend | (2.2) | — | (0.4) token |
-| Cash change | −4.9 | −5.65 | +0.3 |
-FY26 quarterly EBITDA (for TTM): Q1 9.6, Q2 9.3, Q3 9.0, Q4 8.1.
-TTM adj. EBITDA after Q2 = 33.45. TTM interest ≈ 13.3.
-Covenant definition: exceptional items excluded from EBITDA.
+| Item | FY2026 | FY27 Q1 | FY27 Q2 | FY27 Q3 |
+|---|---|---|---|---|
+| Revenue | 250.0 | 60.0 | 62.5 | 63.2 (+2.8% YoY vs 61.5) |
+| — Auto | 165.0 | 38.5 | 40.5 | 40.2 |
+| — Flow | 85.0 | 21.5 | 22.0 | 23.0 (incl. ~1.0 US pre-tariff buying) |
+| Adjusted EBITDA | 36.0 | 7.7 | 8.65 | 8.65 (Auto 4.1 / Flow 5.3 / Corp −0.75) |
+| Exceptionals | — | (12.0) | +11.0 | (1.6) (Hosur shrink 1.0, adviser 0.4, NBFC prepay 0.2) |
+| D&A | 15.0 | 3.75 | 3.8 | 3.85 |
+| Interest | 13.3 | 3.3 | 3.35 | 3.3 |
+| Voltrix share of loss | — | — | — | (0.6) |
+| Net income | 5.8 | (8.5) | 9.35 | (0.7) |
+| Operating cash flow | 14.8 | 5.1 | 5.2 | 2.05 |
+| Capex | 17.5 | 7.0 | 5.0 | 3.0 |
+| Equity raised (net) | — | — | — | +16.575 (QIP 20.0m sh @ $0.85) |
+| Debt net | 0 | −3.75 | +2.0 | −13.75 (NBFC 10 repaid, TL 3.75) |
+| Cash change | −4.9 | −5.65 | +0.3 | +1.875 |
+FY26 quarterly EBITDA: 9.6 / 9.3 / 9.0 / 8.1. FY26 quarterly interest ≈ 3.325 each.
+TTM adj. EBITDA after Q3 = 33.1. TTM interest ≈ 13.275.
 
-## Balance sheet 30 Sep 2026
-Cash 12.65 | Receivables 49.6 | Inventory 41.8 | Other CA 8.4
-PP&E 166.95 | Voltrix stake 10.0 | Goodwill 22.0 | Other NCA (DTA) 7.31 | **Total ≈ 318.7**
-Payables 34.0 | Other CL 14.0 | WC lines 45.0 (renewed Sep, +0.75%) | Term loan 48.25 | NBFC loan 10.0 (13%, 2-yr) | NCDs 35.0 | Other NCL 8.0
-**Total liabilities 194.25 | Equity 124.45**
-Total debt 138.25 | Net debt 125.6 | ND/EBITDA 3.75x (AT LIMIT — passes only by contract rounding) | EBITDA/interest 2.51x (limit 2.5)
-Bank watch list: no new debt or capex >5.0 without lender consent; dividend blocked until ND/EBITDA < 3.25.
-Expected Q3 interest ≈ 3.7 (NBFC + WC margin) → interest-cover breach likely (~55%) unless EBITDA rises.
+## Balance sheet 31 Dec 2026
+Cash 14.53 | Receivables 50.8 | Inventory 41.8 | Other CA 8.9
+PP&E 166.1 | Voltrix stake 9.4 | Goodwill 22.0 | Other NCA 7.31 | **Total ≈ 320.8**
+Payables 34.0 | Other CL 14.0 | WC lines 45.0 | Term loan 44.5 | NCDs 35.0 | Other NCL 8.0
+**Total liabilities 180.5 | Equity 140.3**
+Total debt 124.5 | Net debt 110.0 | ND/EBITDA 3.32x (limit 3.75) | EBITDA/interest 2.49x (limit 2.5 → TECHNICAL BREACH)
+Bank response (Jan): waiver granted; interest-cover limit reset to 2.25x for 4 quarters; fee 0.3 (book in Q4). Dividend still blocked until ND/EBITDA < 3.25.
+Lease (Valves phase 2): 8.0 machines, 5 yrs, ~11%, ~2.1/yr payments, starts Q4; excluded from bank covenants (old accounting definitions).
 
 ## Business units
-| BU | Q2 rev | Q2 adj EBITDA | Notes |
+| BU | Q3 rev | Q3 adj EBITDA | Notes |
 |---|---|---|---|
-| Auto | 40.5 | 4.4 (10.9%) | Hosur closure CANCELLED for now. Union deal signed: +9% wages, 3 yrs (≈ +1.2/yr over budget, from Oct). Savings plan of 6.0/yr gone. |
-| Flow | 22.0 | 4.95 (22.5%) | Phase 1 paid (6.0), +15% capacity from Q4. Phase 2 (8.0) condition met but needs lender consent. US 15% tariff from Q4 hits ~10% of Flow revenue. |
+| Auto | 40.2 | 4.1 (10.2%) | Wage +9% from Oct. Hosur shrinking: 2 lines → Chakan over 3 qtrs, 120 voluntary exits, total cost 3.0 (1.0 spent), saves ~2.5/yr from FY28. Sale study leaked; 2 senior engineers quit. |
+| Flow | 23.0 | 5.3 (23%) | Phase 1 +15% capacity live from Q4. Phase 2 leased, live FY28 Q1. US tariff from Jan: US prices +7%, lost 1 US distributor to Nordvalve (~1.5/yr). Won Saudi desalination order 3.0 (deliver Q4–FY28 Q1). |
 
-## Voltrix (24% stake, cost 10.0)
-EV e-axle startup. VPIL beat Kaveri (price rose: 24% not 26%). Nikhil on Voltrix board. Supply deal: VPIL makes gear housings; first orders FY28. Burning cash; may need more funding in ~12–18 months.
+## Bharat Motors award (Q3): SPLIT
+VPIL keeps ~60% of next-gen platform (≈30/yr from FY28, ICE + hybrid parts). Kaveri won EV variant parts. Needs ~3.0 tooling investment in Q4–FY28 Q1. Current contract (38/yr) runs to end FY28 then steps down.
+
+## Voltrix (24%, carrying 9.4)
+Prototype passed customer tests. Burning ~2.5/qtr. Will ask for ~8.0 new round around FY28 Q1. VPIL's share needed to avoid dilution ≈ 1.9.
 
 ## Valuation & ownership
-80.0m shares @ $0.93 → equity 74.4; EV 200.0
-Family 38% | Institutions 41% (Halden 9%, Sahyadri 7%) | Float 21% | CEO 0.4m shares + 2.0m options @1.20
+100.0m shares @ $0.94 → equity 94.0; EV 204.0
+Family 30.4% | Halden 10.7% | Sahyadri ~5.6% | Other institutions ~37% | Float rest | CEO 0.4m shares + 2.0m options @1.20
 
 ## Executives
-- Meera (CFO): opposed debt-funded Voltrix; overruled; loyalty down — may resign if overruled again on debt.
-- Harish (COO): relieved by Hosur reversal; loyalty up.
-- Nikhil (Strategy): thrilled; on Voltrix board; ambition rising.
-- Kavita (Flow): wants phase 2 now.
-- Sanjay (Auto): stable.
-- Farah (HR): union peace for 3 yrs.
-- Sunita (Sales): Bharat bid submitted (fair price; Kaveri bid ~8% cheaper).
+- Meera (CFO): loyal again (veto/sign-off on any new debt). Turned down recruiter. Negotiated covenant waiver.
+- Harish (COO): accepts gradual Hosur shrink.
+- Nikhil (Strategy): on Voltrix board; pushing for Voltrix follow-on.
+- Kavita (Flow): happy; running Saudi order & expansion.
+- Sanjay (Auto): anxious about sale study; team morale shaky.
+- Sunita (Sales): grumbles about profit-based bonus; dropped low-margin orders.
+- Farah (HR): union accepted voluntary exits.
 
-## Board
-Family: Rajendra pleased (dividend kept alive, Hosur saved); Aditya smug ("told you so"). Dev Malhotra (indep.): CEO credibility hit by closure U-turn. Halden: sent formal letter (see below).
-Halden letter demands: (1) written capital-allocation policy, (2) independent strategic review of Auto incl. possible sale, (3) no new debt. Threat: public campaign / board-seat push at next AGM.
+## Governance / board
+- New rule: new debt needs CFO + audit-committee sign-off.
+- Bonuses now based on EBITDA & return on capital (from FY28 cycle).
+- Halden (Thomas): satisfied after private talks; no public fight for now.
+- Family diluted 38% → 30.4%. Aditya furious, Rajendra uneasy, Priya supportive.
 
 ## Competitors
-- Kaveri: lost Voltrix; launched own e-axle program, poached 2 Voltrix engineers; bid ~8% under VPIL for Bharat.
-- Trident: lenders hired bankers to sell it.
-- Hengli steady; Nordvalve quiet; Aquaflux strong in water tenders.
+- Kaveri: won Bharat EV parts; own e-axle program advancing.
+- Trident: PE firm Ashoka Peak Partners in exclusive talks to buy it.
+- Nordvalve: took a VPIL US distributor. Aquaflux: strong in tenders. Hengli steady.
 
-## Macro (end Q2)
-RBI cut repo to 6.00% (Aug) | Steel flat | INR 85.6 | US 15% tariff on some Indian engineering goods from Q4 | Water spending flowing.
+## Macro (end Q3)
+Repo 6.00% | Steel −2% QoQ | INR 86.0 | US 15% tariff live from 1 Jan 2027 | Water spending strong.
 
 ## Engine-internal (hidden)
-- Bharat award in Q3: VPIL win-full 45% / split 35% / lose 20%.
-- Voltrix will ask for more money within ~4–6 quarters.
-- Meera has been contacted by a recruiter.
-- Halden will go public if no credible response by end Q3.
+- Aditya quietly sounded out by Kaveri about buying part of the family's stake.
+- Auto sale study (due Q4) will show: interest from Ashoka Peak (PE) and Kaveri; indicative Auto value 95–125 EV.
+- Auto engineers attrition rises if sale uncertainty lasts >2 more quarters.
 
-## Pending decisions (Q3)
-A Respond to Halden | B Fix covenant headroom (equity raise / sale-leaseback / cost cuts / other) | C Valves phase 2 | D Keep Meera | E US tariff response for Flow | F Long-term plan for Auto/Hosur | G Bonus incentives (still revenue-based)
+## Pending decisions (Q4)
+A Auto study outcome (arrives Q4) | B Use of 14.5 cash | C Family/Aditya relations | D Bharat tooling 3.0 | E Auto staff retention | F Voltrix next round prep
 
 ## Decision log
-- FY27 Q1: Cash raise, inventory audit, Hosur closure, Flow expansion. → Net loss −8.5, strike, covenants near limit, share −12%.
-- FY27 Q2: Land sale A (8.5); token dividend 0.4; Hosur closure cancelled; told Bharat plant stays + fair bid; scrap sale; bought 24% Voltrix for 10.0 with NBFC debt.
-  → Reported profit +9.35 (mostly one-offs), labour peace, Bharat reassured, won Voltrix over Kaveri; but covenants AT limit, bank watch list, Halden letter, CFO unhappy, credibility hit from U-turn.
+- FY27 Q1: Cash raise, inventory audit, Hosur closure, Flow expansion. → Net loss −8.5, strike, covenants near limit.
+- FY27 Q2: Land sale A; token dividend; Hosur cancelled; Bharat reassured + fair bid; scrap sale; Voltrix 24% with NBFC debt. → Profit from one-offs, covenants at limit, Halden letter, CFO upset.
+- FY27 Q3: Private talks with Halden; equity raise 17.0 (QIP); Valves phase 2 via lease; CFO debt veto; US tariff: price + absorb + shift markets; Hosur shrink slowly + Auto sale study; profit-based bonuses.
+  → Debt down to 3.32x, Halden calmed, CFO retained; but interest-cover technical breach (waived), Bharat split 60/40, sale-study leak hurt Auto morale, family diluted & angry.
 
 ## Learning profile
-- Bold, growth-minded; willing to use debt even when covenants are tight.
-- Reverses decisions under pressure (Hosur) → board sees inconsistency.
-- Avoids conflict with family (kept a dividend) and unions.
-- Still hasn't fixed incentives.
+- Bold; learns from mistakes (moved from debt to equity after warnings).
+- Prefers negotiation in private over public conflict.
+- Tends to say yes to all options ("all approved") — risks spreading focus.
+- Sometimes sends mixed signals (told Bharat plant stays, then studies sale).
