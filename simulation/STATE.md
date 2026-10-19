@@ -80,8 +80,16 @@ Repo 5.25% | Steel +6% | INR 90.0 | US tariff 5% | Steady.
 - Board compensation committee will weigh CEO renewal on ROIC ≥ ~9.5% and Kaveri outcome.
 - Nordvalve plans to enter Indian specialty valves via Aquaflux's tender teams in 2031.
 
-## Pending decisions (FY31 Q2)
-A Last steps before AGM (e.g., add an independent director with water-utility experience; shareholder pledges) | B Use of 11.4 cash | C Valves sales retention vs Nordvalve poaching (0.2)
+## Pending decisions (FY31 Q2) — exec meeting held Jul 2030; time paused
+DECIDED ("approve all"): A add independent director Mrs. Sudha Narayanan (ex-head of a state water utility) before 24 Jul AGM + Rohan counts votes carefully (no written pacts). B Fund Phase 3 remaining ~3.5 from cash; keep ~8 cushion; repay term loan early in Q4 once funded; BUY SensAqua Labs (sensor company; sales ~3, EBITDA ~0.6; price ~6.0 = ~4.0 upfront + ~2.0 earn-out if key engineers stay 2 yrs; return ~15% incl. ~1.0/yr R&D saving). C Retention bonuses for ~10 key Valves sales managers (~0.2/yr, paid over 2 yrs) + 2–3 promotions.
+Not yet run: Q18 results. CEO asked for Saudi business details first (given below).
+
+## Saudi business details (Flow Arabia, given Jul 2030)
+Partner: Al-Rimal Industrial Group (chair Faisal Al-Rimal). JV CEO: Vikram Joshi (VPIL appointee, ex-Vadodara production head). Plant: Dammam; opened Sept 2029; ~140 staff (~60% Saudi nationals, localisation quota). 50/50; deadlock clause; GCC-only licence (ends with JV); VPIL invested 6.0 total (book 5.5).
+JV run-rate (100% basis, engine est.): sales ~24/yr (~6.0/qtr), utilisation ~45% of ~30 capacity, gross margin ~26%, net profit ~0.8/yr (VPIL share ~0.4/yr). Customers: 2 EPC contractors for state water/desalination; first project ~8 (delivering), second project ~11 decision Oct 2030 (VPIL has first right). Needs performance bank guarantee ~1.1 (VPIL counter-guarantee ~0.55 if asked). Payment terms 90–120 days.
+VPIL income from Saudi (per qtr): parts from Vadodara ~0.85 sales (~25% margin ≈0.2) + royalty 2.5% & mgmt fee 1.5% ≈0.15 (both inside 'Saudi parts' 1.0 in Flow revenue) + 50% JV profit ~0.1 → ≈0.45/qtr (~1.8/yr). Yr-3 target (Sept 2032) 4–5/yr: bear ~2.5 / base ~4.5 / bull ~6.5.
+Risks: customer concentration, slow payment, Al-Rimal's Nordvalve contacts, deadlock, IP leakage, Chinese/Korean competition. Upside: GCC licence (UAE/Kuwait/Qatar), service centre, smart valves for desalination, Phase 2 expansion (~12 build; JV funds half; to be studied, would need 14% test).
+Options offered: keep steady / pre-approve counter-guarantee up to 0.55 for second project / study Phase 2 (~0.1).
 
 ## Decision log
 - FY27–FY29: see earlier history.
