@@ -78,6 +78,12 @@ Repo 6.00% | Steel +3% | INR 87.1 | US tariff live; US–India trade deal talks 
 - Ashoka closing risk: ~15% chance slips into Q4 (regulatory/paperwork) → bridge must be drawn.
 - Voltrix samples: ~30% chance of quality rework.
 
+## Exec meeting (4 Oct 2027) — decisions so far
+- Valves Step 1 (fill existing capacity, target ~110 rev / ~25 EBITDA next 12m) APPROVED.
+- Rohan to start ~2-month due diligence on Saudi 50/50 JV partner (VPIL share 6.0; offer open ~6 months). No money committed.
+- Valves plan steps: 2 Saudi JV (6.0), 3 smart valves (~1.5/yr R&D), 4 big govt tenders (needs bank guarantees).
+- Voltrix sample issues: gear-housing machining tolerances; considering lending Auto engineers (needs service agreement because Ashoka will own 49% of Auto).
+
 ## Pending decisions (FY28 Q3)
 A Kaveri board-seat request | B Steel suppliers / cash-in-advance | C Use of Ashoka 29.0 | D Very low cash | E Flow next growth | F Dividend policy going forward
 
