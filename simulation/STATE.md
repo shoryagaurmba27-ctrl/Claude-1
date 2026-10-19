@@ -4,67 +4,68 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2035 Q2 (1 Jul 2034). Indian FY = Apr–Mar.
+- Current sim date: start of FY2035 Q3 (1 Oct 2034). Indian FY = Apr–Mar.
 - Difficulty: Realistic / Hard
-- CEO tenure: 33 quarters (appointed 1 Apr 2026). Contract to 31 Mar 2037. NEW BALANCED GOALS (approved May 2034): by 31 Mar 2037 — sales ≥ $320M, operating profit ≥ $68M, ROIC ≥ $15/100 (CEO privately aims stretch: $350M / $75M / $16). Bonus up to 150%.
-- Reporting currency: USD m (INR/USD 95.0)
-- Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations, delegating detail; prefers LOW dividends / reinvestment; usually approves the engine's quick view in full ("Approved all these").
-- State Reports: #1–#6 delivered. Next (#7) due after FY35 Q2 (next turn).
+- CEO tenure: 34 quarters (8.5 years; appointed 1 Apr 2026). Contract to 31 Mar 2037. Balanced goals by 31 Mar 2037: sales ≥ $320M, operating profit ≥ $68M, ROIC ≥ $15/100 (CEO privately aims $350M/$75M/$16). Bonus up to 150%.
+- Reporting currency: USD m (INR/USD 95.3)
+- Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations, delegating detail; prefers LOW dividends / reinvestment; usually approves the engine's quick view in full ("Approved all 3").
+- State Reports: #1–#7 delivered (#7 after FY35 Q2). Next (#8) due after FY36 Q3.
 
 ## Structure
-VPIL = listed valves company: Valves (100%; SensAqua, AquaSense, Hydrokraft, Saudi sales co 80/20, UAE hub) + corporate. Holdings: Flow Arabia JV 50/50 (capacity $50M), Voltrix ~22.9% (book 8.85). Car Parts sold to Kaveri Mar 2033.
-Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan, Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~2,400.
+VPIL = listed valves company: Valves (100%; SensAqua, AquaSense, Hydrokraft, AmeriFlow [bought 15 Sep 2034], Saudi sales co 80/20, UAE hub) + corporate. Holdings: Flow Arabia JV 50/50, Voltrix ~22.9% (book 8.75; reached EBITDA breakeven in Q2). Car Parts sold to Kaveri Mar 2033.
+Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan, Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~2,550.
 
 ## Income statement — continuing (USD m)
-| Item | FY34 Q2 | Q3 | Q4 | FY35 Q1 |
+| Item | FY34 Q3 | Q4 | FY35 Q1 | FY35 Q2 |
 |---|---|---|---|---|
-| Revenue (Valves) | 53.2 | 56.4 | 69.0 | 69.6 (+45% reported; organic +11%) |
-| Adj. EBITDA | 11.8 | 12.3 | 14.4 | 15.1 (Valves 15.95 [organic 12.8 / AquaSense 1.25 / Hydrokraft 1.9] / corporate −0.85) |
-| Exceptionals | (1.0) | (1.5) | (1.5) | (1.0) Prime 0.6, integration 0.3, loan fees 0.1 |
-| D&A | 4.1 | 4.4 | 4.75 | 4.9 |
-| Net interest | +0.6 | +0.4 | −0.1 | −0.3 |
-| Associates | +0.25 | +0.3 | +0.35 | +0.45 |
-| Net income to holders | 5.64 | 5.3 | 6.27 | 6.97 |
-FY34: sales 226.5; EBITDA 49.35; net 22.5. TTM (Jul 2033–Jun 2034): continuing EBITDA 53.6. ROIC TTM ≈ 13.6% (EBIT 35.45 × 0.75 / capital ~196). Goal $15 by Mar 2037.
-Quarterly: smart valves 5.2; AquaSense 5.0; Hydrokraft 11.8; Saudi sales co 4.9; UAE hub 1.2. Nordvalve stopped price war and raised prices ~3% (Aquaflux integration pains).
+| Revenue (Valves) | 56.4 | 69.0 | 69.6 | 73.4 (+38% reported; organic +12%; AmeriFlow half-month 1.7) |
+| Adj. EBITDA | 12.3 | 14.4 | 15.1 | 16.0 (Valves 16.85 [organic 13.4 / AquaSense 1.35 / Hydrokraft 2.0 / AmeriFlow 0.1] / corporate −0.85) |
+| Exceptionals | (1.5) | (1.5) | (1.0) | +2.75 net (gain on Rajkot site sale +3.8; AmeriFlow 0.5; Prime 0.4; loan prepay fee 0.15) |
+| D&A | 4.4 | 4.75 | 4.9 | 5.0 |
+| Net interest | +0.4 | −0.1 | −0.3 | −0.1 |
+| Associates | +0.3 | +0.35 | +0.45 | +0.55 |
+| Net income to holders | 5.3 | 6.27 | 6.97 | 10.62 (underlying ~7.77) |
+TTM (Oct 2033–Sep 2034): Valves sales 268.4; continuing EBITDA 57.8; underlying net to holders ~26.3 (EPS ~$0.277 on 95M shares). ROIC TTM ≈ 13.8% (EBIT 38.75 × 0.75 / capital ~211). Goal $15 by Mar 2037.
+Quarterly: smart valves 5.4; AquaSense 5.2; Hydrokraft 12.0; Saudi sales co 5.1; UAE hub 1.6; AmeriFlow half-month 1.7.
 
-## Balance sheet 30 Jun 2034 (continuing)
-Cash 57.9 | Receivables 42.0 | Inventory 25.3 | Other CA 6.3
-PP&E 71.25 (Phase 5 started: ~4.5 of 14 spent) | Voltrix 8.85 | Flow Arabia 14.6 | Goodwill & intangibles 70.35 | Other NCA 3.9 | **Total ≈ 300.45**
-Payables 29.2 | Other CL 11.45 | WC lines 25.0 | NEW 5-yr term loan 15.0 (8.0%, drawn May) | Other NCL 11.95 (incl. deferred acquisition payments ~5.9)
-**Liabilities ≈ 93.35 | Equity ≈ 207.1**
-Net cash ≈ 17.9 (cash beat forecast; loan arguably not needed; prepayment option). 'Use it or return it' deadline Dec 2034: uncommitted ≈ $25–30M after Phase 5 remaining ~9.5 and a $15M cushion.
-Ordinary dividend (policy 20% of ~22.5 = ~4.5; ~$0.047/share) for July AGM; paid Aug.
-Hydrokraft new building complete (June); old Rajkot site sale (~$6.3M) closes early July. Rajkot utilisation ~82% after move; Vadodara ~85%.
+## Balance sheet 30 Sep 2034 (continuing)
+Cash 33.85 | Receivables 48.0 | Inventory 29.6 | Other CA 5.75
+PP&E 71.45 (Phase 5 ~8 of 14 spent) | Voltrix 8.75 | Flow Arabia 15.25 | Goodwill & intangibles 79.95 | Other NCA 3.9 | **Total ≈ 296.5**
+Payables 33.0 | Other CL 12.35 | WC lines 25.0 | Term loan 0 (repaid early, $15M) | Other NCL 12.95 (deferred acquisition payments ~6.8)
+**Liabilities ≈ 83.3 | Equity ≈ 213.2**
+Net cash ≈ 8.85. Cash $33.85M vs Meera's cushion ≥ $15M.
+Dividend paid Aug: $4.5M ($0.047/share). 'Use it or return it' policy SATISFIED: loan repaid (15), AmeriFlow (16.5), Phase 5 committed; no special dividend needed.
 
-## Capacity fixes status
-Sensor line #2 live (June). Field engineers 30 hired (service response 7 days). Safety stock built. Standard-valve move to Rajkot ~60% done. Phase 5 under construction (live ~Q2 FY36).
+## AmeriFlow Distributors (Ohio) — closed 15 Sep 2034
+Valve distributor; ~120 staff; sales ~40; EBITDA ~3.2; negotiated $16.5M (asked 18; $1.0M earn-out inside). Return yr1 ~$12, yr3 ~$19 (avg ~$15–16). Risk: two existing US distributors upset (one dropped our line, ~$2M/yr). 
+
+## Capacity
+Vadodara ~85%; Rajkot ~90% (standard-valve move done); sensor lines OK; Phase 5 live ~Q2 FY36; service response 7 days.
 
 ## Kaveri / ownership
-Kaveri agreed (65% case) to sell in BLOCKS to long-term holders at ≥$4.40: first block 1.95M shares at $4.50 (Himalaya +1.0M, Sahyadri +0.5M, new Meru Pension Trust 0.45M). Kaveri now 17.95M = 18.9%; must reach ≤15% by Mar 2037 if VPIL asks (VPIL asked).
-95.0M shares @ $4.65 → market cap 441.8 (EV ≈ 424 → ~7.9× TTM EBITDA)
-Family 38.3% | Kaveri 18.9% | Halden 11.3% | Sahyadri 7.5% | Himalaya 6.7% | Meru 0.5% | rest ~16.8%.
-Board floor price for any offer: $4.90 (to confirm).
+Second block sold Aug: 1.9M shares at $4.62 (Himalaya +0.9M, Meru +0.5M, new Sundaram Long-Term Fund 0.5M). Kaveri 16.05M = 16.9%; third block expected by Mar 2035 to reach 15% (60%).
+95.0M shares @ $4.85 → market cap 460.8 (EV ≈ 452 → ~7.8× TTM EBITDA)
+Family 38.3% | Kaveri 16.9% | Halden 11.3% | Sahyadri 7.5% | Himalaya 7.7% | Meru 1.0% | Sundaram 0.5% | rest ~16.8%.
+Board floor price for any offer: $5.20 (to confirm).
 
-## Succession
-Kavita Menon President & COO + exec director; ran Q4 results call successfully; Himalaya praised. Fallback: Arvind Rao. Board to choose successor-designate by ~2035–36.
+## Succession (CEO chose Option 2)
+Board will NAME KAVITA CEO-DESIGNATE IN MARCH 2036 (as asked), handover on/after 1 Apr 2037 (end of current contract). Fallback: Arvind Rao. CEO's own post-2037 role undecided (executive chair / non-exec chair / leave).
 
 ## Macro
-Repo 4.75% (cut) | Steel flat | INR 95.0 | US tariff 5% | Strong monsoon.
+Repo 4.75% | Steel flat | INR 95.3 | US tariff 5% | Strong.
 
 ## Engine-internal (hidden)
-- Kaveri will sell remaining excess over 15% in 2 more blocks if price ≥$4.50 (~60%).
-- US demand rebuilding (12% of sales); AmeriFlow Distributors (Ohio; sales ~$40M; EBITDA ~$3.2M; price ~$18M) is for sale.
-- Nordvalve may retaliate again in 2035; bid for VPIL ~8%/12m.
-- Board wants successor-designate decision by Mar 2036.
+- Europe opportunity: Nordik Armaturen (Germany; sales ~60; EBITDA ~7; price ~60); yr1 return ~$10, yr3 ~$16; integration risk high after 3 deals in 18 months.
+- Nordvalve may resume price war in 2035 (~35%).
+- Bid for VPIL ~8%/12m.
 
-## Pending decisions (FY35 Q2)
-A Cash policy before Dec 2034 deadline (repay loan / special dividend / invest / buy back Kaveri block) | B US distributor acquisition (AmeriFlow ~$18M) | C Succession timeline
+## Pending decisions (FY35 Q3)
+A Capital allocation policy from 2035 | B Europe acquisition (Nordik ~60) vs digest first | C Your post-2037 role (chair?) and succession handover plan
 
 ## Decision log
 - FY27–FY34: see earlier history.
-- FY35 Q1: Approved quick view: $15M loan, ask Kaveri to sell in blocks, Balanced goals.
-  → Sales 69.6, EBITDA 15.1, ROIC 13.6%, net cash ~18, share $4.65; Kaveri 18.9%.
+- FY35 Q2: Approved all 3: repaid $15M loan; bought AmeriFlow ($16.5M); CEO-designate to be named March 2036.
+  → Sales 73.4, EBITDA 16.0, ROIC 13.8%, net cash ~9, share $4.85; Kaveri 16.9%.
 
 ## Learning profile
 - Growth/partnership-minded; strong negotiator; consultative; delegates; invests aggressively with low dividends; trusts engine recommendations.
