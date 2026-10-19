@@ -4,91 +4,92 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2031 Q1 (1 Apr 2030). Indian FY = Apr–Mar.
+- Current sim date: start of FY2031 Q2 (1 Jul 2030). Indian FY = Apr–Mar.
 - Difficulty: Realistic / Hard
-- CEO tenure: 16 quarters (appointed 1 Apr 2026). Contract to Mar 2031 (4 quarters left). Board KPI: ROIC ~10% by FY31 (part of CEO bonus).
-- Reporting currency: USD m (INR/USD 89.6)
-- Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations, and delegating detail to the team. Accepts "end meeting"/"execute" to apply suggested defaults.
+- CEO tenure: 17 quarters (appointed 1 Apr 2026). Contract to Mar 2031 (3 quarters left). Board KPI: ROIC ~10% by FY31 (part of CEO bonus). Renewal talks expected after Q2 results.
+- Reporting currency: USD m (INR/USD 90.0)
+- Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations, and delegating detail to the team. Says "approve all"/"execute"/"end meeting" to accept suggested defaults (engine states its assumptions).
 - State Reports: #1 after FY28 Q1; #2 after FY29 Q1; #3 after FY30 Q2. Next (#4) due after FY31 Q3.
-- Correction: earlier state said TTM Jan–Dec 2029 revenue ~288.0; correct value was 286.0 (70.3+72.0+73.4+70.3). No other figures affected.
 
 ## Company
 Vardhan Precision Industries Ltd (VPIL) — Pune, India. Listed. Founded 1987.
-Employees ~3,140. Units: VPIL Auto (51%; Ashoka 49%), Flow (100%), Flow Arabia JV (50%), Voltrix (~26.5%).
+Employees ~3,150. Units: VPIL Auto (51%; Ashoka 49%), Flow (100%), Flow Arabia JV (50%), Voltrix (~20.5% after partial sale).
 
 ## Goals FY29–FY31
-- Valves: sales ~150 by FY31 (stretch; consolidated excl. Saudi JV; Kavita realistic 135–140; FY30 actual 122.6); margin ≥23%; zero major recalls.
+- Valves: sales ~150 by FY31 (stretch; FY30 actual 122.6; Q1 run-rate ~134/yr); margin ≥23%; zero major recalls.
 - Car Parts: sustain; Bharat; margin ≥11.5%.
 - Voltrix: deep manufacturing partner.
 - PROFIT PLAN: ROIC ~10% by FY31; EBITDA ~50 by FY31; 14% hurdle for new projects.
 
 ## Income statement history (USD m)
-| Item | FY2026 | FY2027 | FY2028 | FY2029 | FY30 Q1 | Q2 | Q3 | Q4 | FY2030 |
-|---|---|---|---|---|---|---|---|---|---|
-| Revenue | 250.0 | 249.2 | 266.1 | 272.4 | 70.3 | 72.0 | 73.4 | 75.2 | 290.9 (+6.8%) |
-| — Auto | 165.0 | 158.7 | 158.6 | 159.1 | 41.3 | 41.8 | 42.4 | 42.8 | 168.3 |
-| — Flow | 85.0 | 90.5 | 107.5 | 113.3 | 29.0 | 30.2 | 31.0 | 32.4 | 122.6 (+8.2%) |
-| Adjusted EBITDA | 36.0 | 33.55 | 38.1 | 37.95 | 10.3 | 10.95 | 11.05 | 11.6 | 43.9 (15.1%) |
-| Q4 split | | | | | | | | Auto 4.8 / Flow 7.65 / Corp −0.85 | |
-| Exceptionals | — | (4.4) | (3.5) | (1.25) | (0.6) | (0.45) | (0.3) | (0.25) Kaveri-related advisers | (1.6) |
-| D&A | 15.0 | 15.3 | 17.35 | 18.1 | 4.65 | 4.7 | 4.75 | 4.8 | 18.9 |
-| Interest | 13.3 | 13.1 | 11.85 | 9.57 | 2.25 | 2.15 | 2.05 | 1.85 | 8.3 |
-| Associates | — | (1.2) | (2.5) | (2.45) | (0.45) | (0.3) | (0.2) | (0.15) | (1.1) |
-| Net income total | 5.8 | (0.75) | 1.52 | 4.46 | 1.75 | 2.51 | 2.81 | 3.41 | 10.48 |
-| — to VPIL holders | 5.8 | (0.75) | ~1.1 | 3.43 | 1.19 | 1.87 | 2.19 | 2.75 | 8.0 |
-| Operating cash flow | 14.8 | 16.25 | 15.35 | 28.5 | 8.2 | 10.2 | 9.3 | 10.4 (incl. +2.0 WC release) | 38.1 |
-ROIC FY30 ≈ 7.5% (EBIT 25.0 × 0.75 / capital ~249). Target 10% by FY31. Engine base case for Mar 2031 ≈ 8.3–8.8% (EBITDA ~48); gap ~1.5 points.
-Lean run-rate ~2.8/yr.
+| Item | FY2026 | FY2027 | FY2028 | FY2029 | FY2030 | FY31 Q1 |
+|---|---|---|---|---|---|---|
+| Revenue | 250.0 | 249.2 | 266.1 | 272.4 | 290.9 | 77.1 (+9.7% YoY) |
+| — Auto | 165.0 | 158.7 | 158.6 | 159.1 | 168.3 | 43.5 (Voltrix parts 3.0, aftermarket 1.0) |
+| — Flow | 85.0 | 90.5 | 107.5 | 113.3 | 122.6 | 33.6 (smart valves 1.0, Saudi parts 1.0; utilisation ~95%) |
+| Adjusted EBITDA | 36.0 | 33.55 | 38.1 | 37.95 | 43.9 | 11.9 (Auto 4.75 / Flow 8.0 / Corp −0.85) |
+| Exceptionals | — | (4.4) | (3.5) | (1.25) | (1.6) | +1.05 net (campaign 0.3, CCI note 0.1; gain on Voltrix sale +1.45) |
+| D&A | 15.0 | 15.3 | 17.35 | 18.1 | 18.9 | 4.85 |
+| Interest | 13.3 | 13.1 | 11.85 | 9.57 | 8.3 | 1.8 |
+| Associates | — | (1.2) | (2.5) | (2.45) | (1.1) | (0.1) |
+| Net income total | 5.8 | (0.75) | 1.52 | 4.46 | 10.48 | 4.65 |
+| — to VPIL holders | 5.8 | (0.75) | ~1.1 | 3.43 | 8.0 | 4.03 (underlying ~2.9 ex-gain) |
+| Operating cash flow | 14.8 | 16.25 | 15.35 | 28.5 | 38.1 | 10.15 (incl. +1.75 WC release) |
+TTM (Jul 2029–Jun 2030): adj EBITDA 45.5. ROIC TTM ≈ 8.0% (EBIT 26.4 × 0.75 / capital ~247). Target 10% by FY31.
+Engine base case for Mar 2031: ~9.0–9.5% with ROIC plan; ~10% needs luck.
 
-## Balance sheet 31 Mar 2030 (consolidated)
-Cash 5.65 | Receivables 51.0 | Inventory 38.0 | Other CA 9.35
-PP&E 166.25 (incl. Phase 3 CWIP 2.5) | Voltrix 8.15 | Flow Arabia 5.4 | Goodwill 22.0 | Other NCA 7.31 | **Total ≈ 313.1**
-Payables 34.6 | Other CL 15.5 | WC lines 55.0 (25 Auto's) | New TL 14.1 (amort 1.175/qtr) | Emergency line 0 (repaid; 5.0 available) | Lease 3.8 | Other NCL 8.0
-**Liabilities ≈ 131.0 | Equity ≈ 182.1 (owners ~149.35 + Ashoka ~32.8)**
-Bank debt 69.1 | Net debt 63.45 | ND/EBITDA 1.45x. Cash cushion 5.65 (target 8) — Phase 3 capex and Voltrix pro-rata absorbed free cash.
+## Balance sheet 30 Jun 2030 (consolidated)
+Cash 11.425 | Receivables 50.2 | Inventory 37.2 | Other CA 9.5
+PP&E 167.4 (Phase 3 CWIP 5.5) | Voltrix 6.1 | Flow Arabia 5.5 | Goodwill 22.0 | Other NCA 7.31 | **Total ≈ 316.6**
+Payables 34.8 | Other CL 15.85 | WC lines 55.0 (25 Auto's) | New TL 12.925 (1.175/qtr) | Emergency line 0 (5.0 available) | Lease 3.4 | Other NCL 8.0
+**Liabilities ≈ 130.0 | Equity ≈ 186.65 (owners ~153.4 + Ashoka ~33.3)**
+Bank debt 67.9 | Net debt 56.5 | ND/EBITDA 1.24x. Cash cushion 11.4 (target 8 ✓).
+
+## ROIC plan (approved all, Apr 2030; Meera leads)
+Working-capital release ~3 (1.75 done); Auto/aftermarket price +1% (+0.2/qtr); Lean extension (+0.25/qtr); Hosur spare space leased out (+0.05/qtr from Q2); Voltrix partial sale: 6% sold to Greenline for ~3.3 (capped at 6% so VPIL stays >20% → keeps associate status & Nikhil's seat; authority was up to 8%); book gain 1.45.
 
 ## Business units
-- Auto (51%): steady; margin ~11.2%; Voltrix parts 2.6/qtr; aftermarket 0.9/qtr; Bharat EV-truck split award (60% VPIL+Voltrix; min 3,000 units/yr for 2 yrs) ramping. Hosur 2nd line only if run-rate >4,000 units.
-- Flow: record Q4; utilisation ~94%; smart valves: Deccan 400 units delivering; Phase 3 capacity (Vadodara) APPROVED: 9.0 total (2.5 spent in Q4; rest over next 3 qtrs), +~16 sales/yr, +~3.5 EBIT, ~21% return, live ~Q4 FY31 (Mar 2031). Funding from cash flow + possible ~4 term loan.
-- Project Lean ~2.8/yr. Wage deal +1.1/yr from Oct 2029.
+- Auto (51%): steel +6% (Apr) lagged pass-through cost ~0.3 this qtr; Bharat EV deliveries starting; aftermarket 1.0/qtr.
+- Flow: capacity-constrained (~95%); Phase 3 (Vadodara, 9.0, ~21% return) on schedule — 5.5 spent, live ~Mar 2031; Gujarat Jal ordering 300 smart valves; smart-valve margin ~31%. Nordvalve approached 2 Valves sales managers; 1 left (replacement hired).
+- Project Lean ~3.0/yr run-rate.
 
 ## Nordvalve–Aquaflux
-Closing mid-2030 pending competition-regulator (CCI) review. Combined India standard-valve share ~26% vs VPIL ~9%. CCI invited market comments (optional for VPIL). CCI approval ~80% (likely with minor conditions).
+CCI approved in June with conditions: no tender bundling; Aquaflux brand kept separate 2 yrs. VPIL's factual note cited in bundling condition; Nordvalve India head displeased (called Kavita).
 
-## Voltrix (~26.5%, book 8.15)
-$4M bridge closed (Greenline led); VPIL paid pro-rata 1.1 → stake holds ~26.5%. Post-money ~57.5+. Bharat award helps next round.
+## Voltrix (~20.5%, book 6.1)
+Post-money ~60 after bridge. Greenline now largest outside holder. Nikhil keeps board seat. Bharat EV deliveries begin; parts to Voltrix 3.0/qtr.
 
 ## Saudi JV (Flow Arabia)
-GCC licence; 2.5% royalty; Vadodara alloy parts 3 yrs; 1.5% mgmt fee; 6.0 paid; 50/50; profitable (+0.1 share this qtr). Est. 4–5/yr to VPIL by yr 3.
+GCC licence; 2.5% royalty; Vadodara alloy parts 3 yrs; 1.5% mgmt fee; 6.0 paid; 50/50; profitable.
 
 ## Kaveri
-Board-seat request (20 Dec 2029): CEO said NO politely (option 3). Raghu: "disappointed; will take our case to all shareholders." Feb 2030: Kaveri formally nominates a director (Anil Desai) for the JULY 2030 AGM. Kaveri bought to 15.9% (31 Mar). No bid; engine bid risk ~10% in next 12 months. Board floor price $2.10; banker Meridian Partners retained; independent committee (Raghavan, Lata, Dev).
-AGM math: ordinary resolution needs >50% of votes cast; friendly holders 47.7% (family 30.4, Halden 10.7, Sahyadri 6.6) → Kaveri nominee likely fails (~90%), unless proxy advisers and many institutions back it. Kaveri needs ~9.1% more to reach 25%.
+Nominee (Anil Desai) for director at AGM on 24 JULY 2030. Kaveri stake 17.4% (30 Jun). VPIL ran active campaign (board met big investors + proxy advisers, 0.3). Proxy adviser Governance Compass recommends AGAINST Kaveri nominee; ShareVote neutral. Kaveri open letter to shareholders. Engine: nominee loses ~92%.
+AGM math: friendly 47.7% (family 30.4, Halden 10.7, Sahyadri 6.6) vs needs >50% of votes cast; Kaveri needs 7.6% more to reach 25%. Board floor price $2.10/share; banker Meridian Partners retained; independent committee (Raghavan, Lata, Dev).
 
 ## Valuation & ownership
-100.0m shares @ $1.93 → market cap 193.0
-Family 30.4% | Kaveri 15.9% | Halden 10.7% | Sahyadri 6.6% | rest ~36.4% | CEO 0.4m + 2.0m options @1.20
-Dividend: decision at July 2030 AGM.
+100.0m shares @ $2.00 → market cap 200.0
+Family 30.4% | Kaveri 17.4% | Halden 10.7% | Sahyadri 6.6% | rest ~34.9% | CEO 0.4m + 2.0m options @1.20
+Dividend: small 0.5 total to be declared at AGM (default under 'approve all'); paid Aug.
 
-## Macro (end FY30)
-Repo 5.25% | Steel +3% | INR 89.6 | US tariff 5% | Steady growth.
+## Macro (end FY31 Q1)
+Repo 5.25% | Steel +6% | INR 90.0 | US tariff 5% | Steady.
 
 ## Engine-internal (hidden)
-- Proxy adviser "Governance Compass" leaning to recommend AGAINST Kaveri nominee if VPIL engages shareholders (~65%); if VPIL ignores them, ~45%.
-- ROIC levers available: WC release ~3; monetise part of Voltrix stake (Greenline would buy up to 8% at ~$0.5/1%, i.e. ~4 cash, book gain, capital −); sell/leaseback idle Hosur space; Auto price increases +1; Lean extension +1.
-- Kaveri's next move after AGM loss: raise stake toward 20–24% or bid ≥$2.30.
+- After AGM loss Kaveri likely: raise to 19.9–24% over 12 months (~45%) or bid ≥$2.30 (~10%).
+- Bharat may ask VPIL for volume flexibility on EV units next year.
+- Board compensation committee will weigh CEO renewal on ROIC ≥ ~9.5% and Kaveri outcome.
+- Nordvalve plans to enter Indian specialty valves via Aquaflux's tender teams in 2031.
 
-## Pending decisions (FY31 Q1)
-A AGM defence plan vs Kaveri's director nominee (shareholder roadshow, proxy advisers) | B ROIC gap plan (Meera's options) | C CCI comment on Nordvalve–Aquaflux | D July dividend
+## Pending decisions (FY31 Q2)
+A Last steps before AGM (e.g., add an independent director with water-utility experience; shareholder pledges) | B Use of 11.4 cash | C Valves sales retention vs Nordvalve poaching (0.2)
 
 ## Decision log
-- FY27–FY29: see earlier history (Hosur, Ashoka 49%, Voltrix, Saudi, Valves expansion, profit plan, etc.).
-- FY30 Q1–Q2: Aquaflux withdrawn; Bharat EV tiered bid; AGM dividend 0.5.
-- FY30 Q3: Kaveri defence tools 2,3,4,5; smart-valve tooling; cash cushion first.
-- FY30 Q4: Politely refused Kaveri board seat; approved Valves Phase 3 (9.0); paid Voltrix pro-rata (1.1); repaid emergency line.
-  → FY30 EBITDA 43.9, net to holders 8.0, share $1.93, ROIC 7.5%, debt 1.45x; Kaveri nominated director for July AGM and rose to 15.9%.
+- FY27–FY29: see earlier history.
+- FY30: Aquaflux withdrawn; Bharat EV split award; Kaveri defence tools; refused board seat; Phase 3 approved; Voltrix pro-rata; emergency line repaid.
+- FY31 Q1: AGM campaign; ROIC plan (all incl. Voltrix partial sale 6%); CCI factual note; small dividend declared.
+  → EBITDA 11.9, net 4.03 (incl. gain), share $2.00, ROIC 8.0%, debt 1.24x, cash 11.4; Kaveri 17.4%; proxy adviser backs board.
 
 ## Learning profile
 - Growth/partnership-minded; strong negotiator; consultative; delegates; sticks to profit rule.
-- Prefers low-confrontation but firm defence vs Kaveri; says yes to well-evidenced growth projects (Phase 3) that pass the hurdle.
-- ROIC progress slower than plan; growth capex ahead of returns.
+- Approves broad packages ("approve all") — engine caps risky parts sensibly and says so.
+- ROIC improving but still short of board goal; time-bound.
