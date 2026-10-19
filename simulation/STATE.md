@@ -81,7 +81,8 @@ Repo 5.50% (Aug cut) | Steel flat | INR 88.0 | US tariff 5% from Oct | Good mons
 - US distributor lost earlier may return if approached (~60%).
 
 ## Pending decisions (FY29 Q3)
-A Approve Meera's profit plan (incl. ROIC goal) | B Flow Arabia 3.0 milestone | C US comeback push | D Bharat launch delay handling
+DECIDED: A Meera's profit plan APPROVED incl. ROIC ~10% by FY31 goal (ends 'on hold'; 14% hurdle rule) | B Flow Arabia 3.0 milestone APPROVED | C US comeback APPROVED (US sales manager ~0.5/yr; approach lost distributor).
+D Bharat delay: CEO asked for more options (given): ask Bharat cost share (~0.3; contract only covers tooling); ask Bharat to extend old-platform orders (~70% likely, they still build old model); aftermarket sales via Trident's (Ashoka-owned) network; pull forward Voltrix parts at Chakan; short-term job work for tractor makers (monsoon demand); do planned maintenance/training/Lean now; non-cash asks (priority in Bharat's next EV RFQ, faster payment). Pending CEO choice.
 
 ## Decision log
 - FY27: Hosur closure→cancel→shrink; inventory write-down; land/scrap; Voltrix stake; equity raise; disclosure error & correction.
