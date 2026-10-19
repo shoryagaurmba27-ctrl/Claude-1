@@ -4,75 +4,70 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2034 Q4 (1 Jan 2034). Indian FY = Apr–Mar.
+- Current sim date: start of FY2035 Q1 (1 Apr 2034). Indian FY = Apr–Mar.
 - Difficulty: Realistic / Hard
-- CEO tenure: 31 quarters (appointed 1 Apr 2026). Contract extended to 31 Mar 2037. KPIs (Balanced): ROIC ≥ $15/100, sales ≥ $230M, operating profit ≥ $50M by Mar 2036 (CEO privately aims $16/$250M/$55M); bonus up to 150%.
-- Reporting currency: USD m (INR/USD 94.5)
-- Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations, delegating detail, structural "why/how" questions; prefers LOW dividends / reinvestment. Says "approved"/numbers/"rest same"/"end" (engine states assumptions; usually follows its own recommendation).
+- CEO tenure: 32 quarters (appointed 1 Apr 2026). Contract to 31 Mar 2037. KPIs (Balanced, set Q29): ROIC ≥ $15/100, sales ≥ $230M, operating profit ≥ $50M by Mar 2036 — sales (FY34 226.5, pro forma ~262) and profit (FY34 49.35, pro forma ~55) effectively achieved; ROIC (12.6%) is the binding KPI. Bonus up to 150%.
+- Reporting currency: USD m (INR/USD 94.8)
+- Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations (esp. business detail: demand vs supply), delegating detail, structural "why/how" questions; prefers LOW dividends / reinvestment; tends to approve all proposed fixes.
 - State Reports: #1–#6 delivered. Next (#7) due after FY35 Q2.
-- Correction logged: earlier said a ~$4M Voltrix top-up reaches 25%; it reaches ~22.9% (25% would need ~$6M).
 
 ## Structure
-VPIL = listed valves company: Valves ("Flow", 100%; incl. SensAqua, AquaSense, Hydrokraft [closed 15 Dec 2033], Saudi sales co 80/20) + corporate. Holdings: Flow Arabia JV 50/50, Voltrix ~22.9%. Car Parts sold to Kaveri 28 Mar 2033.
-Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan, Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~2,250 (Hydrokraft ~650).
+VPIL = listed valves company: Valves ("Flow", 100%; incl. SensAqua, AquaSense, Hydrokraft, Saudi sales co 80/20, UAE hub) + corporate. Holdings: Flow Arabia JV 50/50 (Phase 2 casting+machining online; capacity $50M), Voltrix ~22.9% (book 9.0). Car Parts sold to Kaveri Mar 2033.
+Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan, Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~2,350.
 
-## Succession
-Kavita Menon President & COO + exec director. Outside search (Haldane & Partners): 3 shortlisted candidates presented Dec 2033; strongest external is ex-Nordvalve (conflict) → used as benchmark; board prefers internal development. Nikhil leads Hydrokraft/AquaSense integration.
+## Capacity vs demand (briefing, Jan 2034; FY34 pro forma sales ~$262M)
+Product lines: specialty 60 (23%), standard 70 (27%), spares & service 37 (14%), industrial/Hydrokraft 45 (17%), smart valves 19 (7%), AquaSense sensors 19 (7%), other/Gulf parts 12 (5%).
+Capacity: Vadodara 199 (≈99% used FY34; +20 Phase 4 live 15 Jan 2034 → 219, ≈90%); Rajkot 65 (≈69%); sensor lines 40 (≈95%); Saudi JV 35 → 50 with Phase 2. Backlog ~$118M (5.4 months); orders ÷ sales 1.09; specialty backlog 7 months; lead times: specialty 22 wks (target 14), sensors 14 wks, service 9 days. Unserved demand FY34 ~$18M (~$4M profit): specialty −6, standard −2, spares −3, smart/sensors −6, other −1.
+Demand growth: specialty +14%, standard +4%, spares +11%, industrial +5%, smart/sensors +25%, Gulf +20%. Demand/capacity/sales: FY34 280/285/262; FY35 315/325/310; FY36 355/335/335 (gap −20).
+FIXES APPROVED (all 1–5): (1) 2nd Bengaluru sensor line $1.2M (live ~June 2034); (2) 30 field service engineers (~$0.9M/yr; 18 hired Q4); (3) move ~$20M standard valves from Vadodara to Rajkot (started, $0.8M); (4) safety stock of electronic parts ~$1.0M (built); (5) Phase 5 Vadodara expansion $14M (+$22M capacity; ~$18 return; $1.5M spent in Q4; remaining ~$12.5M staged over ~18 months).
 
 ## Income statement — continuing (USD m)
-| Item | FY34 Q1 | Q2 | Q3 |
-|---|---|---|---|
-| Revenue (Valves) | 47.9 | 53.2 | 56.4 (+24% reported; organic +9.5%; AquaSense 4.7; Hydrokraft half-month 1.9) |
-| Adj. EBITDA | 10.85 | 11.8 | 12.3 (Valves 12.95 / corporate −0.85 / TSA +0.2) |
-| Exceptionals | (1.4) | (1.0) | (1.5) Hydrokraft 0.9, buyback advisers 0.4, search 0.2 |
-| D&A | 3.55 | 4.1 | 4.4 |
-| Net interest | +1.0 | +0.6 | +0.4 |
-| Associates | +0.15 | +0.25 | +0.3 |
-| Net income to holders | 5.27 | 5.64 | 5.3 |
-TTM (Jan–Dec 2033): continuing EBITDA 45.45. ROIC TTM ≈ 11.7% (EBIT 30.2 × 0.75 / capital ~194) — down because Hydrokraft 37.5 + Voltrix 4.0 + AquaSense not yet earning in full. Engine path to $15 by FY36: annualised Q3 EBITDA 49.2 + Hydrokraft synergies 3 + Phase 4 + growth → ~$13.4 in FY35, ~$14.6 FY36 (≈45% chance of $15+).
-Valves quarterly: smart valves 4.8; Saudi sales co 4.4; JV fees/parts 2.2. Nordvalve selective matching cost ~0.4/qtr.
+| Item | FY34 Q1 | Q2 | Q3 | Q4 | FY2034 |
+|---|---|---|---|---|---|
+| Revenue (Valves) | 47.9 | 53.2 | 56.4 | 69.0 | 226.5 (+26%; organic ~+10%) |
+| Adj. EBITDA | 10.85 | 11.8 | 12.3 | 14.4 | 49.35 (21.8%) |
+| Q4 detail | | | | Valves 15.25 / corporate −0.85 | |
+| Exceptionals | (1.4) | (1.0) | (1.5) | (1.5) Prime 0.8, integration 0.4, UAE 0.2, buyback 0.1 | (5.4) |
+| D&A | 3.55 | 4.1 | 4.4 | 4.75 | 16.8 |
+| Net interest | +1.0 | +0.6 | +0.4 | −0.1 | +1.9 |
+| Associates | +0.15 | +0.25 | +0.3 | +0.35 | +1.05 |
+| Net income to holders | 5.27 | 5.64 | 5.3 | 6.27 | 22.5 |
+ROIC FY34 ≈ 12.6% (EBIT 32.55 × 0.75 / capital ~193). Meera path: ~$13.4 FY35, ~$14.6–15 FY36 with Prime.
+Quarterly: smart valves 5.0; AquaSense 4.9; Hydrokraft 11.6; Saudi sales co 4.7; UAE hub first order 0.6.
 
-## Balance sheet 31 Dec 2033 (continuing)
-Cash 52.4 | Receivables 39.1 | Inventory 25.0 | Other CA 6.2
-PP&E 68.7 (Phase 4 complete; live Jan 2034) | Voltrix 9.15 | Flow Arabia 13.5 | Goodwill & intangibles 71.15 | Other NCA 3.9 | **Total ≈ 289.1**
-Payables 25.8 | Other CL 10.7 | WC lines 25.0 | Other NCL 12.3 (incl. deferred consideration ~5.7, environmental provision 1.0)
-**Liabilities ≈ 73.8 | Equity ≈ 215.3 (owners ~214.7)**
-Net cash ≈ 27.4. Ordinary dividend for FY34 due Aug 2034 (20% of underlying ~ $4.5M).
+## Balance sheet 31 Mar 2034 (continuing)
+Cash 37.1 | Receivables 42.3 | Inventory 25.5 | Other CA 6.3
+PP&E 69.65 | Voltrix 9.0 | Flow Arabia 14.0 | Goodwill & intangibles 70.75 | Other NCA 3.9 | **Total ≈ 278.5**
+Payables 29.0 | Other CL 12.2 | WC lines 25.0 | Other NCL 12.5 (incl. deferred acquisition payments ~5.7, env. provision 1.0)
+**Liabilities ≈ 78.7 | Equity ≈ 200.1 (owners ~199.5)**
+Net cash ≈ 12.1. Cash cushion target ≥ $15M (Meera). Hydrokraft old Rajkot site sale signed (~$6.3M, closes Q1 FY35 when new building ready).
+Project Prime: Lean 2.0 under way (~4M/yr by 2035), WC release ~2.0 done of ~5, Hydrokraft new building 60% complete.
+'Use it or return it' deadline Dec 2034: cash largely committed (Phase 5, AquaSense, Hydrokraft, buyback).
 
-## Hydrokraft (closed 15 Dec 2033)
-$37.5M cash-free/debt-free; $2M environmental escrow; joint leadership 12 months: Ravi Gupta (seller family) + Suresh Naik (Kavita's deputy). Morale OK. Synergies ~$3M/yr target; integration ~2.
+## Kaveri buyback — DONE
+EGM 24 Jan 2034: 78% in favour. VPIL bought 5.0M shares from Kaveri at $4.30 = $21.5M and cancelled them. Shares outstanding 95.0M. Kaveri 19.9M = 20.9%. Remaining sell-down right (to 15%) must be exercised by Mar 2037 (4 yrs from closing Mar 2033).
+Ownership now: Family 38.3% (36.4M) | Kaveri 20.9% | Halden 11.3% | Sahyadri 6.9% | Himalaya 5.7% | rest ~16.8%.
+95.0M shares @ $4.45 → market cap 422.8 (EV ≈ 410 → ~8.3× FY34 EBITDA). Board floor price for any offer: $4.90 (to confirm).
 
-## Voltrix
-Round ~$8M led by Greenline (pre-money ~90; post ~98); VPIL invested $4M → stake ~22.9% (book 9.15). Voltrix sales growing; not profitable; Precision Dynamics now main maker.
-
-## Kaveri BUYBACK — signed, awaiting vote
-VPIL will buy 5.0M shares (5%) from Kaveri at $4.30 = $21.5M (net cash → ~5.9 after payment). EGM 24 JAN 2034 (special resolution, 75% votes cast; family, Halden, Sahyadri, Himalaya expected yes; proxy advisers neutral). Shares outstanding → 95.0M; Kaveri stake → 20.9%; family 38.3% (Priya's ~38% line). Next-step: VPIL may ask Kaveri to sell down to 15% within 4 yrs of closing (Mar 2033).
-Floor price for any offer for VPIL $4.40 (to reset).
-
-## Ownership (before buyback)
-100.0m shares @ $4.30 → market cap 430.0 (EV ≈ 402 → ~8.8× TTM EBITDA)
-Family 36.4% | Kaveri 24.9% | Halden 10.7% | Sahyadri 6.6% | Himalaya 5.4% | rest ~16.0%.
+## Succession
+Kavita Menon President & COO + exec director (doing well; won Gujarat Jal $12M). Quiet meeting held with outside candidate Arvind Rao (ex-industrial CEO, non-conflicted) — fallback. Nikhil leads integration. Board to choose successor-designate by ~2035–36.
 
 ## Macro
-Repo 5.00% | Steel +1% | INR 94.5 | US tariff 5% | Strong.
+Repo 5.00% | Steel +1% | INR 94.8 | US tariff 5% | Nordvalve price pressure easing (March).
 
 ## Engine-internal (hidden)
-- EGM passes ~70%; if fails, Kaveri stays 24.9%.
-- Return goal ($15 by FY36) ~45% unless a return-recovery programme is run (+1.5 pts potential: Lean 2 savings ~4M, working capital release ~5M, sale of Hydrokraft's old site ~6M).
-- Nordvalve's price war eases mid-2034 (~60%).
-- UAE/Qatar demand: GCC licence enables hub (cost ~2M; sales ~8M/yr by yr 3).
+- Kaveri willing to sell down in blocks to long-term holders if price ≥$4.40 (~65%).
+- Nordvalve takeover bid for VPIL ~8%/12m.
+- Phase 5 demand risk: if specialty growth falls to +8%, return drops to ~$12.
 
-## Decisions made (FY34 Q4, CEO 'approve all 3' = my quick view) — exec meeting on Valves business held, time paused
-A Project Prime APPROVED in full: Lean 2.0 (~4M/yr savings by 2035), working-capital release (~5M), sale of Hydrokraft's old Rajkot site (~6M; new building), one-off cost ~1.5M; target +1.5 pts ROIC (~$15 in FY36).
-B Succession shortlist: option 2 — keep strongest non-conflicted outside candidate warm (quiet meeting); focus on developing Kavita.
-C UAE (Dubai) sales hub APPROVED IN STAGES: $0.8M now; total ~2M; ~8M sales/yr by yr 3.
-Valves business briefing given (see meeting). Pro forma annual Valves sales ~$260M (organic ~197 + AquaSense ~19 + Hydrokraft ~45); balanced KPIs for sales (230) and operating profit (50) will be exceeded in FY35; ROIC is the binding KPI.
+## Pending decisions (FY35 Q1)
+A Funding Phase 5 / cash cushion (loan vs cash) | B Kaveri's remaining stake (sell-down approach) | C Updated goals (KPIs largely achieved)
 
 ## Decision log
 - FY27–FY33: see earlier history.
-- FY34 Q1: AquaSense; Balanced KPIs; another term. FY34 Q2: Kavita promoted + search; Hydrokraft negotiated; selective price-matching.
-- FY34 Q3: Voltrix top-up ($4M); 5% Kaveri buyback signed; joint leadership at Hydrokraft; Hydrokraft closed.
-  → Sales 56.4, EBITDA 12.3, ROIC 11.7%, net cash 27, share $4.30.
+- FY34 Q1–Q3: AquaSense; KPIs; extension; Hydrokraft; Voltrix top-up; buyback signed.
+- FY34 Q4: Project Prime; keep outside candidate warm; UAE hub staged; all five capacity/demand fixes incl. Phase 5; buyback completed.
+  → FY34: sales 226.5, EBITDA 49.35, net 22.5, ROIC 12.6%, net cash 12, share $4.45.
 
 ## Learning profile
-- Growth/partnership-minded; strong negotiator; consultative; delegates; stretch goals; reinvests aggressively (acquisitions, Voltrix) while keeping dividends low.
+- Growth/partnership-minded; strong negotiator; consultative; delegates; invests aggressively (acquisitions, capacity, Voltrix) with low dividends; relies on engine's quick view.
