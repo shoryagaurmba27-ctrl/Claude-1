@@ -80,7 +80,15 @@ Narrow moat overall. Specialty valves (corrosion-resistant/duplex alloys, desali
 ## Saudi JV renegotiation (Jan–Feb 2028) — partner: Al-Rimal Industrial Group (fictional)
 Won: design licence limited to GCC & assembly only, ends if JV ends; royalty 2.5% of JV sales to VPIL (asked 4%); critical alloy parts supplied from Vadodara for first 3 yrs; management fee 1.5% of JV sales; VPIL investment staged 3.0 at signing + 3.0 on plant milestone; VPIL appoints JV CEO & ops head.
 Not won: 51% (stays 50/50 with deadlock clause); firm volume commitment (only first right on 2 upcoming desalination projects).
-Partner mildly irritated; mentioned Nordvalve also approached them. Est. extra value to VPIL ~+2.0/yr by yr 3 (royalty ~0.6, fee ~0.4, parts exports ~1.0 EBITDA) on top of 50% JV profit (~2–3/yr). AWAITING CEO SIGN-OFF.
+Partner mildly irritated; mentioned Nordvalve also approached them. Est. extra value to VPIL ~+2.0/yr by yr 3 (royalty ~0.6, fee ~0.4, parts exports ~1.0 EBITDA) on top of 50% JV profit (~2–3/yr). SIGNED late Jan 2028 (JV name: Flow Arabia). 3.0 paid at signing (from ring-fenced 6.0); remaining 3.0 stays reserved for plant milestone (~FY29 Q2–Q3). Plant build ~18 months.
+
+## Smart valves (Step 3) — STARTED Jan 2028
+Budget ~1.5/yr (opex). Team: Arun + Flow engineers; hiring 6 sensor/electronics engineers (skills VPIL lacks) — or option to partner with a sensor startup. Target: pilot product ~18 months (mid-2029), first sales ~year 3. Risk: talent hiring, Nordvalve ahead.
+
+## Kaveri — Jan 2028
+CEO offer: observer seat only + standstill at current 9.6% immediately.
+Kaveri counter (Raghu): accepts observer seat (no vote, excluded from sensitive sessions) IF standstill cap is 11% for 18 months. Awaiting CEO reply.
+Hidden: if VPIL rejects counter → ~60% Kaveri buys >10% and prepares full bid (~$1.40–1.50) in FY29 Q1; if accepts → 18 months peace; observer competition-law risk low with Rohan's firewall.
 
 ## Pending decisions (FY28 Q4)
 A Kaveri answer by 31 Jan | B Sign Saudi JV? | C Bridge refinancing plan | D Smart valves start | E Car Parts retention after March | F Dividend at year end | G Mandate review / FY29 goals
