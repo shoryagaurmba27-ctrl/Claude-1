@@ -74,6 +74,14 @@ RBI cut repo to 5.75% (Dec) | Steel +2% | INR 87.3 | US–India trade talks prog
 - If seat granted with standstill: Kaveri gains insight into VPIL plans; competition-law complaint risk ~20%.
 - Bridge refinancing now cheaper (rates down): long-term bank loan ~9.25% available if ND/EBITDA < 2.5.
 
+## Valves moat (assessed Jan 2028)
+Narrow moat overall. Specialty valves (corrosion-resistant/duplex alloys, desalination, high-pressure) ~40% of Flow rev, ~28% margin — moderate moat (approvals on ~40 utility/EPC vendor lists take 2–4 yrs; metallurgy know-how; installed base, spares/service ~18% of Flow rev at ~30% margin). Standard water valves ~60% of rev, ~19% margin — weak moat (tender price competition from Aquaflux; China cheaper). Cost 25–35% below European rivals. Gaps: no smart valves, small scale vs Nordvalve, key-person risk (Kavita).
+
+## Saudi JV renegotiation (Jan–Feb 2028) — partner: Al-Rimal Industrial Group (fictional)
+Won: design licence limited to GCC & assembly only, ends if JV ends; royalty 2.5% of JV sales to VPIL (asked 4%); critical alloy parts supplied from Vadodara for first 3 yrs; management fee 1.5% of JV sales; VPIL investment staged 3.0 at signing + 3.0 on plant milestone; VPIL appoints JV CEO & ops head.
+Not won: 51% (stays 50/50 with deadlock clause); firm volume commitment (only first right on 2 upcoming desalination projects).
+Partner mildly irritated; mentioned Nordvalve also approached them. Est. extra value to VPIL ~+2.0/yr by yr 3 (royalty ~0.6, fee ~0.4, parts exports ~1.0 EBITDA) on top of 50% JV profit (~2–3/yr). AWAITING CEO SIGN-OFF.
+
 ## Pending decisions (FY28 Q4)
 A Kaveri answer by 31 Jan | B Sign Saudi JV? | C Bridge refinancing plan | D Smart valves start | E Car Parts retention after March | F Dividend at year end | G Mandate review / FY29 goals
 
