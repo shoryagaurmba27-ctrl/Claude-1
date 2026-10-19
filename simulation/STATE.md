@@ -87,7 +87,7 @@ Budget ~1.5/yr (opex). Team: Arun + Flow engineers; hiring 6 sensor/electronics 
 
 ## Kaveri — Jan 2028
 CEO offer: observer seat only + standstill at current 9.6% immediately.
-Kaveri counter (Raghu): accepts observer seat (no vote, excluded from sensitive sessions) IF standstill cap is 11% for 18 months. Awaiting CEO reply.
+Kaveri counter (Raghu): accepts observer seat (no vote, excluded from sensitive sessions) IF standstill cap is 11% for 18 months. CEO accepted 11% but countered 22 months. Raghu AGREED (signed 30 Jan 2028): observer seat (no vote, excluded from sensitive sessions, Rohan's info firewall), standstill cap 11% until ~Nov 2029. Kaveri only extra: observer may attend investor briefings (public info only).
 Hidden: if VPIL rejects counter → ~60% Kaveri buys >10% and prepares full bid (~$1.40–1.50) in FY29 Q1; if accepts → 18 months peace; observer competition-law risk low with Rohan's firewall.
 
 ## Pending decisions (FY28 Q4)
