@@ -46,6 +46,9 @@ Payables 35.9 | Other CL 16.2 | WC lines 50.0 (25 Auto's) | Term loan 8.225 | Em
 Bank debt 58.2 | Net debt 44.95 | ND/EBITDA 0.87x. Off-balance: Saudi guarantee 0.55; Voltrix payables guarantee ≤1.5.
 FY31 final dividend (policy) ~2.7 (~$0.027/share) proposed for July AGM; paid Aug.
 
+## Car Parts (VPIL Auto) profile — given to CEO Jul 2031
+~2,050 staff; plants Chakan (main, ~80% utilised), Hosur (Voltrix assembly line, ~4,500 units/yr, spare space rented), Pantnagar. FY31 revenue 178.2: Bharat ~42 (24%), other Indian OEMs/tractor/export/job work ~117, Voltrix parts ~14.4, aftermarket ~4.6. Mix: ICE-only ~65%, hybrid ~15%, EV ~8%, aftermarket/other ~12%. EBITDA by yr: FY26 19.5 (11.8%), FY27 ~16.5 (10.4%), FY28 17.4 (11.0%), FY29 16.5 (10.4%), FY30 18.8 (11.2%), FY31 20.0 (11.2%). FY31 net ~5.7 (Ashoka ~2.8; run-rate ~3.1/yr). Debt ~40 (bank lines 25 + loan from VPIL parent replacing old term loan). Engine ROIC ~7% vs Valves ~14%, group 9.4%. Union wage deal expires Sept 2032; Ashoka exit window Dec 2032. Correction: earlier 'Ashoka share ~3.4/yr' → run-rate ~3.1/yr.
+
 ## Business units
 - Auto (51%): EBITDA 5.35 (11.5%); Voltrix parts 4.5/qtr; Bharat EV flexible-volume deal (min 3,000/yr kept). Ashoka 5-year exit window from Dec 2027 → Dec 2032: exit by sale/IPO or VPIL buyback at fair value; VPIL has right of first offer.
 - Flow: Phase 3 live (utilisation ~83%); EBITDA 9.0 (23.5%); smart valves 2.3/qtr; Saudi sales co sales 2.0/qtr (~breakeven).
