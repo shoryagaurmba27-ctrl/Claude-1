@@ -4,119 +4,92 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2029 Q2 (1 Jul 2028). Indian FY = Apr–Mar.
+- Current sim date: start of FY2029 Q3 (1 Oct 2028). Indian FY = Apr–Mar.
 - Difficulty: Realistic / Hard
-- CEO tenure: 9 quarters (appointed 1 Apr 2026). Contract renewed to Mar 2031 with profitability condition (ROIC toward 10% by FY31).
-- Reporting currency: USD m (INR/USD 87.8)
-- Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings and explanations before deciding.
-- State Report #1 after FY28 Q1; #2 after FY29 Q1 (delivered). Next (#3) after FY30 Q2.
+- CEO tenure: 10 quarters (appointed 1 Apr 2026). Contract to Mar 2031; board condition: ROIC toward 10% by FY31.
+- Reporting currency: USD m (INR/USD 88.0)
+- Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations before deciding, and delegating detail to the team.
+- State Reports: #1 after FY28 Q1; #2 after FY29 Q1. Next (#3) after FY30 Q2.
 
 ## Company
 Vardhan Precision Industries Ltd (VPIL) — Pune, India. Listed. Founded 1987.
-Employees ~3,060. Units: VPIL Auto (51%; Ashoka Peak 49%), Flow (100%), Flow Arabia JV (50%, plant under construction), Voltrix (24%; +2.5% warrants under partnership → ~26.5%).
+Employees ~3,070. Units: VPIL Auto (51%; Ashoka 49%), Flow (100%), Flow Arabia JV (50%), Voltrix (~26.5% incl. exercised warrants).
 
-## Goals FY29–FY31 (set Apr 2028)
-- Valves: grow + fix quality. Targets: sales ~150 by FY31; margin ≥23%; zero major recalls; Flow Arabia running mid-2029; smart-valve pilot mid-2029.
-- Car Parts: sustain. Protect Bharat; margin ≥11%; no big new spending except Voltrix line at Hosur.
+## Goals FY29–FY31
+- Valves: grow + quality. Sales ~150 by FY31; margin ≥23%; zero major recalls; Flow Arabia mid-2029; smart-valve pilot mid-2029.
+- Car Parts: sustain; Bharat; margin ≥11%.
 - Voltrix: deep manufacturing partner.
-- Profit/ROIC goal: CEO put ON HOLD. Board (Thomas) has now formally asked for a profitability plan by FY29 Q3.
+- Profit/ROIC goal: on hold by CEO; Meera's profitability plan to board this quarter (FY29 Q3).
 
 ## Income statement history (USD m)
-| Item | FY2026 | FY2027 | FY2028 | FY29 Q1 |
-|---|---|---|---|---|
-| Revenue | 250.0 | 249.2 | 266.1 | 67.3 (+5.2% YoY vs 64.0) |
-| — Auto | 165.0 | 158.7 | 158.6 | 39.5 (incl. Voltrix parts 0.5; Bharat old→new platform transition) |
-| — Flow | 85.0 | 90.5 | 107.5 | 27.8 |
-| Adjusted EBITDA | 36.0 | 33.55 | 38.1 | 8.83 (Auto 3.92 / Flow 5.81 / Corp −0.9) |
-| Exceptionals | — | (4.4) | (3.5) | (0.1) |
-| D&A | 15.0 | 15.3 | 17.35 | 4.45 |
-| Interest | 13.3 | 13.1 | 11.85 | 2.43 |
-| Associates | — | (1.2) | (2.5) | (0.7) (Voltrix −0.55, Flow Arabia −0.15) |
-| Net income total | 5.8 | (0.75) | 1.52 | 0.69 |
-| — to VPIL holders | 5.8 | (0.75) | ~1.1 | 0.55 |
-| Operating cash flow | 14.8 | 16.25 | 15.35 | 4.5 |
-FY28 quarterly EBITDA: 9.1 / 9.5 / 10.0 / 9.5. TTM EBITDA after FY29 Q1 = 37.83.
-Q1 Flow EBITDA hit by: quality plan 0.15, smart valves 0.375, Aquaflux price cuts 0.2. Auto: Bharat launch costs 0.3, retention 0.2.
+| Item | FY2026 | FY2027 | FY2028 | FY29 Q1 | FY29 Q2 |
+|---|---|---|---|---|---|
+| Revenue | 250.0 | 249.2 | 266.1 | 67.3 | 65.8 (+0.2% YoY) |
+| — Auto | 165.0 | 158.7 | 158.6 | 39.5 | 38.2 (Bharat new platform delayed 1 qtr by Bharat; Voltrix parts 0.7) |
+| — Flow | 85.0 | 90.5 | 107.5 | 27.8 | 27.6 (lost ~1.0 standard tenders; specialty/US up) |
+| Adjusted EBITDA | 36.0 | 33.55 | 38.1 | 8.83 | 8.82 (Auto 3.7 / Flow 5.95 / Corp −0.83) |
+| Exceptionals | — | (4.4) | (3.5) | (0.1) | (0.5) Project Lean one-off |
+| D&A | 15.0 | 15.3 | 17.35 | 4.45 | 4.5 |
+| Interest | 13.3 | 13.1 | 11.85 | 2.43 | 2.5 |
+| Associates | — | (1.2) | (2.5) | (0.7) | (0.65) |
+| Net income total | 5.8 | (0.75) | 1.52 | 0.69 | 0.34 |
+| — to VPIL holders | 5.8 | (0.75) | ~1.1 | 0.55 | ~0.3 |
+| Operating cash flow | 14.8 | 16.25 | 15.35 | 4.5 | 6.7 (incl. +1.0 working-capital release) |
+TTM adj EBITDA after FY29 Q2 = 37.15. FY28 quarterly EBITDA: 9.1/9.5/10.0/9.5.
 
-## Balance sheet 30 Jun 2028 (consolidated)
-Cash 5.375 (3.0 ring-fenced Flow Arabia; free ~2.4) | Receivables 54.6 | Inventory 44.3 | Other CA 10.09
-PP&E 172.65 | Voltrix 7.77 | Flow Arabia 2.75 | Goodwill 22.0 | Other NCA 7.31 | **Total ≈ 326.9**
-Payables 34.0 | Other CL 14.4 | WC lines 45.0 (25 Auto's) | Old TL 22.0 (amort 3.75/qtr) | New 5-yr TL 22.3 (amort 1.175/qtr) | Emergency line 5.0 DRAWN (May) | Lease 6.5 | Other NCL 8.0
-**Total liabilities ≈ 157.2 | Equity 169.7 (owners ~139.8 + Ashoka ~29.9)**
-Group debt 94.3 | Net debt 88.95 | ND/EBITDA 2.35x | Interest cover ~3.6x
-STRUCTURAL ISSUE: operating cash (~15–18/yr) < loan repayments (~19.7/yr) + maintenance capex (~12/yr) + growth commitments. Free cash flow negative.
-
-## Upcoming cash needs (next ~2 quarters)
-Voltrix round pro-rata ~1.7 (Q2) | Flow Arabia milestone 3.0 (Q2–Q3, ring-fenced) | Hosur line 0.75 | Smart valves ~0.375/qtr | Loan amortisation ~4.9/qtr | Emergency line repayment 5.0.
+## Balance sheet 30 Sep 2028 (consolidated)
+Cash 5.87 (3.0 ring-fenced for Flow Arabia milestone) | Receivables 55.1 | Inventory 42.8 | Other CA 10.11
+PP&E 171.9 | Voltrix 9.07 | Flow Arabia 2.6 | Goodwill 22.0 | Other NCA 7.31 | **Total ≈ 326.8**
+Payables 34.0 | Other CL 14.6 | WC lines 55.0 (limit raised +10 at 9.75%, fully drawn; 25 Auto's) | Old TL 18.25 | New TL 21.15 | Lease 6.2 | Other NCL 8.0
+**Liabilities ≈ 157.2 | Equity ≈ 169.7 (owners ~139.7 + Ashoka ~30.0)**
+Group debt 94.4 | Net debt 88.5 | ND/EBITDA 2.38x | Emergency line 5.0 repaid, available undrawn.
+Free cash flow still negative after loan amortisation (~4.9/qtr); Lean + WC release are the fixes.
 
 ## Business units
-- Auto (51%): Bharat old contract (38/yr) stepping down; new platform (~30/yr VPIL share) launching. Hosur Voltrix assembly line half built. Chakan machines done. Retention extended (all key staff, ~0.8 FY29).
-  Ashoka now requests a Car Parts dividend policy (~2.0/yr; 49% would leave group).
-- Flow: Q1 rev 27.8; specialty mix up; Quality head Vinod Rane hired; 100% pressure testing → no recalls but output −3%. Aquaflux started price war (−8%) in standard-valve tenders; VPIL lost 2 tenders. US–India trade deal announced June: US tariff on VPIL valves 15% → 5% from Oct 2028.
-  Kavita offered "Head of Asia" by Nordvalve (Farah flagged).
-- Flow Arabia: construction started, on schedule.
-- Smart valves: 5 of 6 engineers hired.
+- Auto (51%): Bharat new-platform launch slipped 1 quarter (Bharat's own delay) → under-absorption. Hosur Voltrix assembly line COMPLETE; assembly starts Q3. Car Parts dividend agreed 0.8/yr (0.39 paid to Ashoka in Sept).
+- Flow: Kavita = President, Valves (+ share award ~0.5/4 yrs). Aquaflux price war: Meera & Kavita chose SELECTIVE matching with guardrail (match only strategic utilities with spares tail, only if margin ≥14%); matched 3 tenders, won 2; let rest go. US tariff cut to 5% from Oct 2028 → US orders being pre-booked. Quality: no failures. Smart valves: 6/6 engineers hired; first lab prototype.
+- Project Lean: started; Q2 savings ~0.3 run-rate; target 3–4/yr in 12 months; inventory release begun (−1.5).
+- Flow Arabia: plant structure up; second 3.0 milestone due FY29 Q3.
 
-## Valves moat
-Narrow. Specialty (~40%, ~28% margin) moderate moat (vendor approvals, metallurgy, installed base/spares). Standard (~60%, ~19%) weak (price tenders). Gaps: smart valves, scale, key-person (Kavita).
+## Voltrix (~26.5%, book 9.07)
+Round ~7.5 closed (lead Greenline Mobility Fund 5.0; post-money ~57.5). VPIL paid 1.8 pro-rata + exercised 2.5% warrants. Two 3-wheeler makers ordering. Kaveri cutting e-axle prices. Burn ~7.5/yr.
+Deep partnership terms: 3-yr exclusive mfg (second-source right if KPIs missed); Auto ~14% margin; VPIL guarantee of Voltrix payables capped 1.5; Voltrix repays Hosur line 1.5 if exits early.
 
 ## Saudi JV (Flow Arabia, partner Al-Rimal)
-GCC-only licence; 2.5% royalty; Vadodara supplies alloy parts 3 yrs; 1.5% mgmt fee; staged 3.0+3.0; VPIL picks CEO/ops; 50/50 deadlock clause. Est. 4–5/yr to VPIL by yr 3.
+GCC licence; 2.5% royalty; Vadodara alloy parts 3 yrs; 1.5% mgmt fee; staged 3.0+3.0; 50/50 deadlock. Est. 4–5/yr to VPIL by yr 3.
 
-## Voltrix
-Bengaluru e-axle startup (CEO Ishaan Kapoor, CTO Dr. Leena Joseph). Deep partnership signed Apr 2028: VPIL Auto exclusive manufacturer 3 yrs (second-source right if KPIs missed); 2.5% warrants to VPIL; Auto ~14% margin on Voltrix work; VPIL guarantee of Voltrix payables to Auto capped 1.5; Voltrix repays Hosur line 1.5 if exits early; VPIL commits pro-rata in next round (~1.7, round ~7.5 in Q2). Burn falling toward ~7/yr. Kaveri launched rival e-axle with a 3-wheeler maker and is cutting price.
-Scenarios to 2030: bear 35% / base 45% / bull 20%.
+## Valves moat
+Narrow. Specialty (~40%, ~28% margin) moderate; standard (~60%, ~19%) weak (price tenders).
 
 ## Kaveri
-Standstill: observer, cap 11% (reached) until ~Nov 2029. Competing with Voltrix in e-axles.
+Standstill: observer; cap 11% (reached) until ~Nov 2029. Strong EV growth.
 
 ## Valuation & ownership
-100.0m shares @ $1.36 → market cap 136.0
+100.0m shares @ $1.32 → market cap 132.0
 Family ~27.4% | Kaveri 11% | Halden 10.7% | Sahyadri ~5.6% | rest | CEO 0.4m + 2.0m options @1.20
 
-## Executives
-- Meera: drew emergency line; warns FCF negative structurally; pushing profitability plan.
-- Kavita: Nordvalve offer; undecided.
-- Harish: quality plan running; proud.
-- Sanjay: Bharat transition, Hosur line.
-- Nikhil: Voltrix board; wants share price ≥$1.80 by Nov 2029.
-- Arun: smart valves hiring nearly complete.
-- Farah: flags Kavita retention.
-- Rohan, Sunita: stable.
+## Meera's profitability plan (to be presented FY29 Q3)
+Goal: ROIC ~6% → ~10% by FY31. EBITDA ~37 → ~50: Lean +3.5; Valves to ~150 sales @ ~23.5% (EBITDA ~35); Auto ~17; Corp ~−3; associates turn positive (+~1). Invested capital held ~255 (WC release ~10; 14% hurdle rate on new projects; capex discipline). Base case ROIC ~9.5–10.5%; bear ~7.5%; bull ~11.5%. Implies: no new big projects beyond current until FY30 unless ≥14% return.
 
-## Board
-Thomas (Halden) formally requested profitability (ROIC) plan by FY29 Q3. Family supportive. Independents supportive but agree with Thomas.
-
-## Macro (end FY29 Q1)
-Repo 5.75% | Steel −1% | INR 87.8 | US tariff cut to 5% from Oct 2028 | Good monsoon forecast.
+## Macro (end FY29 Q2)
+Repo 5.50% (Aug cut) | Steel flat | INR 88.0 | US tariff 5% from Oct | Good monsoon → rural demand up.
 
 ## Engine-internal (hidden)
-- If Kavita not retained: ~45% she leaves for Nordvalve in Q2–Q3, taking 2–3 key customers' goodwill.
-- Aquaflux price war lasts ~3–4 quarters; it is PE-backed and burning cash too.
-- Banks would raise WC limit by ~10 at ~9.75% given 2.35x.
-- An EV-focused fund (Greenline Mobility Fund) would buy up to 8% of Voltrix from VPIL at last-round price (~0.47/1%).
+- Aquaflux war lasts ~2–3 more quarters; Aquaflux owner may then sell it (possible acquisition target for VPIL or Nordvalve ~FY30).
+- Bharat new platform ramps in Q3; if smooth, Auto margin recovers to ~11.5%.
 - Kaveri after Nov 2029 may bid if share price < ~$1.60.
+- US distributor lost earlier may return if approached (~60%).
 
-## Pending decisions (FY29 Q2)
-A Fix cash gap | B Kavita retention | C Ashoka dividend request | D Aquaflux price war response | E Profitability plan for board | F Confirm Voltrix round 1.7
-
-## FY29 Q2 decisions (in progress, Jul 2028)
-- B Kavita: (assumed BOTH) promoted to President, Valves + long-term share award (~0.5 over 4 yrs). She declined Nordvalve.
-- A Cash: bank WC limit +10 at 9.75% APPROVED (used to repay 5.0 emergency line, 5 headroom) + cost program "Project Lean" (Meera+Harish): target 3–4/yr savings in 12 months (procurement incl. Voltrix volumes, overtime, overheads, consultants, travel, energy); one-off ~0.5.
-- C Ashoka dividend: CEO wanted least possible (offered 0.5/yr); Aditya settled at 0.8/yr from Auto (≈0.4 to Ashoka). Ashoka mildly unhappy, review next year.
-- E Profitability plan: Meera leads, due FY29 Q3 (ROIC 6% → 10% path: Lean savings, specialty mix, Auto margin, working-capital release ~10, 14% hurdle rate on new projects, associates turning profitable).
-- D Aquaflux & F Voltrix round: CEO asked for details (given), decision pending.
-Aquaflux detail: owned by PE (Sterling Bridge Capital, fictional), rev ~140, ~12% margin, cutting to win share before a sale/IPO in ~2 yrs. VPIL standard valves ~66/yr at ~19%. Options: match fully (−~4.5/yr EBITDA), don't match (lose ~8–12 rev, net −0.5 to −1.0/yr after backfilling with specialty/US/Saudi parts), selective (match on ~30% strategic tenders with spares tails, −~1.2/yr).
-Voltrix round detail: ~7.5 total, lead Greenline Mobility Fund 5.0, pre-money ~50, post ~57.5; VPIL pro-rata ~1.8; second 3-wheeler maker signed small order. Options: confirm 1.8; delay (breaches partnership promise); confirm + sell ~4% secondary to Greenline (~2.0).
+## Pending decisions (FY29 Q3)
+A Approve Meera's profit plan (incl. ROIC goal) | B Flow Arabia 3.0 milestone | C US comeback push | D Bharat launch delay handling
 
 ## Decision log
 - FY27: Hosur closure→cancel→shrink; inventory write-down; land/scrap; Voltrix stake; equity raise; disclosure error & correction.
-- FY28 Q1–Q3: public correction; Ashoka 49%; bridge; alliance; Aditya chair; supplier stretch then repay; Valves Step 1; Saudi diligence; Auto engineers to Voltrix; Kaveri stalled.
-- FY28 Q4: Saudi JV renegotiated & signed; smart valves; Kaveri observer + 11% + 22 months; bridge → 5-yr loan; retention extended; small dividend. CEO renewed.
-- FY29 Q1 (goals): Valves grow + quality plan; Car Parts sustain; Deep Voltrix partnership (team terms); profit goal on hold; Voltrix pro-rata.
-  → EBITDA 8.83 (investment costs), cash gap → emergency line drawn, US tariff cut, Aquaflux price war, Kavita poaching attempt, board asks for profit plan.
+- FY28: public correction; Ashoka 49%; bridge; alliance; Aditya chair; suppliers; Valves Step 1; Saudi; Voltrix help; Kaveri stall→observer deal; refinance; CEO renewed.
+- FY29 Q1: goals; quality plan; deep Voltrix partnership; profit goal on hold.
+- FY29 Q2: Kavita retained (President + shares); bank line +10 & Project Lean; Ashoka dividend 0.8/yr; profit plan commissioned; Aquaflux → Meera/Kavita chose selective; Voltrix round 1.8 confirmed.
+  → EBITDA 8.82 flat, net ~0.3; cash gap plugged by bank line; Bharat delay; US tariff cut; Voltrix value up.
 
 ## Learning profile
-- Growth- and partnership-minded; good negotiator; consultative.
-- Repeatedly under-weights cash generation and ROIC (profit goal on hold) → recurring cash squeezes.
-- Delegates details to team recommendations.
+- Growth/partnership-minded; strong negotiator; consultative; increasingly delegates to trusted execs (Meera, Kavita, Nikhil).
+- Has under-weighted cash/ROIC; now commissioning a profit plan (improving).
