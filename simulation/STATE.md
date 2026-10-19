@@ -100,6 +100,15 @@ Repo 5.75% | Steel −1% | INR 87.8 | US tariff cut to 5% from Oct 2028 | Good m
 ## Pending decisions (FY29 Q2)
 A Fix cash gap | B Kavita retention | C Ashoka dividend request | D Aquaflux price war response | E Profitability plan for board | F Confirm Voltrix round 1.7
 
+## FY29 Q2 decisions (in progress, Jul 2028)
+- B Kavita: (assumed BOTH) promoted to President, Valves + long-term share award (~0.5 over 4 yrs). She declined Nordvalve.
+- A Cash: bank WC limit +10 at 9.75% APPROVED (used to repay 5.0 emergency line, 5 headroom) + cost program "Project Lean" (Meera+Harish): target 3–4/yr savings in 12 months (procurement incl. Voltrix volumes, overtime, overheads, consultants, travel, energy); one-off ~0.5.
+- C Ashoka dividend: CEO wanted least possible (offered 0.5/yr); Aditya settled at 0.8/yr from Auto (≈0.4 to Ashoka). Ashoka mildly unhappy, review next year.
+- E Profitability plan: Meera leads, due FY29 Q3 (ROIC 6% → 10% path: Lean savings, specialty mix, Auto margin, working-capital release ~10, 14% hurdle rate on new projects, associates turning profitable).
+- D Aquaflux & F Voltrix round: CEO asked for details (given), decision pending.
+Aquaflux detail: owned by PE (Sterling Bridge Capital, fictional), rev ~140, ~12% margin, cutting to win share before a sale/IPO in ~2 yrs. VPIL standard valves ~66/yr at ~19%. Options: match fully (−~4.5/yr EBITDA), don't match (lose ~8–12 rev, net −0.5 to −1.0/yr after backfilling with specialty/US/Saudi parts), selective (match on ~30% strategic tenders with spares tails, −~1.2/yr).
+Voltrix round detail: ~7.5 total, lead Greenline Mobility Fund 5.0, pre-money ~50, post ~57.5; VPIL pro-rata ~1.8; second 3-wheeler maker signed small order. Options: confirm 1.8; delay (breaches partnership promise); confirm + sell ~4% secondary to Greenline (~2.0).
+
 ## Decision log
 - FY27: Hosur closure→cancel→shrink; inventory write-down; land/scrap; Voltrix stake; equity raise; disclosure error & correction.
 - FY28 Q1–Q3: public correction; Ashoka 49%; bridge; alliance; Aditya chair; supplier stretch then repay; Valves Step 1; Saudi diligence; Auto engineers to Voltrix; Kaveri stalled.
