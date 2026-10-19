@@ -85,7 +85,7 @@ Repo 6.00% | Steel +3% | INR 87.1 | US tariff live; US–India trade deal talks 
 - Voltrix sample issues: gear-housing machining tolerances. APPROVED: 2 Auto engineers lent for ~3 months under paid service agreement (~0.1/qtr) + NDAs. Fix-this-quarter chance ~85% (from 70%). Sanjay's best engineer stays on Bharat.
 
 - Kaveri: CEO personally called family, Halden, Sahyadri, other big holders asking them not to sell (no formal pact; only public info shared per Rohan). Results: family firm (won't sell); Sahyadri supportive; Halden 'show me results; would consider a bid >= ~$1.40'; 2 smaller funds (~6% combined) noncommittal. Kaveri's board-seat request still UNANSWERED.
-- Ashoka $29m use: finance explained to CEO; decision pending (Meera plan vs Kavita vs all-to-debt).
+- Ashoka $29m use DECIDED (Kavita plan): 3.5 suppliers, 11.5 bridge paydown, 6.0 ring-fenced for Saudi JV (released only if Rohan's diligence passes; else goes to bridge), rest cushion. Meera agreed with conditions; reminded that ~23.5 bridge remains due ~Nov 2028.
 
 ## Pending decisions (FY28 Q3)
 A Kaveri board-seat request | B Steel suppliers / cash-in-advance | C Use of Ashoka 29.0 | D Very low cash | E Flow next growth | F Dividend policy going forward
