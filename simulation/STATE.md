@@ -73,6 +73,10 @@ Repo 5.25% | Steel flat | INR 90.3 | US tariff 5% | Steady.
 - Board committee will judge renewal on ROIC ~9%+ and Kaveri handling; renewal likely (~75%) at 9%+; below 8.5% risk rises; board may link new KPIs to ROIC ≥10% by FY34.
 - Phase 2 study: likely shows ~18% return, 12 build, JV funds half, local casting added.
 
+## Family meeting (Oct 2030) — time paused
+CEO asked family to buy +3% and said their investment would rise over 3 yrs. Rohan: CEO may not promise a price; family are directors, so they must wait for the Saudi second-project result (mid-Oct, price-sensitive) before buying; disclose in 2 days; no joint plan with Halden/Sahyadri.
+Family agreed to +3% in TWO STEPS: +2% (~4.3, from Aditya's Pune property ~2.5, Priya's trust ~2.0, Rajendra's savings ~1.0 → covers; plus +1% (~2.2) in the Jan–Mar window after Q3 results using extra family asset sales (Rajendra's farmland ~1.5, Aditya +0.7). No pledging of shares (Rajendra refuses). Illustrative Mar-2033 share value (not a promise): bear $1.80 / base $3.15 / bull $3.90 (25/50/25%). CEO's own options (2.0m @1.20): not exercised (default). Still pending: CEO renewal stance, early loan repayment (default repay ~6.0).
+
 ## Pending decisions (FY31 Q3)
 A Kaveri climbing to 19.2% — response | B Stance in CEO renewal talks | C Repay term loan early (up to 8.0) | D Phase 2 study outcome (info) + Saudi second project (info)
 
