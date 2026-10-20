@@ -4,7 +4,7 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2040 Q1 (1 Apr 2039). Player's Executive Chair term ENDED 31 Mar 2039 (board declined extension 4–5 on 24 Feb); Kavita CEO since 1 Apr 2037. Quarter 52 (FY39 Q4) played. FY39 RESULT vs Kavita's goals: sales $620.7M (≥600 ✅), operating profit $114.6M (≥113 ✅; organic $113.3M ✅), ROIC reported 14.0% (≥17 ❌) / 17.5% excluding Tidewater (✅). Remco treatment pending. FY39 net $58.0M, EPS ~$0.62.
+- Current sim date: start of FY2040 Q2 (1 Jul 2039). Player = NON-EXECUTIVE CHAIR since 1 Apr 2039 (~$0.35M/yr, no bonus; FY39 milestone bonus 30% fixed due, advisory vote Jul AGM). Kavita CEO since 1 Apr 2037. Quarter 53 (FY40 Q1) played. FY39 Kavita bonus: ROIC goal counted STRICT as reported (14.0% vs 17 = missed) per player => bonus ~67% (estimate). Kavita FY40 goals: sales $740M, profit $138M, ROIC $15.5 (reported, no neutralisation).
 - Difficulty: Realistic / Hard
 - CEO tenure COMPLETE: 44 quarters (1 Apr 2026 – 31 Mar 2037). ALL THREE STRETCH GOALS HIT at 31 Mar 2037: sales $456.5M (≥350 ✅), operating profit $87.3M (≥75 ✅), ROIC $16.7 (≥16 ✅) → full bonus (up to 150%). Vision 2040 REFRESHED (approved Apr 2037): sales $600M, profit $130M, ROIC $17. SUPERSEDED Oct 2038 by FY2043 targets: sales $900M, profit $175M, ROIC $17 (~65%). Kavita's FY38 goals (approved, reset): sales $520M, operating profit $100M, ROIC $16.5. Executive Chair: 12-month initial term, half CEO fixed pay, no bonus, Lead Independent Director Justice Raghavan safeguards.
 - Reporting currency: USD m (INR/USD 97.0)
@@ -16,10 +16,11 @@
 VPIL = listed valves company: Valves (100%; SensAqua, AquaSense, Hydrokraft, AmeriFlow [Ohio], FlowLogic Analytics [bought 20 Dec 2035], Saudi sales co 80/20, UAE hub) + corporate. Holdings: Flow Arabia JV 50/50 (Dammam util ~88%); Voltrix ~20.5% after selling 5% in Q41 ($8.0M to Greenline 3.5% + a Gulf fund 1.5%, gain $4.5M pre-tax; cost basis now 14.27; Series C $20M at $150M pre: VPIL $9.0M, Greenline $8.0M, Kaveri $3.0M [~1.8%]; our stake worth ~$43M). Car Parts sold to Kaveri Mar 2033.
 Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan [Lead Independent Director], Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~3,150.
 
-## Project Spearhead status (Q52)
-Tidewater (Dahej): specialty/duplex valves + foundry, sales ~$55M/yr, EBITDA ~$11M, spare cap ~25%; consolidated from 15 Feb; earn-out up to $11M (fair value 5.0 booked). Ohio plant ~65% used; AmeriFlow sold $10.8M of VPIL products; platform pilots 20, 22 signed 3-yr subs, subscription revenue $9.5M in Q; field engineers 40/40; Phase 7 ~65% built (live ~Jul 2039); JV Phase 3 under construction ($3M paid in Q). Share price crossed $10, market cap ~$1.0B.
+## Project Spearhead status (Q53)
+Phase 7 ~90% built, commissioning July 2039. Tidewater integrated: castings now shipped to Vadodara (saved ~$0.4M), $5M specialty overflow produced in Dahej; MD Sanjay Kulkarni stays (earn-out). Ohio plant ~70% used; AmeriFlow sold $11.4M of VPIL products; platform 24 signed 3-yr subs, subscription revenue $10.4M in Q; US target odds ~50%. JV Phase 3 under construction ($3.5M paid in Q). Lost a ~$9M Saudi tender to Kervan. Kuroda Flow Systems (Japan, bought Nord India for $152M) cut standard-valve prices ~6% in two states. Unmet demand now ~$30M (was $42.5M).
 
 ## Income statement — continuing (USD m)
+FY40 Q1 (Apr–Jun 2039): Revenue 179.7 (+23% YoY; organic ~+13.5%; Tidewater 14.0) | Adj. EBITDA 33.5 (organic 30.7 + Tidewater 2.8) | Exceptionals (1.6) | D&A 10.0 | Interest (1.15) | Associates +1.25 | Net to holders 16.5. TTM (Q50–Q53) EBITDA 121.3, ROIC TTM reported 14.5%.
 FY39 Q4 (Jan–Mar 2039): Revenue 168.7 (+18% YoY; incl. Tidewater 6.2) | Adj. EBITDA 31.5 (organic 30.2 + Tidewater 1.3) | Exceptionals (2.2) | D&A 9.4 | Interest (0.45) | Associates +1.2 | Net to holders 15.5. FY39: sales 620.7, EBITDA 114.6, net 58.0, EPS ~$0.62. TTM ROIC reported 14.0% (organic ex-Tidewater 17.5%).
 FY39 Q3 (Oct–Dec 2038): Revenue 156.0 (+17.7% YoY) | Adj. EBITDA 28.7 | Exceptionals (1.5: Tidewater costs 0.5, Nord DD 0.2, Rajkot recall 0.6, other 0.2) | D&A 8.9 | Interest (0.05) | Associates +1.15 | Net to holders 14.6. FY39 YTD sales 452.0, EBITDA 83.1. TTM (Q48–Q51) EBITDA 108.9, ROIC TTM 17.3%.
 FY39 Q2 (Jul–Sep 2038): Revenue 150.0 (+18% YoY; organic ~+14.5%) | Adj. EBITDA 27.6 (monsoon dispatch delay −0.6) | Exceptionals (1.2) | D&A 8.6 | Interest 0.0 | Associates +1.1 | Net to holders 14.2. TTM (Q47–Q50) EBITDA 105.4, ROIC TTM 17.3%.
@@ -44,23 +45,23 @@ FY36 Q4 (Jan–Mar 2036): Revenue 104.5 | Adj. EBITDA 19.9 | Exceptionals (0.8) 
 | Net income to holders | 9.2 | 9.46 | 9.42 |
 TTM (Jan–Dec 2035): Valves sales 374.4; continuing EBITDA 74.0; underlying net ~37.8 (EPS ~$0.40). ROIC TTM ≈ 14.9% (EBIT 51.1 × 0.75 / capital ~257; dip from heavy capital in progress: Phase 6 CWIP, Voltrix 17.75, FlowLogic).
 
-## Balance sheet 31 Mar 2039
-Cash 34.35 | Receivables 88.0 | Inventory 43.6 | Other CA 7.6
-PP&E 150.55 | Voltrix 14.27 | Flow Arabia 39.7 | Goodwill & intangibles 148.05 | Other NCA 3.9 | **Total ≈ 530.0**
-Payables 45.3 | Other CL 13.3 | Term loans 80.0 (25 @7.8% + 55 @~7.0%) | Other NCL 13.15 (incl. earn-outs: Aquila 1.5, Tidewater 5.0)
-**Liabilities ≈ 151.75 | Equity ≈ 378.25**
-NET DEBT ≈ 45.65 (ND/EBITDA ~0.4×; limit 1.0×). Capital for ROIC ≈ 425 (organic ≈ 337). Shares 93.11M. Dividend 20% at July AGM ≈ $11.6M.
+## Balance sheet 30 Jun 2039
+Cash 40.6 | Receivables 91.0 | Inventory 44.1 | Other CA 7.6
+PP&E 155.25 | Voltrix 14.27 | Flow Arabia 44.45 | Goodwill & intangibles 146.35 | Other NCA 3.9 | **Total ≈ 547.5**
+Payables 46.3 | Other CL 13.3 | Term loans 80.0 (25 @7.8% + 55 @~7.0%) | Other NCL 13.15 (earn-outs: Aquila 1.5, Tidewater 5.0)
+**Liabilities ≈ 152.75 | Equity ≈ 394.75**
+NET DEBT ≈ 39.4 (ND/EBITDA ~0.3x). Capital for ROIC ≈ 435. Shares 93.11M. Dividend $11.6M pays Aug.
 
 ## Kaveri / ownership
 Kaveri 0% of VPIL (and sold its Voltrix stake after Dec lock-up). Out completely.
-93.11M shares @ $10.90 → market cap 1,014.9
+93.11M shares @ $11.30 → market cap 1,052.2
 Family 39.1% | Kaveri 0% | Halden 12.7% | Himalaya 11.5% | Sahyadri 9.6% | Meru/Sundaram/Pragati/Bharat Growth 3.4% | new long-term funds 6.4% | rest ~17.3%.
 
 ## Succession / Chair
 Kavita CEO since 1 Apr 2037. Player Executive Chair (initial term to Mar 2038). Player asked for an extension at pay equal to CEO + bonus and chose to 'let the board decide' by quiet vote (12 Dec 2037): extension APPROVED 8–1; CEO-par pay + bonus REJECTED (Thomas/Anjali against 'paying two bosses'; family for; Raghavan wanted safeguards). Player ACCEPTED (Jan 2038). Board COUNTER (now agreed): 75% of CEO fixed pay + bonus up to 30% of fixed, 50% on Voltrix listing done by Jun 2038 and 50% on Kaveri below 5% by Dec 2038; subject to advisory vote at Jul 2038 AGM (~65% to reach ≥80% support; CEO-par ask would have been ~40%). Earlier approved terms were half CEO fixed, no bonus. Kavita OK with a smaller package, wants clear reporting lines. Arvind Rao heads India (retention risk ~8%). Kavita FY38 goals $520M/$100M/16.5.
 
 ## Macro
-Repo 3.75% (cut Aug) | Steel +3% | INR 98.5 | US steel-component tariff rises 5%→7% from 1 Sep 2036 (pass-through clauses in 4 of 6 new US contracts) | Strong. Nordvalve cut standard-valve prices in two Indian states; piloting 'Nord Smart'; announced purchase of Kervan Valf (Turkey, $90M) to add Gulf capacity.
+Repo 3.50% (cut May) | Steel +3% | INR 99.0 | US steel-component tariff rises 5%→7% from 1 Sep 2036 (pass-through clauses in 4 of 6 new US contracts) | Strong. Nordvalve cut standard-valve prices in two Indian states; piloting 'Nord Smart'; announced purchase of Kervan Valf (Turkey, $90M) to add Gulf capacity.
 
 ## Engine-internal (hidden)
 - Ohio plant: if go in Jan 2036, live ~Apr 2037; US target ~35% odds.
@@ -75,10 +76,10 @@ D Capacity fixes APPROVED: +40 field engineers (~$1.2M/yr), sensor line 4 (~$1.5
 E Chose Option 4: build Vadodara Phase 7 (~$24M, live ~Jul 2039) + Bharuch lease-to-buy ($0.3M option fee, ~$2.4M/yr rent, buy at $28M within 18 months; signed 10 May 2038). Tidewater/Sentinel quiet screen NOT yet approved. M&A notes: Screen candidates (fictional): Tidewater Alloys (Dahej; specialty/duplex valves + foundry; sales $55M, EBITDA $11M, ask $105M; passes 14% only at <=~$90M; ~35% to land at <=$90M, ~50% with earn-out structure e.g. $80M + <=$12M); Sentinel Pipe Controls (Pune; actuators/electronics, 140 engineers; sales $30M, EBITDA $4.8M, ask $52M; passes only at <=~$40M); Bharuch idle plant ($28M + $10M refit; ~7% return, worse than Vadodara Ph7). Acquisition would cut ROIC ~2.5 pts for ~2 yrs vs Kavita's $17 goal. Engine rec: quiet screen (~$0.5M), no approach before Voltrix IPO (Jun 2038).
 Bharuch follow-up: plant ($28M + $10M refit = $38M; ~$60M cap; 80 km from Vadodara; ~60% of machines usable; rehire ~220 + 25 engineers) can fix only ~$18M of the $42.5M gap (specialty 12, smart valve bodies 4, standard 2); service/electronics/software gaps need engineers/chips/software. Standard valves move first (mid-2039), specialty certification 12-18 months (output late 2039/2040) -> no help for FY39 $600M. Domino: move ~$30M standard from Vadodara to Bharuch to free Vadodara for specialty. Phase 7 comparison: $24M, +$32M, live ~mid-2039, ~$17 return. With ~13%/yr demand growth, FY41 demand ~$730M so BOTH Phase 7 and a second site are likely needed. Option: lease-to-buy Bharuch ($0.3M option + ~$2.4M/yr rent; buy at $28M within 18 months). Engine rec: Phase 7 first + lease-to-buy Bharuch. Side note: Vision 2040 ($600M/$130M/17) will be reached ~FY39-FY40 on current trajectory -> refresh later.
 
-## Decisions made (FY39 Q4, executed in Q52)
-A Nord India: PASSED (winner: Kuroda Flow Systems, Japan, $152M — new entrant in India standard valves). B Bharuch option extended 6 months ($0.3M) to ~May 2040. C Chair: quiet board vote on extension on same terms (24 Feb) FAILED 4–5 (yes: 3 family + Lata; no: Thomas, Anjali, Raghavan, Dev, Narayanan; reason: bridge role should end, clean authority for Kavita). D Tidewater funded: cash ~$33M + new $55M term loan (~7.0%); CLOSED 15 Feb 2039 (no delay; Suresh Naik leads Dahej integration; 380 staff; 2 foundry furnaces; consent transfer ok).
-## Pending decisions (FY40 Q1, Apr–Jun 2039) — awaiting player
-A Your role after 31 Mar 2039 (board offers non-exec Chair, ~$0.35M/yr, no bonus; FY39 milestone bonus of 30% fixed still due, advisory vote Jul): accept (rec) / ask for re-vote (risk of public split) / retire. B Remco treatment of Tidewater capital in Kavita's FY39 ROIC test (14.0% reported vs 17.5% organic): neutralise for FY39 (symmetric: exclude acquired capital AND profit for 12 months; disclose) rec / strict reported (ROIC goal missed, bonus ~67% assuming equal weights) / half credit; adopt the neutralisation rule for FY40 onward. C Kavita FY40 goals: sales $740M, profit $138M, ROIC $15.5 (reported) approve (rec) / higher ($760M/$145M/$16) / lower. D Dividend Jul AGM: 20% (~$11.6M, $0.125) rec / 25% (~$14.5M).
+## Decisions made (FY40 Q1, executed in Q53)
+A Accepted non-exec Chair (from 1 Apr). B Tidewater capital NOT neutralised: strict as-reported ROIC for Kavita's FY39 bonus (goal missed; ~67% bonus est.; no neutralisation rule). C Kavita FY40 goals approved: $740M / $138M / ROIC $15.5. D Dividend 20% (~$11.6M, $0.125) at July AGM.
+## Pending decisions (FY40 Q2, Jul–Sep 2039) — awaiting player (as non-exec Chair)
+A Kuroda cut standard-valve prices ~6% in two states (we lost ~0.4% share): hold + defend / selective cuts (rec) / match. B Debt: refinance $80M (7.8% $25M + ~7.0% $55M) into one 7-yr facility at ~6.3% (saves ~$0.8M/yr; rec) / repay $25M from cash (cash 40.6, cushion >=15) / leave. C Kavita wants a COO: promote Arvind Rao (rec; retention risk ~8%) / hire external / none.
 
 ## Business reference (FY38, engine estimates — built to sum to reported $526.5M)
 Sales by line: Specialty 130 | Standard 98 | Spares & service 78 | Industrial (Hydrokraft) 62 | Smart valves & sensors 70 | Platform subs 19.6 | US distribution (AmeriFlow third-party) 50 | Gulf parts/fees + Aquila 18.9. Regions: India ~55% (290), USA ~15% (79), Gulf ~14% (74), Europe ~6% (32), Other ~10% (51.5).
@@ -121,6 +122,8 @@ Cost of $100 sales: materials 44, labour & plant 17, freight/warranty 5, selling
 - FY39 Q3: Approved Nord India pack (no commitment), Tidewater counter (agreed $88M + earn-out), hold Voltrix, Vision FY2043 $900M/$175M/17. → Sales 156.0, EBITDA 28.7, ROIC TTM 17.3%, net cash +37.65, share $10.45.
 
 - FY39 Q4: Passed Nord India; extended Bharuch option; sought another Chair extension (board declined 4–5); funded Tidewater (cash + $55M loan). → FY39 sales 620.7 / EBITDA 114.6; ROIC 14.0% reported (17.5% organic); net debt 45.65; share $10.90.
+
+- FY40 Q1: Accepted non-exec Chair; strict (as-reported) ROIC for Kavita's FY39 bonus; FY40 goals $740M/$138M/15.5; dividend 20%. → Sales 179.7, EBITDA 33.5, ROIC TTM 14.5% (reported), net debt 39.4, share $11.30.
 
 ## Learning profile
 - Growth/partnership-minded; strong negotiator; consultative; delegates; invests aggressively with low dividends; prefers upside bets (Voltrix top-up) even when they weigh on ROIC.
