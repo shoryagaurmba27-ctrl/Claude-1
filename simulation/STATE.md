@@ -4,9 +4,9 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2039 Q3 (1 Oct 2038). Player = EXECUTIVE CHAIR (extended to Mar 2039); Kavita CEO since 1 Apr 2037. Quarter 50 (FY39 Q2) played. Kavita FY39 goals: sales $600M, profit $113M, ROIC 17. Player bonus milestones BOTH met (Voltrix listed; Kaveri below 5% — exited fully Aug/Sep 2038): 30% of fixed pay.
+- Current sim date: start of FY2039 Q4 (1 Jan 2039). Player = EXECUTIVE CHAIR (term ends 31 Mar 2039); Kavita CEO since 1 Apr 2037. Quarter 51 (FY39 Q3) played. Kavita FY39 goals: sales $600M (on track ~$615M), profit $113M (~55%), ROIC 17 (likely). Player bonus milestones both met.
 - Difficulty: Realistic / Hard
-- CEO tenure COMPLETE: 44 quarters (1 Apr 2026 – 31 Mar 2037). ALL THREE STRETCH GOALS HIT at 31 Mar 2037: sales $456.5M (≥350 ✅), operating profit $87.3M (≥75 ✅), ROIC $16.7 (≥16 ✅) → full bonus (up to 150%). Vision 2040 REFRESHED (approved Apr 2037): sales $600M, profit $130M, ROIC $17. Kavita's FY38 goals (approved, reset): sales $520M, operating profit $100M, ROIC $16.5. Executive Chair: 12-month initial term, half CEO fixed pay, no bonus, Lead Independent Director Justice Raghavan safeguards.
+- CEO tenure COMPLETE: 44 quarters (1 Apr 2026 – 31 Mar 2037). ALL THREE STRETCH GOALS HIT at 31 Mar 2037: sales $456.5M (≥350 ✅), operating profit $87.3M (≥75 ✅), ROIC $16.7 (≥16 ✅) → full bonus (up to 150%). Vision 2040 REFRESHED (approved Apr 2037): sales $600M, profit $130M, ROIC $17. SUPERSEDED Oct 2038 by FY2043 targets: sales $900M, profit $175M, ROIC $17 (~65%). Kavita's FY38 goals (approved, reset): sales $520M, operating profit $100M, ROIC $16.5. Executive Chair: 12-month initial term, half CEO fixed pay, no bonus, Lead Independent Director Justice Raghavan safeguards.
 - Reporting currency: USD m (INR/USD 97.0)
 - Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations, parallel/fast execution, low dividends/reinvestment; says "approved"/"top up"/numbers.
 - State Reports: #1–#9 delivered (#9 after FY37 Q4 = Q40–Q44). Next (#10) due after 5 more quarters (after FY39 Q1).
@@ -16,10 +16,11 @@
 VPIL = listed valves company: Valves (100%; SensAqua, AquaSense, Hydrokraft, AmeriFlow [Ohio], FlowLogic Analytics [bought 20 Dec 2035], Saudi sales co 80/20, UAE hub) + corporate. Holdings: Flow Arabia JV 50/50 (Dammam util ~88%); Voltrix ~20.5% after selling 5% in Q41 ($8.0M to Greenline 3.5% + a Gulf fund 1.5%, gain $4.5M pre-tax; cost basis now 14.27; Series C $20M at $150M pre: VPIL $9.0M, Greenline $8.0M, Kaveri $3.0M [~1.8%]; our stake worth ~$43M). Car Parts sold to Kaveri Mar 2033.
 Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan [Lead Independent Director], Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~3,150.
 
-## Project Spearhead status (Q50)
-Ohio plant ~45% used; AmeriFlow sold $9.4M of VPIL products; platform pilots 18, 18 signed 3-yr subs, subscription revenue $7.7M in Q; field engineers 40/40 hired (response ~5.2 days); sensor line 4 LIVE 22 Sep (+$14M cap). Phase 7 foundations ~20%, on budget (live ~Jul 2039). Bharuch leased with option (buy $28M by ~Nov 2039). JV Phase 3 design stage underway. Orion closed Nordvalve purchase 20 Sep; new CEO; Nord Smart prices up ~5%; Nord India standard-valve business to be sold (sale process Q3/Q4). Lost $4M Kuwait tender to a Chinese bidder. AGM July: dividend 99%, pay vote 88%.
+## Project Spearhead status (Q51)
+Ohio plant ~55% used; Texas utility order $12M; AmeriFlow sold $10.1M of VPIL products; platform pilots 19, 20 signed 3-yr subs, subscription revenue $8.6M in Q; field engineers 40/40; sensor line 4 running. Phase 7 ~45% built, on budget (live ~Jul 2039). JV Phase 3 MAIN CONTRACT signed 5 Dec after Jubail desalination win (~$14M); total $36M, our half ~$12.6M after dev-fund loan, $2.0M paid in Q (plus $3M design earlier). Rajkot casting defect: ~1,100 standard valves replaced ($0.6M), new foundry supplier fault, fixed (supports foundry argument for Tidewater). Nord Smart prices stable/higher under Orion.
 
 ## Income statement — continuing (USD m)
+FY39 Q3 (Oct–Dec 2038): Revenue 156.0 (+17.7% YoY) | Adj. EBITDA 28.7 | Exceptionals (1.5: Tidewater costs 0.5, Nord DD 0.2, Rajkot recall 0.6, other 0.2) | D&A 8.9 | Interest (0.05) | Associates +1.15 | Net to holders 14.6. FY39 YTD sales 452.0, EBITDA 83.1. TTM (Q48–Q51) EBITDA 108.9, ROIC TTM 17.3%.
 FY39 Q2 (Jul–Sep 2038): Revenue 150.0 (+18% YoY; organic ~+14.5%) | Adj. EBITDA 27.6 (monsoon dispatch delay −0.6) | Exceptionals (1.2) | D&A 8.6 | Interest 0.0 | Associates +1.1 | Net to holders 14.2. TTM (Q47–Q50) EBITDA 105.4, ROIC TTM 17.3%.
 FY39 Q1 (Apr–Jun 2038): Revenue 146.0 (+17.7% YoY; incl. Aquila) | Adj. EBITDA 26.8 | Exceptionals (1.4) | D&A 8.3 | Interest 0.0 | Associates +1.1 | Net to holders 13.7. TTM (Q46–Q49) sales 548.5, EBITDA 102.1, ROIC TTM 17.3%.
 FY38 Q4 (Jan–Mar 2038): Revenue 143.0 (+17% YoY; incl. Aquila 4.5) | Adj. EBITDA 25.8 (Ohio start-up −0.5, US packages −0.2) | Exceptionals (1.2) | D&A 8.0 | Interest (0.05) | Associates +1.05 | Net to holders 13.2. FY38 (Q45–Q48): sales 526.5, EBITDA 99.1, net 51.3, EPS ~$0.55, ROIC TTM 17.1%.
@@ -42,16 +43,16 @@ FY36 Q4 (Jan–Mar 2036): Revenue 104.5 | Adj. EBITDA 19.9 | Exceptionals (0.8) 
 | Net income to holders | 9.2 | 9.46 | 9.42 |
 TTM (Jan–Dec 2035): Valves sales 374.4; continuing EBITDA 74.0; underlying net ~37.8 (EPS ~$0.40). ROIC TTM ≈ 14.9% (EBIT 51.1 × 0.75 / capital ~257; dip from heavy capital in progress: Phase 6 CWIP, Voltrix 17.75, FlowLogic).
 
-## Balance sheet 30 Sep 2038
-Cash 57.8 | Receivables 74.0 | Inventory 34.1 | Other CA 7.6
-PP&E 118.95 | Voltrix 14.27 | Flow Arabia 32.35 | Goodwill & intangibles 90.95 | Other NCA 3.9 | **Total ≈ 433.9**
+## Balance sheet 31 Dec 2038
+Cash 62.65 | Receivables 77.0 | Inventory 34.6 | Other CA 7.6
+PP&E 123.45 | Voltrix 14.27 | Flow Arabia 35.5 | Goodwill & intangibles 89.55 | Other NCA 3.9 | **Total ≈ 448.5**
 Payables 39.3 | Other CL 13.3 | WC lines 0 | Term loan 25.0 (7.8%) | Other NCL 8.15
-**Liabilities ≈ 85.75 | Equity ≈ 348.15**
-NET CASH ≈ +32.8. Capital for ROIC ≈ 316. Shares 93.11M. Dividend $10.3M paid Aug; JV Phase 3 design $3.0M put into Flow Arabia.
+**Liabilities ≈ 85.75 | Equity ≈ 362.75**
+NET CASH ≈ +37.65. Capital for ROIC ≈ 326. Shares 93.11M. Debt room ~$100M (ND/EBITDA <=1.0x).
 
 ## Kaveri / ownership
-Kaveri 0% of VPIL: placed ALL 6.35M sh at $9.45 ($60.0M) in Aug 2038: VPIL buyback 0.94M ($8.9M), Himalaya 0.8M, Halden 0.6M, Sahyadri 0.5M, Pragati 0.4M, new long-term funds 3.11M. Kaveri keeps ~1.8% of listed Voltrix (lock-up to ~Dec). Standstill moot.
-93.11M shares @ $9.95 → market cap 926.5
+Kaveri 0% of VPIL (and sold its Voltrix stake after Dec lock-up). Out completely.
+93.11M shares @ $10.45 → market cap 973.0
 Family 39.1% | Kaveri 0% | Halden 12.7% | Himalaya 11.5% | Sahyadri 9.6% | Meru/Sundaram/Pragati/Bharat Growth 3.4% | new long-term funds 6.4% | rest ~17.3%.
 
 ## Succession / Chair
@@ -73,10 +74,10 @@ D Capacity fixes APPROVED: +40 field engineers (~$1.2M/yr), sensor line 4 (~$1.5
 E Chose Option 4: build Vadodara Phase 7 (~$24M, live ~Jul 2039) + Bharuch lease-to-buy ($0.3M option fee, ~$2.4M/yr rent, buy at $28M within 18 months; signed 10 May 2038). Tidewater/Sentinel quiet screen NOT yet approved. M&A notes: Screen candidates (fictional): Tidewater Alloys (Dahej; specialty/duplex valves + foundry; sales $55M, EBITDA $11M, ask $105M; passes 14% only at <=~$90M; ~35% to land at <=$90M, ~50% with earn-out structure e.g. $80M + <=$12M); Sentinel Pipe Controls (Pune; actuators/electronics, 140 engineers; sales $30M, EBITDA $4.8M, ask $52M; passes only at <=~$40M); Bharuch idle plant ($28M + $10M refit; ~7% return, worse than Vadodara Ph7). Acquisition would cut ROIC ~2.5 pts for ~2 yrs vs Kavita's $17 goal. Engine rec: quiet screen (~$0.5M), no approach before Voltrix IPO (Jun 2038).
 Bharuch follow-up: plant ($28M + $10M refit = $38M; ~$60M cap; 80 km from Vadodara; ~60% of machines usable; rehire ~220 + 25 engineers) can fix only ~$18M of the $42.5M gap (specialty 12, smart valve bodies 4, standard 2); service/electronics/software gaps need engineers/chips/software. Standard valves move first (mid-2039), specialty certification 12-18 months (output late 2039/2040) -> no help for FY39 $600M. Domino: move ~$30M standard from Vadodara to Bharuch to free Vadodara for specialty. Phase 7 comparison: $24M, +$32M, live ~mid-2039, ~$17 return. With ~13%/yr demand growth, FY41 demand ~$730M so BOTH Phase 7 and a second site are likely needed. Option: lease-to-buy Bharuch ($0.3M option + ~$2.4M/yr rent; buy at $28M within 18 months). Engine rec: Phase 7 first + lease-to-buy Bharuch. Side note: Vision 2040 ($600M/$130M/17) will be reached ~FY39-FY40 on current trajectory -> refresh later.
 
-## Decisions made (FY39 Q2, executed in Q50)
-A Kaveri placement supported + 1% buyback (0.94M sh, $8.9M). B Tidewater/Sentinel quiet screen approved ($0.5M). C Watch Orion/Nordvalve. D JV Phase 3 approved in stages ($3M design now; main contract on next big project — Jubail desalination tender ~$14M due Q51).
-## Pending decisions (FY39 Q3, Oct–Dec 2038) — awaiting player
-A Nord India standard-valve carve-out (Orion sale; sales ~$125M, EBITDA ~$15M; EV ask $130–150M; return 13.1% at $140M, 14.4% at <=$128M; CCI approval ~60%; two plants, cap ~$150M): request info memo + bid <=$128M only if CCI pre-filing path clear / pass / partner. B Tidewater screen result: seller at $95M cash + $10M earn-out (13.4% at $95M); counter $85M + <=$12M earn-out (~45% to land) / walk / wait; Sentinel ask $48M (11.7%). Affordability: net cash ~$33M + debt room ~$100M => cannot do both Tidewater and Nord India. C Voltrix lock-up ends ~14 Dec: hold / sell ~5% of Voltrix (~$14M) / sell more. D Vision refresh: Kavita options for FY2043: $1.0B/$200M/17 (~50%) / $900M/$175M/17 (~65%, engine rec) / keep 2040 targets.
+## Decisions made (FY39 Q3, executed in Q51)
+A Nord India sales pack requested, no commitment (bid only <=$128M if CCI path clear). B Tidewater: counter $85M + <=$12M earn-out -> heads of terms 12 Dec: $88M cash + earn-out up to $11M (if yr-2 EBITDA >= $14M); exclusivity to Feb 2039; close ~Q52. C Voltrix: hold (lock-up ended 14 Dec; Voltrix mkt cap ~$325M, our 19.1% ~$62M; Kaveri sold its Voltrix stake). D Vision refresh adopted: FY2043 $900M/$175M/ROIC 17.
+## Pending decisions (FY39 Q4, Jan–Mar 2039) — awaiting player
+A Nord India bid due 15 Feb (info memo received; 4 bidders; EV ask ~$145M; CCI Phase II likely ~55% with plant divestment): bid <=$128M / pass (engine rec: pass — leverage would exceed 1.0x if also Tidewater) / partner. B Bharuch option (buy $28M by ~Nov 2039): extend 6 months ($0.3M) rec / buy now / let lapse. C Executive Chair after 31 Mar 2039: quiet board vote on extension (same terms) / become non-exec Chair (engine rec) / retire. D Fund Tidewater ($88M cash): cash ~$35M + new term loan ~$55M at ~7.0% (rec) / sell ~5% of Voltrix (~$14M) + loan / all cash from loan.
 
 ## Business reference (FY38, engine estimates — built to sum to reported $526.5M)
 Sales by line: Specialty 130 | Standard 98 | Spares & service 78 | Industrial (Hydrokraft) 62 | Smart valves & sensors 70 | Platform subs 19.6 | US distribution (AmeriFlow third-party) 50 | Gulf parts/fees + Aquila 18.9. Regions: India ~55% (290), USA ~15% (79), Gulf ~14% (74), Europe ~6% (32), Other ~10% (51.5).
@@ -115,6 +116,8 @@ Cost of $100 sales: materials 44, labour & plant 17, freight/warranty 5, selling
 - FY39 Q1: Approved Nordvalve study, Kavita goals $600M/$113M/17, dividend 20%, capacity fixes, Option 4 (Phase 7 + Bharuch lease option). → Sales 146.0, EBITDA 26.8, ROIC TTM 17.3%, net cash +47.8, share $9.60. Voltrix listed.
 
 - FY39 Q2: Approved Kaveri placement + buyback; Tidewater screen; watch Orion; JV Phase 3 staged. → Sales 150.0, EBITDA 27.6, ROIC TTM 17.3%, net cash +32.8, share $9.95. Kaveri fully out.
+
+- FY39 Q3: Approved Nord India pack (no commitment), Tidewater counter (agreed $88M + earn-out), hold Voltrix, Vision FY2043 $900M/$175M/17. → Sales 156.0, EBITDA 28.7, ROIC TTM 17.3%, net cash +37.65, share $10.45.
 
 ## Learning profile
 - Growth/partnership-minded; strong negotiator; consultative; delegates; invests aggressively with low dividends; prefers upside bets (Voltrix top-up) even when they weigh on ROIC.
