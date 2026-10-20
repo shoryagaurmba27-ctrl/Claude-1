@@ -66,6 +66,9 @@ B Vision 2040 as BOARD ASPIRATION (to be confirmed by Kavita after Mar 2036): sa
 C June investor tour (Mumbai, Delhi, Singapore, London; ~$0.1M; cuts proxy opposition risk 35%→20%) + optional buyback authorisation up to 2% (~$10.5M), usable only if no 14% project by Dec 2036; dividend stays at 20%.
 Market share/moat (engine est.): India standard water valves ~9% (#3); India specialty ~10% (#2); smart valves/sensors ~16.5% (#2); India spares ~6.8% of market (capture ~72% of own installed base); India industrial ~4.4%; Gulf ~2.5% (#7; large-bore desalination valves ~5–6%); US ~0.4%; global ~0.6%. Moat: ~58 approved-supplier lists, installed base ~125,000 valves, 14 patents, ~18,000 connected sensors, 170 service engineers; strong in specialty/spares, moderate in smart pipes/Gulf, weak in standard/industrial/US distribution.
 
+## Moat actions APPROVED (Apr 2035): 1 supplier lists (+10; ~$0.5M/yr), 2 multi-year service contracts (~$0.8M; target spares capture 72%→80%), 3 software platform for sensor data (~$3M over 2 yrs), 6 retention for 40 key people (~$0.5M/yr). CEO wants 'deep, faster, parallel execution' and higher market share in SPECIALTY VALVES, SMART VALVES and USA.
+PROJECT SPEARHEAD (proposed, awaiting approval): specialty India share 10%→14% / Gulf large-bore 5.8%→9% (sales 66→~110 by FY38; fast-track Phase 6 ~$18M); smart valves/sensors India 16.5%→24% (43→~120; optional bolt-on FlowLogic Analytics ~$12M); USA 0.4%→1.2% (42→~130; NSF/AWWA certifications ~$2.5M, Ohio assembly ~$12M [for Buy-America rules], 25 US sales hires ~$3.5M/yr; optional Midland Valve ~$45M later). Year-1 spend ~$41M (+12 FlowLogic); funded by cash flow + ~$25M 5-yr loan; PMO led by Nikhil; stage gates. Engine odds: specialty ~60%, smart ~60%, US ~35%; expected FY38 sales ~$540M if all succeed (Vision 2040 reached early).
+
 ## Pending decisions (resolved above)
 
 ## Decision log
