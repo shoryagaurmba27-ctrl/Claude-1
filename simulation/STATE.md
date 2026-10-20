@@ -57,8 +57,10 @@ Repo 4.25% (cut 25bp Feb) | Steel +4% | INR 97.4 | US tariff 5%, proposal to rai
 - ROIC $16 by Mar 2037 ~45% unless a recovery plan (partial Voltrix sale ~$7–10M, WC release, asset sales) adds ~0.8–1.2 pts.
 - Voltrix may IPO ~2038 (value $250M+).
 
-## Pending decisions (FY37 Q1, Apr–Jun 2036) — awaiting player
-A Dividend at July AGM: 20% minimum (~$7.6M) vs 25%. B US tariff proposal (5%→8%): wait / pass-through clauses / speed Ohio stage 2 now. C Nordvalve price cuts: match / hold + service packages / selective. D Arvind Rao: role + retention vs none.
+## Decisions made (FY37 Q1, Apr–Jun 2036; time paused for $16 plan)
+A Dividend 20% (~$7.6M, $0.08). B US tariff: pass-through clauses in new US contracts; Ohio stage-2 gate stays at 10 of 12. C Nordvalve: selective price cuts in the two states only. D Arvind Rao: new role (head of India Operations) + ~$0.6M/3yr retention.
+Player: "we need to reach $16" (ROIC). Engine base case ~14.3–14.5 at Mar 2037 (~40%); needs EBITDA ~$85–88M AND capital trimmed.
+Pending: pick $16 package — Light (WC release $6M + land $4M + cost programme $3M EBIT → ~50%) / Full (+ sell 5% Voltrix ~$8M → ~60%) / Max (+ defer Ohio stage 2 → ~68%, US odds 35%→30%). Engine recommends Full.
 
 ## Decision log
 - FY27–FY36 Q2: see earlier history.
