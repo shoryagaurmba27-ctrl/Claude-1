@@ -60,8 +60,13 @@ Repo 4.50% | Steel flat | INR 95.9 | US tariff 5% | Strong.
 - Phase 6 needed by FY37 (specialty ~100% used again) — start design 2036 to be live 2037.
 - Board will want a long-term vision for Kavita (Vision 2040).
 
-## Pending decisions (FY36 Q1)
-A Approve studies: Phase 6 and JV Phase 3 | B Vision 2040 goals for next CEO | C AGM/proxy engagement and capital returns (buyback / dividend)
+## Decisions made (FY36 Q1, CEO 'All these all' = team package) — market share & moat briefing given, time paused
+A Phase 6 (Vadodara adjacent 18 acres; ~$18M for ~$30M sales; ~$17–19 return) and JV Phase 3 (Dammam $50M→$80M; total ~$36M, VPIL ~$18M or ~$12.6M after Saudi loan; ~$16 return) STUDIES approved (~$0.2M); decide by early 2036.
+B Vision 2040 as BOARD ASPIRATION (to be confirmed by Kavita after Mar 2036): sales $500M, op. profit $110M, ROIC $17 by 2040 (~55%).
+C June investor tour (Mumbai, Delhi, Singapore, London; ~$0.1M; cuts proxy opposition risk 35%→20%) + optional buyback authorisation up to 2% (~$10.5M), usable only if no 14% project by Dec 2036; dividend stays at 20%.
+Market share/moat (engine est.): India standard water valves ~9% (#3); India specialty ~10% (#2); smart valves/sensors ~16.5% (#2); India spares ~6.8% of market (capture ~72% of own installed base); India industrial ~4.4%; Gulf ~2.5% (#7; large-bore desalination valves ~5–6%); US ~0.4%; global ~0.6%. Moat: ~58 approved-supplier lists, installed base ~125,000 valves, 14 patents, ~18,000 connected sensors, 170 service engineers; strong in specialty/spares, moderate in smart pipes/Gulf, weak in standard/industrial/US distribution.
+
+## Pending decisions (resolved above)
 
 ## Decision log
 - FY27–FY34: see earlier history.
