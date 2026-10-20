@@ -66,8 +66,15 @@ Repo 3.75% (cut Aug) | Steel +3% | INR 98.5 | US steel-component tariff rises 5%
 
 ## Decisions made (FY38 Q4)
 A Accepted board pay counter (75% fixed + milestone bonus up to 30%; advisory vote Jul 2038; proxy pre-read neutral-positive, ~85% expected). B US price-protected packages approved NOW (4 of 5 signed). C Kaveri: wait until after Voltrix IPO, then use 1%-a-year rule.
-## Pending decisions (FY39 Q1, Apr–Jun 2038) — awaiting player
-A Nordvalve strategic review (Orion Capital circling): quietly study a bid for Nordvalve India standard-valve business (advisers ~$0.4M) / ignore / approach for partnership. B Kavita's FY39 goals: $600M sales, $113M profit, ROIC 17 (approve) / lower ($580M/$108M/17) / keep FY38. C Dividend at July AGM: 20% (~$10.3M) / 25%.
+## Decisions made (FY39 Q1, Apr–Jun 2038; time PAUSED for business briefing — say 'advance')
+A Nordvalve (Orion Capital circling): quietly study a bid for Nordvalve India standard-valve business (advisers ~$0.4M); do not approach. B Kavita's FY39 goals: sales $600M, operating profit $113M, ROIC $17. C Dividend at July AGM 20% (~$10.3M, ~$0.11).
+
+## Business reference (FY38, engine estimates — built to sum to reported $526.5M)
+Sales by line: Specialty 130 | Standard 98 | Spares & service 78 | Industrial (Hydrokraft) 62 | Smart valves & sensors 70 | Platform subs 19.6 | US distribution (AmeriFlow third-party) 50 | Gulf parts/fees + Aquila 18.9. Regions: India ~55% (290), USA ~15% (79), Gulf ~14% (74), Europe ~6% (32), Other ~10% (51.5).
+Demand ~569 vs sales 526.5 → unmet ~42.5 (7.5%): specialty -12, spares/service -10, smart/sensors -10, platform -4.4, standard -2, US -2, Gulf -2.1. Orders ~578 (1.10×), backlog ~225 (~5.1 months). By region gaps: India -18, USA -11, Gulf -10, Europe -2, Other -1.5.
+Plants: Vadodara cap ~271 (Ph4+5+6), ~94% used; Rajkot ~90 cap, ~92%; sensor/smart-module lines ~68 cap, ~93%; Dammam JV ~55 cap (2nd shift), ~97%, JV sales ~53, JV net ~8 (our half ~4 = associates); Ohio assembly plant opened 15 Jan 2038 (ramping); Aquila 3 service centres (Dammam, Jubail, Dubai). People ~3,500. Field engineers ~250.
+Gulf: Saudi sales co (Riyadh, 80/20 with Al-Rimal) ~$34M; UAE hub (Dubai/Jebel Ali) ~$21M serving UAE/Qatar/Kuwait/Oman/Bahrain; Aquila ~$5.2M in-year ($18M/yr); 5 utilities on price-protected 3-yr service (~$31M). Candidates: JV Phase 3 (Dammam to ~$80M; total $36M, our half ~$12.6M after dev-fund loan; ~$16 return; studied, not approved), Vadodara Phase 7 (~$24M, +$32M capacity), sensor line 4 (~$1.5M, +$14M), +40 field engineers.
+Cost of $100 sales: materials 44, labour & plant 17, freight/warranty 5, selling & admin 11, R&D/Spearhead 4.2, EBITDA 18.8.
 
 ## Decision log
 - FY27–FY36 Q2: see earlier history.
