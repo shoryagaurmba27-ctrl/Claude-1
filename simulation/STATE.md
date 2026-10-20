@@ -21,7 +21,7 @@ Phase 6 steady at full output. Specialty engineers 12/12; supplier lists 10/10 d
 Cost programme $3M/yr run-rate reached. Gulf: 5 utilities locked in (~$31M).
 
 ## Income statement — continuing (USD m)
-FY37 Q3 (Oct–Dec 2036): Revenue 115.5 (+16.4% YoY) | Adj. EBITDA 22.1 (Hydrokraft supplier delay −0.5) | Exceptionals (0.8) | D&A 7.1 | Interest (0.1) | Associates +0.9 | Net to holders 11.25. TTM sales 439.2 (Q40–Q43: 104.5+108.0+111.0+115.5 = 439.0), TTM EBITDA 84.1, ROIC TTM 16.1%.
+FY37 Q3 (Oct–Dec 2036): Revenue 115.5 (+16.4% YoY) | Adj. EBITDA 22.1 (Hydrokraft supplier delay −0.5) | Exceptionals (0.8) | D&A 7.1 | Interest (0.1) | Associates +0.9 | Net to holders 11.25. TTM sales 439.0 (Q40–Q43: 104.5+108.0+111.0+115.5), TTM EBITDA 84.1, ROIC TTM 16.1%.
 FY37 Q2 (Jul–Sep 2036): Revenue 111.0 (+16.6% YoY) | Adj. EBITDA 21.5 | Exceptionals (0.7) | D&A 7.0 | Interest (0.05) | Associates +0.85 | Net to holders 10.95. TTM sales 422.7, TTM EBITDA 81.05, ROIC 15.7%.
 FY37 Q1 (Apr–Jun 2036): Revenue 108.0 (+18% YoY) | Adj. EBITDA 20.6 | Exceptionals (0.9) | D&A 6.7 | Interest (0.1) | Associates +0.85 | Underlying net 10.3 | Gains after tax +4.4 (Voltrix 3.6, land 0.8) | Reported net to holders 14.7.
 FY36 Q4 (Jan–Mar 2036): Revenue 104.5 | Adj. EBITDA 19.9 | Exceptionals (0.8) | D&A 6.4 | Interest (0.15) | Associates +0.8 | Net to holders 10.0. FY36 total: revenue 390.2, EBITDA 75.45, net ≈38.1 (EPS ~$0.40).
