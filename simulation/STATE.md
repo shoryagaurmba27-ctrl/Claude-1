@@ -56,8 +56,13 @@ Repo 4.50% | Steel flat | INR 97.0 | US tariff 5% | Strong.
 - ROIC $16 by Mar 2037 ~45% unless a recovery plan (partial Voltrix sale ~$7–10M, WC release, asset sales) adds ~0.8–1.2 pts.
 - Voltrix may IPO ~2038 (value $250M+).
 
-## Pending decisions (FY36 Q4)
-A Ohio plant go/no-go ($12M) | B ROIC recovery plan (Project Return) | C Kavita's naming (March) & first-100-days plan
+## Decisions made (FY36 Q4; time paused for Kaveri question)
+A Ohio plant: GO IN STAGES — $4M site/early works now; remaining ~$8M after 10 of 12 families certified.
+B ROIC recovery plan (Project Return): SKIPPED (Voltrix held; ROIC $16 by Mar 2037 stays ~45%).
+C Kavita: quiet board vote in March, then announce (no formal first-100-days plan yet).
+Kaveri-selldown question answered: Kaveri 14.9% (14.15M sh); free to sell any time (standstill caps only increases); engine: another 1.9M block within 6 months at ≥$6.30 ~55%; ≤10% by 2038 ~50%; VPIL buyback of part (2% ≈ $12M) possible but would lift family to ~39.1% and cash is tight; buyers: Himalaya, Sahyadri, Halden, Meru, Sundaram, new funds; block discount ~2–3%.
+
+## Pending decisions (resolved above)
 
 ## Decision log
 - FY27–FY36 Q2: see earlier history.
