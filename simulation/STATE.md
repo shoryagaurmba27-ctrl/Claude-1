@@ -4,7 +4,7 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2038 Q3 (1 Oct 2037). Player = EXECUTIVE CHAIR; Kavita CEO since 1 Apr 2037. Quarter 46 (FY38 Q2) played.
+- Current sim date: start of FY2038 Q4 (1 Jan 2038). Player = EXECUTIVE CHAIR; Kavita CEO since 1 Apr 2037. Quarter 47 (FY38 Q3) played.
 - Difficulty: Realistic / Hard
 - CEO tenure COMPLETE: 44 quarters (1 Apr 2026 – 31 Mar 2037). ALL THREE STRETCH GOALS HIT at 31 Mar 2037: sales $456.5M (≥350 ✅), operating profit $87.3M (≥75 ✅), ROIC $16.7 (≥16 ✅) → full bonus (up to 150%). Vision 2040 REFRESHED (approved Apr 2037): sales $600M, profit $130M, ROIC $17. Kavita's FY38 goals (approved, reset): sales $520M, operating profit $100M, ROIC $16.5. Executive Chair: 12-month initial term, half CEO fixed pay, no bonus, Lead Independent Director Justice Raghavan safeguards.
 - Reporting currency: USD m (INR/USD 97.0)
@@ -16,11 +16,13 @@
 VPIL = listed valves company: Valves (100%; SensAqua, AquaSense, Hydrokraft, AmeriFlow [Ohio], FlowLogic Analytics [bought 20 Dec 2035], Saudi sales co 80/20, UAE hub) + corporate. Holdings: Flow Arabia JV 50/50 (Dammam util ~88%); Voltrix ~20.5% after selling 5% in Q41 ($8.0M to Greenline 3.5% + a Gulf fund 1.5%, gain $4.5M pre-tax; cost basis now 14.27; Series C $20M at $150M pre: VPIL $9.0M, Greenline $8.0M, Kaveri $3.0M [~1.8%]; our stake worth ~$43M). Car Parts sold to Kaveri Mar 2033.
 Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan [Lead Independent Director], Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~3,150.
 
-## Project Spearhead status (Q46)
-Service contracts 102 (capture ~81%); platform pilots 14 utilities, 10 signed 3-yr subscriptions, subscription revenue $4.5M in Q; Nord Smart bundle (platform+service ~10% cheaper, 3-yr) retained 5 renewals, lost 1. US: AmeriFlow sold $6.8M; Ohio plant PULLED FORWARD to Jan 2038 (second shift; extra ~$3M; 3-week crane delay absorbed); $18M Midwest order protected; US target odds ~42%. Voltrix: confidential IPO filing, lock-up agreed (no VPIL sale), talk of $260–300M value; listing targeted Q2 2038.
-Cost programme $3M/yr. Gulf: 5 utilities locked in. Nordvalve profit warning (Kervan integration costly).
+## Project Spearhead status (Q47)
+Service contracts 108; platform pilots 15 utilities, 12 signed 3-yr subscriptions, subscription revenue $5.2M in Q; AmeriFlow sold $7.4M; Ohio plant opens ~15 Jan 2038 ($18M Midwest order protected); US target odds ~42%. Voltrix: IPO targeted Q2 2038, lock-up agreed (no VPIL sale), value talk $260–300M.
+Aquila Gulf Services bought 15 Dec 2037: $16.0M cash + earn-out up to $1.5M (if yr-2 EBITDA ≥ $2.4M); EBITDA ~$2.0M, revenue ~$18M/yr; return ~14.1% by yr3 even with full earn-out (passes 14% hurdle). Adds ROIC drag short-term.
+Cost programme $3M/yr. Gulf: 5 utilities locked in.
 
 ## Income statement — continuing (USD m)
+FY38 Q3 (Oct–Dec 2037): Revenue 132.5 (+14.7% YoY; incl. Aquila 0.7) | Adj. EBITDA 25.2 | Exceptionals (1.1) | D&A 7.7 | Interest (0.05) | Associates +1.0 | Net to holders 13.0. TTM (Q44–Q47) EBITDA 96.4, ROIC TTM 16.9% (dip: Aquila capital in, profits not yet).
 FY38 Q2 (Jul–Sep 2037): Revenue 127.0 (+14.4% YoY) | Adj. EBITDA 24.3 | Exceptionals (0.9) | D&A 7.5 | Interest 0.0 | Associates +1.0 | Net to holders 12.7. TTM (Q43–Q46) EBITDA 93.3, ROIC TTM 17.4%.
 FY38 Q1 (Apr–Jun 2037): Revenue 124.0 (+14.8% YoY) | Adj. EBITDA 23.8 (steel +6% costs ~0.4) | Exceptionals (0.8) | D&A 7.4 | Interest 0.0 | Associates +0.95 | Net to holders 12.4. TTM (Q42–Q45) EBITDA 90.5, ROIC TTM 17.1%.
 FY37 Q4 (Jan–Mar 2037): Revenue 122.0 (+16.7% YoY) | Adj. EBITDA 23.1 | Exceptionals (1.0) | D&A 7.2 | Interest (0.1) | Associates +0.9 | Net to holders 11.8. FY37 (Q41–Q44): sales 456.5, EBITDA 87.3, underlying net 44.3 (EPS ~$0.47), ROIC 16.7%.
@@ -39,20 +41,20 @@ FY36 Q4 (Jan–Mar 2036): Revenue 104.5 | Adj. EBITDA 19.9 | Exceptionals (0.8) 
 | Net income to holders | 9.2 | 9.46 | 9.42 |
 TTM (Jan–Dec 2035): Valves sales 374.4; continuing EBITDA 74.0; underlying net ~37.8 (EPS ~$0.40). ROIC TTM ≈ 14.9% (EBIT 51.1 × 0.75 / capital ~257; dip from heavy capital in progress: Phase 6 CWIP, Voltrix 17.75, FlowLogic).
 
-## Balance sheet 30 Sep 2037
-Cash 63.05 | Receivables 64.0 | Inventory 32.1 | Other CA 7.6
-PP&E 104.15 | Voltrix 14.27 | Flow Arabia 25.1 | Goodwill & intangibles 83.35 | Other NCA 3.9 | **Total ≈ 397.5**
-Payables 39.3 | Other CL 13.3 | WC lines 0 | Term loan 25.0 (7.8%) | Other NCL 6.65
-**Liabilities ≈ 84.25 | Equity ≈ 313.25**
-NET CASH ≈ +38.05. Capital for ROIC ≈ 276. Dividend 20% paid Aug ($8.9M, $0.094; vote 99%; pay vote 92%). Shares 94.05M.
+## Balance sheet 31 Dec 2037
+Cash 56.75 | Receivables 68.0 | Inventory 32.6 | Other CA 7.6
+PP&E 107.75 | Voltrix 14.27 | Flow Arabia 26.1 | Goodwill & intangibles 95.05 | Other NCA 3.9 | **Total ≈ 412.0**
+Payables 39.3 | Other CL 13.3 | WC lines 0 | Term loan 25.0 (7.8%) | Other NCL 8.15 (incl. Aquila earn-out 1.5)
+**Liabilities ≈ 85.75 | Equity ≈ 326.25**
+NET CASH ≈ +31.75. Capital for ROIC ≈ 296. Shares 94.05M. Capital rule added: up to 1% a year buyback with excess cash (cushion ≥ $15M).
 
 ## Kaveri / ownership
 Kaveri 6.8% (6.35M sh) after placing 5.7M sh at $7.70 in Apr 2037 ($43.9M): VPIL buyback 0.95M, Himalaya 0.9M, Halden 0.5M, Sahyadri 0.5M, new long-term funds 2.85M. Kaveri holds rest until Voltrix lists; standstill caps at 24.9% to ~2045. (+ ~1.8% of Voltrix)
-94.05M shares @ $8.30 → market cap 780.6
+94.05M shares @ $8.65 → market cap 813.5
 Family 38.7% | Kaveri 6.8% | Halden 11.9% | Himalaya 10.5% | Sahyadri 9.0% | Meru/Sundaram/Pragati/Bharat Growth 2.9% | new long-term funds 3.0% | rest ~17.2%.
 
-## Succession
-DONE. Kavita CEO since 1 Apr 2037; player Executive Chair (12-month initial term, half CEO fixed pay, no bonus; LID Justice Raghavan safeguards). Arvind Rao heads India (retention risk ~8%). Dev's stress-test risks: US, integration load, Kaveri. Kavita's FY38 goals reset to $520M/$100M/16.5 (original $450M was below FY37 actual).
+## Succession / Chair
+Kavita CEO since 1 Apr 2037. Player Executive Chair (initial term to Mar 2038). Player asked for an extension at pay equal to CEO + bonus and chose to 'let the board decide' by quiet vote (12 Dec 2037): extension APPROVED 8–1; CEO-par pay + bonus REJECTED (Thomas/Anjali against 'paying two bosses'; family for; Raghavan wanted safeguards). Board COUNTER: 75% of CEO fixed pay + bonus up to 30% of fixed, 50% on Voltrix listing done by Jun 2038 and 50% on Kaveri below 5% by Dec 2038; subject to advisory vote at Jul 2038 AGM (~65% to reach ≥80% support; CEO-par ask would have been ~40%). Earlier approved terms were half CEO fixed, no bonus. Kavita OK with a smaller package, wants clear reporting lines. Arvind Rao heads India (retention risk ~8%). Kavita FY38 goals $520M/$100M/16.5.
 
 ## Macro
 Repo 3.75% (cut Aug) | Steel flat | INR 98.5 | US steel-component tariff rises 5%→7% from 1 Sep 2036 (pass-through clauses in 4 of 6 new US contracts) | Strong. Nordvalve cut standard-valve prices in two Indian states; piloting 'Nord Smart'; announced purchase of Kervan Valf (Turkey, $90M) to add Gulf capacity.
@@ -62,11 +64,10 @@ Repo 3.75% (cut Aug) | Steel flat | INR 98.5 | US steel-component tariff rises 5
 - ROIC $16 by Mar 2037 ~45% unless a recovery plan (partial Voltrix sale ~$7–10M, WC release, asset sales) adds ~0.8–1.2 pts.
 - Voltrix may IPO ~2038 (value $250M+).
 
-## Decisions made (FY38 Q2)
-A Dividend 20%. B Voltrix IPO: lock-up, no sale. C Nord Smart: bundle ~10% cheaper on 3-yr. D Ohio pulled forward to Jan 2038.
-## Pending decisions (FY38 Q3, Oct–Dec 2037) — awaiting player
-A Kavita's bolt-on: Aquila Gulf Services ($18M asked, EBITDA ~$2.0M; at $18M return ~13.75% by yr3 < 14% hurdle; at $16M ~15.5%): approve up to $16M / allow $18M exception / pass. B Your Executive Chair term ends Mar 2038: extend 12 months / become non-exec Chair / leave at term end. C Voltrix IPO timing: support Q2 2038 / prefer later. D Capital rules refresh: keep / add 'up to 1% a year buyback with excess cash' / raise payout to 30%.
-Kaveri: 6.8%, says holds until Voltrix lists; Raghu hints may sell the rest after IPO.
+## Decisions made (FY38 Q3)
+A Aquila approved up to $16M (closed $16M + earn-out). B Chair: board decides by quiet vote → extension yes, pay counter-offer (see above). C Voltrix IPO: support Q2 2038. D Capital rule: up to 1% a year buyback with excess cash.
+## Pending decisions (FY38 Q4, Jan–Mar 2038) — awaiting player
+A Respond to board counter-package: accept / negotiate toward 100% fixed no bonus / decline pay (stay at half, no bonus). B Ohio plant opens 15 Jan: US price-protected packages for 5 US utilities (~$25M) — approve now / after plant proves out / skip. C Kaveri (6.8%, Raghu hints sell after IPO): form buyer group now / wait until after IPO and use 1%-a-year rule / pass.
 
 ## Decision log
 - FY27–FY36 Q2: see earlier history.
@@ -90,6 +91,8 @@ Kaveri: 6.8%, says holds until Voltrix lists; Raghu hints may sell the rest afte
 - FY38 Q1: Approved Kaveri placement + buyback; Chair role; hold cash; Vision 2040 $600M/$130M/17; reset FY38 goals. → Sales 124.0, EBITDA 23.8, ROIC TTM 17.1%, net cash +39.75, share $8.00.
 
 - FY38 Q2: Approved dividend 20%, Voltrix lock-up, Nord Smart bundle, Ohio pulled forward. → Sales 127.0, EBITDA 24.3, ROIC TTM 17.4%, net cash +38.05, share $8.30.
+
+- FY38 Q3: Approved Aquila (≤$16M), 1% a year buyback rule, Voltrix IPO Q2 2038; asked board for extension + CEO-par pay + bonus (board approved extension, countered pay). → Sales 132.5, EBITDA 25.2, ROIC TTM 16.9%, net cash +31.75, share $8.65.
 
 ## Learning profile
 - Growth/partnership-minded; strong negotiator; consultative; delegates; invests aggressively with low dividends; prefers upside bets (Voltrix top-up) even when they weigh on ROIC.
