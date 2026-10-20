@@ -4,9 +4,9 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2038 Q1 (1 Apr 2037). Indian FY = Apr–Mar. Player is now EXECUTIVE CHAIR; Kavita is CEO from 1 Apr 2037.
+- Current sim date: start of FY2038 Q2 (1 Jul 2037). Player = EXECUTIVE CHAIR; Kavita CEO since 1 Apr 2037. Quarter 45 (FY38 Q1) played.
 - Difficulty: Realistic / Hard
-- CEO tenure COMPLETE: 44 quarters (1 Apr 2026 – 31 Mar 2037). ALL THREE STRETCH GOALS HIT at 31 Mar 2037: sales $456.5M (≥350 ✅), operating profit $87.3M (≥75 ✅), ROIC $16.7 (≥16 ✅) → full bonus (up to 150%). Vision 2040 aspiration: sales $500M, profit $110M, ROIC $17 (new proposal pending). Executive Chair: 12-month initial term, half CEO fixed pay, no bonus, Lead Independent Director Justice Raghavan safeguards.
+- CEO tenure COMPLETE: 44 quarters (1 Apr 2026 – 31 Mar 2037). ALL THREE STRETCH GOALS HIT at 31 Mar 2037: sales $456.5M (≥350 ✅), operating profit $87.3M (≥75 ✅), ROIC $16.7 (≥16 ✅) → full bonus (up to 150%). Vision 2040 REFRESHED (approved Apr 2037): sales $600M, profit $130M, ROIC $17. Kavita's FY38 goals (approved, reset): sales $520M, operating profit $100M, ROIC $16.5. Executive Chair: 12-month initial term, half CEO fixed pay, no bonus, Lead Independent Director Justice Raghavan safeguards.
 - Reporting currency: USD m (INR/USD 97.0)
 - Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations, parallel/fast execution, low dividends/reinvestment; says "approved"/"top up"/numbers.
 - State Reports: #1–#9 delivered (#9 after FY37 Q4 = Q40–Q44). Next (#10) due after 5 more quarters (after FY39 Q1).
@@ -16,11 +16,12 @@
 VPIL = listed valves company: Valves (100%; SensAqua, AquaSense, Hydrokraft, AmeriFlow [Ohio], FlowLogic Analytics [bought 20 Dec 2035], Saudi sales co 80/20, UAE hub) + corporate. Holdings: Flow Arabia JV 50/50 (Dammam util ~88%); Voltrix ~20.5% after selling 5% in Q41 ($8.0M to Greenline 3.5% + a Gulf fund 1.5%, gain $4.5M pre-tax; cost basis now 14.27; Series C $20M at $150M pre: VPIL $9.0M, Greenline $8.0M, Kaveri $3.0M [~1.8%]; our stake worth ~$43M). Car Parts sold to Kaveri Mar 2033.
 Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan [Lead Independent Director], Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~3,150.
 
-## Project Spearhead status (Q44, final)
-Phase 6 at full output. Specialty engineers 12/12; supplier lists 10/10 done; service contracts 90 (capture ~81%); platform pilots at 12 utilities, 7 signed 3-yr subscriptions, subscription revenue $3.4M in Q; Nord Smart competing ~15% cheaper; US: 12 of 12 families certified DONE, 25/25 hires, AmeriFlow sold $6.2M; Ohio stage 2 contract signed 30 Mar 2037 ($1.5M state grant secured; $8M paid in milestones from Apr 2037); US target ($130M by 2038) odds ~33%. Voltrix: banks chosen, listing targeted Q2 2038; our 20.5% (≈19% after IPO dilution).
-Cost programme $3M/yr. Gulf: 5 utilities locked in (~$31M).
+## Project Spearhead status (Q45)
+Phase 6 full output. Service contracts 96 (capture ~81%); platform pilots 13 utilities, 8 signed 3-yr subscriptions, subscription revenue $3.9M in Q; Nordvalve cut Nord Smart price a further ~10% (we lost 2 more tenders). US: 12/12 families certified; AmeriFlow won $18M multi-year Midwest water-authority order CONTINGENT on Ohio plant live by mid-2038 (plant now scheduled ~Apr 2038; US target odds ~38%); Ohio stage 2 milestone paid $3.0M of $8M; $1.5M state grant secured. Voltrix: listing targeted Q2 2038; Ishaan wants VPIL lock-up decision.
+Cost programme $3M/yr. Gulf: 5 utilities locked in (~$31M). Kavita's team: Arvind Rao (India), Gulf head, Americas head.
 
 ## Income statement — continuing (USD m)
+FY38 Q1 (Apr–Jun 2037): Revenue 124.0 (+14.8% YoY) | Adj. EBITDA 23.8 (steel +6% costs ~0.4) | Exceptionals (0.8) | D&A 7.4 | Interest 0.0 | Associates +0.95 | Net to holders 12.4. TTM (Q42–Q45) EBITDA 90.5, ROIC TTM 17.1%.
 FY37 Q4 (Jan–Mar 2037): Revenue 122.0 (+16.7% YoY) | Adj. EBITDA 23.1 | Exceptionals (1.0) | D&A 7.2 | Interest (0.1) | Associates +0.9 | Net to holders 11.8. FY37 (Q41–Q44): sales 456.5, EBITDA 87.3, underlying net 44.3 (EPS ~$0.47), ROIC 16.7%.
 FY37 Q3 (Oct–Dec 2036): Revenue 115.5 (+16.4% YoY) | Adj. EBITDA 22.1 (Hydrokraft supplier delay −0.5) | Exceptionals (0.8) | D&A 7.1 | Interest (0.1) | Associates +0.9 | Net to holders 11.25. TTM sales 439.0 (Q40–Q43: 104.5+108.0+111.0+115.5), TTM EBITDA 84.1, ROIC TTM 16.1%.
 FY37 Q2 (Jul–Sep 2036): Revenue 111.0 (+16.6% YoY) | Adj. EBITDA 21.5 | Exceptionals (0.7) | D&A 7.0 | Interest (0.05) | Associates +0.85 | Net to holders 10.95. TTM sales 422.7, TTM EBITDA 81.05, ROIC 15.7%.
@@ -37,33 +38,33 @@ FY36 Q4 (Jan–Mar 2036): Revenue 104.5 | Adj. EBITDA 19.9 | Exceptionals (0.8) 
 | Net income to holders | 9.2 | 9.46 | 9.42 |
 TTM (Jan–Dec 2035): Valves sales 374.4; continuing EBITDA 74.0; underlying net ~37.8 (EPS ~$0.40). ROIC TTM ≈ 14.9% (EBIT 51.1 × 0.75 / capital ~257; dip from heavy capital in progress: Phase 6 CWIP, Voltrix 17.75, FlowLogic).
 
-## Balance sheet 31 Mar 2037
-Cash 64.2 | Receivables 61.0 | Inventory 30.6 | Other CA 7.6
-PP&E 98.15 | Voltrix 14.27 | Flow Arabia 23.15 | Goodwill & intangibles 85.75 | Other NCA 3.9 | **Total ≈ 388.6**
+## Balance sheet 30 Jun 2037
+Cash 64.75 | Receivables 62.5 | Inventory 31.6 | Other CA 7.6
+PP&E 100.45 | Voltrix 14.27 | Flow Arabia 24.1 | Goodwill & intangibles 84.55 | Other NCA 3.9 | **Total ≈ 393.7**
 Payables 39.3 | Other CL 13.3 | WC lines 0 | Term loan 25.0 (7.8%) | Other NCL 6.65
-**Liabilities ≈ 84.25 | Equity ≈ 304.35**
-NET CASH ≈ +39.2. Capital for ROIC ≈ 266. Approved: 1% buyback (~$7.5M) Apr–Jun 2037. Dividend 20% of profit at July AGM (~$8.9M).
+**Liabilities ≈ 84.25 | Equity ≈ 309.45**
+NET CASH ≈ +39.75. Capital for ROIC ≈ 271. 1% buyback done (0.95M sh at $7.70 = $7.3M) → 94.05M shares. Dividend 20% of profit at July AGM (~$8.9M) pays in Q46.
 
 ## Kaveri / ownership
-Kaveri 12.7% (12.05M sh; sold 0.9M block Nov 2036 at $7.12 to Sahyadri 0.4M + Bharat Growth Fund 0.5M; earlier 1.2M block Feb 2036 to Himalaya + Pragati) (+ ~1.8% of Voltrix). Standstill cap 24.9% to ~2045.
-95.0M shares @ $7.85 → market cap 745.75
-Family 38.3% | Kaveri 12.7% | Halden 11.3% | Himalaya 9.4% | Sahyadri 8.4% | Meru 1.4% | Sundaram 0.5% | Pragati 0.5% | Bharat Growth Fund 0.5% | rest ~17.0%.
+Kaveri 6.8% (6.35M sh) after placing 5.7M sh at $7.70 in Apr 2037 ($43.9M): VPIL buyback 0.95M, Himalaya 0.9M, Halden 0.5M, Sahyadri 0.5M, new long-term funds 2.85M. Kaveri holds rest until Voltrix lists; standstill caps at 24.9% to ~2045. (+ ~1.8% of Voltrix)
+94.05M shares @ $8.00 → market cap 752.4
+Family 38.7% | Kaveri 6.8% | Halden 11.9% | Himalaya 10.5% | Sahyadri 9.0% | Meru/Sundaram/Pragati/Bharat Growth 2.9% | new long-term funds 3.0% | rest ~17.2%.
 
 ## Succession
-DONE: Kavita is CEO from 1 Apr 2037. Player = Executive Chair (12-month initial term). Arvind Rao heads India Operations (retention risk ~8%). Dev's stress-test risks: US, integration load, Kaveri. Kavita's FY38 goals (approved): sales $450M → note FY37 already 456.5, so engine to treat FY38 targets as sales $520M? (approved text said $450M/$100M/$16.5 — engine must flag it as below TTM and propose resetting). 
+DONE. Kavita CEO since 1 Apr 2037; player Executive Chair (12-month initial term, half CEO fixed pay, no bonus; LID Justice Raghavan safeguards). Arvind Rao heads India (retention risk ~8%). Dev's stress-test risks: US, integration load, Kaveri. Kavita's FY38 goals reset to $520M/$100M/16.5 (original $450M was below FY37 actual).
 
 ## Macro
-Repo 4.00% (cut Dec) | Steel +4% | INR 98.0 | US steel-component tariff rises 5%→7% from 1 Sep 2036 (pass-through clauses in 4 of 6 new US contracts) | Strong. Nordvalve cut standard-valve prices in two Indian states; piloting 'Nord Smart'; announced purchase of Kervan Valf (Turkey, $90M) to add Gulf capacity.
+Repo 4.00% (cut Dec) | Steel +6% | INR 98.0 | US steel-component tariff rises 5%→7% from 1 Sep 2036 (pass-through clauses in 4 of 6 new US contracts) | Strong. Nordvalve cut standard-valve prices in two Indian states; piloting 'Nord Smart'; announced purchase of Kervan Valf (Turkey, $90M) to add Gulf capacity.
 
 ## Engine-internal (hidden)
 - Ohio plant: if go in Jan 2036, live ~Apr 2037; US target ~35% odds.
 - ROIC $16 by Mar 2037 ~45% unless a recovery plan (partial Voltrix sale ~$7–10M, WC release, asset sales) adds ~0.8–1.2 pts.
 - Voltrix may IPO ~2038 (value $250M+).
 
-## Decisions made (FY37 Q4)
-Ohio contract signed end-March, pay in milestones; 1% buyback approved Apr–Jun; WC push done; FY38 goals for Kavita approved ($450M/$100M/16.5 — below FY37 actual on sales; flag).
-## Pending decisions (FY38 Q1, Apr–Jun 2037) — awaiting player (as Executive Chair)
-A Kaveri wants to place ~6% (5.7M sh, ~$45M) to long-term holders: support+anchor with buyback / support only / stay neutral. B Chair role: coach (hands-off) / lead Kaveri, Voltrix IPO, board while Kavita runs operations / stay in operations. C Use of ~$31M net cash after buyback: hold / bolt-ons ($30–50M, 14% hurdle) / raise dividend payout. D Vision 2040 refresh: keep ($500M/$110M/$17) / $600M/$130M/17 / $700M/$150M/17.
+## Decisions made (FY38 Q1)
+A Kaveri placement supported + buyback 1% used. B Player leads Kaveri, Voltrix IPO and board; Kavita runs operations. C Cash held. D Vision 2040 = $600M/$130M/17. E Kavita FY38 goals reset.
+## Pending decisions (FY38 Q2, Jul–Sep 2037) — awaiting player
+A Dividend at July AGM: 20% (~$8.9M, ~$0.095) / 25%. B Voltrix IPO: lock-up, no sale / sell 2–3% (~$6M) in IPO / keep option for later secondary. C Nord Smart price war: bundle platform+service at ~10% cheaper on 3-yr contracts / hold price / match. D Pull Ohio plant forward to Jan 2038 (extra ~$3M, second shift) to secure $18M US order / keep Apr 2038.
 
 ## Decision log
 - FY27–FY36 Q2: see earlier history.
@@ -83,6 +84,8 @@ A Kaveri wants to place ~6% (5.7M sh, ~$45M) to long-term holders: support+ancho
   → Sales 115.5, EBITDA 22.1, ROIC TTM 16.1%, net cash +28.6, share $7.40. Kaveri sold 0.9M block (12.7%).
 
 - FY37 Q4: Approved Ohio contract timing, 1% buyback, WC push, FY38 goals. → Sales 122.0, EBITDA 23.1, FY37 sales 456.5 / EBITDA 87.3 / ROIC 16.7%, net cash +39.2, share $7.85. Tenure ends; Kavita CEO.
+
+- FY38 Q1: Approved Kaveri placement + buyback; Chair role; hold cash; Vision 2040 $600M/$130M/17; reset FY38 goals. → Sales 124.0, EBITDA 23.8, ROIC TTM 17.1%, net cash +39.75, share $8.00.
 
 ## Learning profile
 - Growth/partnership-minded; strong negotiator; consultative; delegates; invests aggressively with low dividends; prefers upside bets (Voltrix top-up) even when they weigh on ROIC.
