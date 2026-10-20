@@ -71,3 +71,7 @@ Kaveri-selldown question answered: Kaveri 14.9% (14.15M sh); free to sell any ti
 
 ## Learning profile
 - Growth/partnership-minded; strong negotiator; consultative; delegates; invests aggressively with low dividends; prefers upside bets (Voltrix top-up) even when they weigh on ROIC.
+
+
+## Latest decision (FY36 Q4, Jan 2036)
+- Kaveri sell-down: Option 2 chosen. VPIL signals to Raghu that orderly block sales are welcome and VPIL will introduce long-term buyers. No cost.
