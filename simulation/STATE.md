@@ -4,7 +4,7 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2043 Q1 (1 Apr 2042). Player = NON-EXECUTIVE CHAIR since 1 Apr 2039. Kavita CEO (initial 5-yr term ended 31 Mar 2042: renewal pending); Arvind Rao COO (emergency CEO); Vikram Sethi CFO; CHRO Meenakshi Rajan; CMO Ritu Anand. Quarter 64 (FY42 Q4) played. FY42 RESULT vs Kavita goals: sales $963.5M (≥960 ✅), operating profit $185.4M (≥182 ✅), ROIC 17.7% (≥16 ✅) — all three met, full bonus. FY42 net $90.9M (EPS ~$0.98; ex earn-out charge $96.9M). Vision 2046: $1.4B/$270M/17. State Report #13 due after Q67.
+- Current sim date: start of FY2043 Q2 (1 Jul 2042). Player = NON-EXECUTIVE CHAIR since 1 Apr 2039. Kavita CEO — 5-yr renewal to 31 Mar 2047 (accepted); Arvind Rao COO (emergency CEO); Vikram Sethi CFO; CHRO Meenakshi Rajan; CMO Ritu Anand. Quarter 65 (FY43 Q1) played. Kavita FY43 goals (HIGHER option): sales $1,100M, profit $215M, ROIC $17 — engine path ~$1,083M / ~$211.5M (odds ~35–38%). Vision 2046: $1.4B/$270M/17. State Report #13 due after Q67. STANDING INSTRUCTION (player, Apr 2042): NO SALE OF VOLTRIX EQUITY WITHOUT DISCUSSING WITH THE CHAIR FIRST (the $600M sell trigger now only prompts a discussion).
 - Difficulty: Realistic / Hard
 - CEO tenure COMPLETE: 44 quarters (1 Apr 2026 – 31 Mar 2037). ALL THREE STRETCH GOALS HIT at 31 Mar 2037: sales $456.5M (≥350 ✅), operating profit $87.3M (≥75 ✅), ROIC $16.7 (≥16 ✅) → full bonus (up to 150%). Vision 2040 REFRESHED (approved Apr 2037): sales $600M, profit $130M, ROIC $17. SUPERSEDED Oct 2038 by FY2043 targets: sales $900M, profit $175M, ROIC $17 (~65%). Kavita's FY38 goals (approved, reset): sales $520M, operating profit $100M, ROIC $16.5. Executive Chair: 12-month initial term, half CEO fixed pay, no bonus, Lead Independent Director Justice Raghavan safeguards.
 - Reporting currency: USD m (INR/USD 97.0)
@@ -16,10 +16,11 @@
 VPIL = listed valves company: Valves (100%; SensAqua, AquaSense, Hydrokraft, AmeriFlow [Ohio], FlowLogic Analytics [bought 20 Dec 2035], Saudi sales co 80/20, UAE hub) + corporate. Holdings: Flow Arabia JV 50/50 (Dammam util ~88%); Voltrix ~20.5% after selling 5% in Q41 ($8.0M to Greenline 3.5% + a Gulf fund 1.5%, gain $4.5M pre-tax; cost basis now 14.27; Series C $20M at $150M pre: VPIL $9.0M, Greenline $8.0M, Kaveri $3.0M [~1.8%]; our stake worth ~$43M). Car Parts sold to Kaveri Mar 2033.
 Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan [Lead Independent Director], Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~3,150.
 
-## Project Spearhead status (Q64)
-Unmet demand ~$3M. Bharuch $48M run-rate. Ohio ~98% used; Phase 2 live ~Jul 2042. Retrofit 44 boards; platform 46 subs, ~$22M in Q; AmeriFlow ~$19M. Net cash ~26.9. Voltrix mkt cap ~$480M.
+## Project Spearhead status (Q65)
+Unmet demand ~$3M. Bharuch $48M run-rate. Ohio Phase 2 live early Jul 2042 (+$30M). Retrofit 52 boards; platform 48 subs; AmeriFlow ~$19.8M. Net cash ~44.4.
 
 ## Income statement — continuing (USD m)
+FY43 Q1 (Apr–Jun 2042): Revenue 258.0 (+12.4% YoY) | Adj. EBITDA 46.5 | Exceptionals (1.8) | D&A 14.6 | Interest (0.2) | Associates +2.2 | Net to holders 24.1. TTM (Q62–Q65) sales 992.0, EBITDA 187.6, ROIC 17.7%.
 FY42 Q4 (Jan–Mar 2042): Revenue 254.5 (+13% YoY) | Adj. EBITDA 48.7 | Exceptionals (2.0) | D&A 14.3 | Interest (0.4) | Associates +2.1 | Net to holders 25.6. FY42: sales 963.5, EBITDA 185.4, net 90.9. TTM ROIC 17.7%.
 FY42 Q3 (Oct–Dec 2041): Revenue 244.5 (+13.2% YoY) | Adj. EBITDA 47.4 | Exceptionals (1.6) | D&A 14.0 | Interest (0.5) | Associates +2.0 | Net to holders 25.0. TTM (Q60–Q63) sales 934.0, EBITDA 179.1, ROIC 17.4%.
 FY42 Q2 (Jul–Sep 2041): Revenue 235.0 (+13.3% YoY) | Adj. EBITDA 45.0 (Bharuch +0.6, Kuroda −0.3, marketing office −0.6, outreach −0.1) | Exceptionals (1.6) | D&A 13.6 | Interest (0.6) | Associates +1.9 | Net to holders 23.3. TTM (Q59–Q62) sales 905.5, EBITDA 172.5, net 81.8 (EPS ~$0.88; ~$0.94 ex earn-out charge), ROIC 16.9% reported (rule exclusion ended).
@@ -56,16 +57,16 @@ FY36 Q4 (Jan–Mar 2036): Revenue 104.5 | Adj. EBITDA 19.9 | Exceptionals (0.8) 
 | Net income to holders | 9.2 | 9.46 | 9.42 |
 TTM (Jan–Dec 2035): Valves sales 374.4; continuing EBITDA 74.0; underlying net ~37.8 (EPS ~$0.40). ROIC TTM ≈ 14.9% (EBIT 51.1 × 0.75 / capital ~257; dip from heavy capital in progress: Phase 6 CWIP, Voltrix 17.75, FlowLogic).
 
-## Balance sheet 31 Mar 2042
-Cash 106.9 | Receivables 120.5 | Inventory 48.6 | Other CA 7.6
-PP&E 227.65 | Voltrix 14.27 | Flow Arabia 75.35 | Goodwill & intangibles 123.45 | Other NCA 3.9 | **Total ≈ 728.2**
+## Balance sheet 30 Jun 2042
+Cash 124.4 | Receivables 123.5 | Inventory 48.6 | Other CA 7.6
+PP&E 231.35 | Voltrix 14.27 | Flow Arabia 77.55 | Goodwill & intangibles 121.15 | Other NCA 3.9 | **Total ≈ 752.3**
 Payables 50.8 | Other CL 13.3 | Term loan 80.0 (@ ~6.3%) | Other NCL 8.15 (Aquila earn-out 1.5)
-**Liabilities ≈ 152.25 | Equity ≈ 575.95**
-NET CASH ≈ +26.9. Capital for ROIC ≈ 550. Shares 93.11M. Dividend ~$18.2M pays after July AGM.
+**Liabilities ≈ 152.25 | Equity ≈ 600.05**
+NET CASH ≈ +44.4. Capital for ROIC ≈ 557. Shares 93.11M. Dividend ~$18.2M pays Aug.
 
 ## Kaveri / ownership
 Kaveri 0% of VPIL (and sold its Voltrix stake after Dec lock-up). Out completely.
-93.11M shares @ $17.10 → market cap 1,592.2
+93.11M shares @ $17.40 → market cap 1,620.1
 Family 39.1% | Kaveri 0% | Halden 12.7% | Himalaya 11.5% | Sahyadri 9.6% | Meru/Sundaram/Pragati/Bharat Growth 3.4% | new long-term funds 6.4% | rest ~17.3%.
 
 ## Succession / Chair
@@ -97,11 +98,11 @@ A Bharuch wave 2 Steady. B Dahej foundry second line ($9M; furnace ordered; live
 ## Decisions made (FY42 Q3, executed in Q63)
 A CMO = Ritu Anand (accepted; joins 1 Jan 2042). B Retrofit push = AGGRESSIVE (~$7M/yr; 150 boards by FY44; ~$60M revenue by FY44; execution risk): Q63 36 boards signed (from 28), 55 pilots, run-rate ~$6.6M, pilot conversion 57%; leak-savings guarantee launched in Maharashtra (first contract signed); marketing office 38 of 45 hired; head of retrofit sales Karan Mehta. No quality incident yet. C Kuroda: hold prices + selective cuts in 3 states (~$1.5M/yr): lost only 1 small tenders, won 2; Kuroda did not escalate; Kuroda announced partnership with Tokai Sensors to offer its own retrofit/monitoring from 2042 (threat). Bharuch attrition 12%.
 Q63 facts: Gulf WIN — Yanbu desalination expansion, $48M valve+sensor package over 3 years (VPIL ~$30M, JV ~$18M); needs ~$9M bank guarantee. External board evaluation delivered (see pending A). Ohio ~98% used (Phase 2 on track); AmeriFlow $18.2M; platform 44 subs, $20.8M in Q; US odds ~62%; unmet demand ~$3M. Voltrix mkt cap ~$480M. Repo 3.0, steel +1%, INR 102.
-## Decisions made (FY42 Q4, executed in Q64) — meeting package approved ('end meeting')
-Training centres Pune (Feb) + Chennai (Mar) opened; US: 12 reps (8 hired) + 2 service hubs (1 open) + second-site (Texas) study started; Yanbu project office + $9M bank guarantee issued (first shipments ~Jun); Aquila retrofit unit 10 of 15 hired; Voltrix: HOLD with trigger (sell 25% of stake at mkt cap >= $600M); second source for sensor boards signed (Helix Circuits, Taiwan).
-Q64 facts: Retrofit 44 boards signed (36 before), 62 pilots, run-rate ~$8.8M, 11 boards signed lock-in exclusivity; 2 flagship case studies (Maharashtra 11% water saved; Tamil Nadu 9%); Kuroda+Tokai launched 'KuroNet' retrofit in 4 states; AI leak-prediction v2 due Dec 2042. US: $20M multi-year Texas order for Phase 2 capacity. New independent directors named (join 1 Apr 2042): Dr. Leena Varghese (software/digital) and Mark Ellison (US/international). Voltrix: smart-meter+valve combo pilot with a Dubai utility. Repo 3.0, steel +2%, INR 102.5.
-## Pending decisions (FY43 Q1, Apr–Jun 2042) — awaiting player
-A Kavita's contract (5-yr term ended 31 Mar 2042): renew 5 yrs with performance conditions + LTIP (rec) / renew 3 yrs / defer. B Kavita FY43 goals: sales $1,080M, profit $210M, ROIC $17: approve (rec) / higher ($1,100M/$215M/17) / lower. C Dividend Jul AGM: 20% of FY42 net 90.9 = ~$18.2M ($0.195) rec / 25% (~$22.7M) / 20% + 1% buyback (~$16M).
+## Decisions made (FY43 Q1, executed in Q65)
+A Kavita renewed 5 years to 31 Mar 2047 with performance conditions (ROIC floor 15%, relative TSR) + LTIP; board unanimous. B FY43 goals HIGHER: $1,100M / $215M / ROIC $17. C Dividend 20% of FY42 net ($18.2M, $0.195) pays Aug after July AGM. D Standing instruction on Voltrix (see Meta).
+Q65 facts: margin dip — EBITDA 46.5 (18.0%): steel +5% (May), Red Sea freight (~$1.0M), Ohio Phase 2 pre-opening costs (−0.8), Kuroda pressure (−0.8), new programme costs (−0.8). Phase 2 live early Jul 2042. Yanbu first shipments June (on time). Retrofit 52 boards signed, 70 pilots, run-rate ~$10.9M; Aquila unit 15/15; KuroNet won 3 boards; lock-in 19 boards. US: 12 reps hired; Texas second-site study done: Houston-area plant ~$45M, +$60M cap, live ~2044, would lift US odds to ~72%. New directors Varghese + Ellison joined 1 Apr. Voltrix mkt cap ~$517M (+7.7%); our 19.1% ≈ $98.8M. Kuroda Gujarat ~40% used; Kuroda India share ~23%. Repo 3.0, steel +5%, INR 103.
+## Pending decisions (FY43 Q2, Jul–Sep 2042) — awaiting player
+A Houston plant ($45M; subject to Project Capital Rule): approve in stages ($6M land+design now, rest after Ohio Phase 2 proves out; rec) / approve fully / wait. B Cost pressure (steel +5%, freight): 2.5% surcharge on new quotes for 6 months + hedge 60% of next 12 months' steel (~$0.3M) both (rec) / one / none. C Net cash $44M (+ dividend $18.2M due Aug): repay $40M of the 6.3% term loan (saves ~$2.5M/yr; rec) / 1% buyback (~$17M) / hold for one-at-a-time bolt-ons.
 
 ## Business reference (TTM Sep 2040, engine estimates; sum ~$800M)
 Portfolio sales/margin(before head office ~$33M): Specialty (Vadodara) 175 ~28% | Standard 115 ~19% | Spares & service 118 ~30% | Smart valves & sensors 112 ~24% | Industrial (Hydrokraft) 72 ~15% | Tidewater (specialty/duplex valves 42 + castings 16) 58 ~20% | Platform subs 54 ~25% | US distribution (AmeriFlow third-party) 66 ~9% | Gulf parts/fees + Aquila 30 ~22%.
@@ -173,6 +174,8 @@ Cost of $100 sales: materials 44, labour & plant 17, freight/warranty 5, selling
 - FY42 Q3: Approved CMO Ritu Anand, AGGRESSIVE retrofit push, hold + selective cuts vs Kuroda. → Sales 244.5, EBITDA 47.4, ROIC 17.4%, net cash +11.7, share $16.30. Yanbu win.
 
 - FY42 Q4: Approved the Retrofit/US/Gulf/Voltrix package. → FY42 sales 963.5 / EBITDA 185.4 / ROIC 17.7%; net cash 26.9; share $17.10. Kavita hit all three goals.
+
+- FY43 Q1: Approved Kavita 5-yr renewal, HIGHER FY43 goals, dividend 20%; Voltrix no-sale-without-Chair instruction. → Sales 258.0, EBITDA 46.5 (margin dip), ROIC 17.7%, net cash 44.4, share $17.40.
 
 ## Learning profile
 - Growth/partnership-minded; strong negotiator; consultative; delegates; invests aggressively with low dividends; prefers upside bets (Voltrix top-up) even when they weigh on ROIC.
