@@ -4,22 +4,23 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2049 Q4 (1 Jan 2049). Player = NON-EXECUTIVE CHAIR since 1 Apr 2039. Kavita CEO (to 31 Mar 2050; contract condition margin >=17.5% by Mar 2049 — effectively missed (~5%); board review April 2049); Arvind Rao owns P&L Americas+Gulf, CEO-in-waiting; Vikrant Chadha Deputy COO / COO-designate; Neha Kapoor CEO Service & Digital; Dan Whitaker President Americas; Rahul Bose Head of Programmes; CTO Dr. Rohit Banerjee RESIGNED 12 Dec 2048 (leaves Mar 2049 to Tokai Sensors; garden leave from 1 Jan); Dr. Ananya Rao* acting CTO; Vikram Sethi CFO; CHRO Meenakshi Rajan; CMO Ritu Anand; CSO Neil D'Cruz; LID Dev. Quarter 91 (FY49 Q3) played. Kavita FY49 goals: sales $2,000M (pace ~$1,970M), profit $330M (pace ~$299M), margin >=16.5% (YTD 15.1 ❌), LTIFR <=0.9 (0.8 ✅), ROIC rule 17 (20.0 ✅). State Report #18 due after Q92. STANDING INSTRUCTION: NO SALE OF VOLTRIX EQUITY WITHOUT DISCUSSING WITH THE CHAIR FIRST.
+- Current sim date: start of FY2050 Q1 (1 Apr 2049). Player = NON-EXECUTIVE CHAIR since 1 Apr 2039. Kavita CEO (to 31 Mar 2050; 17.5% margin condition MISSED — board review April 2049); Arvind Rao owns P&L Americas+Gulf, CEO-in-waiting; Vikrant Chadha Deputy COO / COO-designate; Neha Kapoor CEO Service & Digital; Dan Whitaker President Americas; Rahul Bose Head of Programmes; Dr. Ananya Rao CTO (promoted); Vikram Sethi CFO; CHRO Meenakshi Rajan; CMO Ritu Anand; CSO Neil D'Cruz; LID Dev; Mira Fernandes leads Project Home. Quarter 92 (FY49 Q4) played. FY49 RESULT vs Kavita goals (continuing ops): sales $1,967.6M (≥2,000; 98.4% -> 80%), operating profit $297.8M (≥330; 90.2% -> 0), margin 15.1% (≥16.5 ❌; Q4 exit 15.2% vs condition 17.5% ❌), LTIFR ~0.8 (≤0.9 ✅), ROIC rule basis 20.2% (≥17 ✅; reported 13.4%). Bonus: policy ~56%, strict 40%. FY49 net $151.0M (EPS ~$1.64). Vision FY2050: $2.4B/$430M/17. State Report #18 delivered after Q92; next (#19) after Q97. STANDING INSTRUCTION: NO SALE OF VOLTRIX EQUITY WITHOUT DISCUSSING WITH THE CHAIR FIRST.
 - Difficulty: Realistic / Hard
 - CEO tenure COMPLETE: 44 quarters (1 Apr 2026 – 31 Mar 2037). ALL THREE STRETCH GOALS HIT at 31 Mar 2037: sales $456.5M (≥350 ✅), operating profit $87.3M (≥75 ✅), ROIC $16.7 (≥16 ✅) → full bonus (up to 150%). Vision 2040 REFRESHED (approved Apr 2037): sales $600M, profit $130M, ROIC $17. SUPERSEDED Oct 2038 by FY2043 targets: sales $900M, profit $175M, ROIC $17 (~65%). Kavita's FY38 goals (approved, reset): sales $520M, operating profit $100M, ROIC $16.5. Executive Chair: 12-month initial term, half CEO fixed pay, no bonus, Lead Independent Director Justice Raghavan safeguards.
 - Reporting currency: USD m (INR/USD 97.0)
 - Player preference: SIMPLE, plain language. Explain business terms in everyday words; short sentences; fewer numbers per screen. Player likes exec meetings, explanations, parallel/fast execution, low dividends/reinvestment; says "approved"/"top up"/numbers.
-- State Reports: #1–#17 delivered (#17 after Q87). Next (#18) due after Q92.
+- State Reports: #1–#18 delivered (#18 after Q92). Next (#19) due after Q97.
 - Corrections logged: Q61 'B -2' interpreted as the $1.4B Vision 2046 AND FY42 goals as recommended ($960M/$182M/$16) — player to correct if different. State Report #10 was due after Q49 and skipped; delivered late after Q52 (covering Q45–Q52). Bharuch plant return '~$7' was a year-3 partial-fill figure; fuller view: ~6% yr3, ~9-10% yr4, ~14-15% yr5 at 75% fill (Q48 briefing follow-up). Q43 'sales safe at about $440M' — correct TTM figure is ~$456M (arithmetic slip, flagged Q44). Voltrix top-up quoted '~27% for ~$9M' — $9M gives ~25.5%; 27% needs ~$11.6M.
 
 ## Structure
 VPIL = listed valves company: Valves (100%; SensAqua, AquaSense, Hydrokraft, AmeriFlow [Ohio], FlowLogic Analytics [bought 20 Dec 2035], Saudi sales co 80/20, UAE hub) + corporate. Holdings: Flow Arabia JV 50/50 (Dammam util ~88%); Voltrix ~20.5% after selling 5% in Q41 ($8.0M to Greenline 3.5% + a Gulf fund 1.5%, gain $4.5M pre-tax; cost basis now 14.27; Series C $20M at $150M pre: VPIL $9.0M, Greenline $8.0M, Kaveri $3.0M [~1.8%]; our stake worth ~$43M). Car Parts sold to Kaveri Mar 2033.
 Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan [Lead Independent Director], Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~3,150.
 
-## Project Spearhead status (Q91)
-Net cash ~196.0; bond $100M. Retrofit 276 boards; platform ~98 subs. Houston ~95%.
+## Project Spearhead status (Q92)
+Net cash ~203.7; bond $100M. Retrofit 285 boards; platform ~100 subs. Houston ~96%.
 
 ## Income statement — continuing (USD m)
+FY49 Q4 (Jan–Mar 2049): Revenue 517.2 (continuing; +9.9% YoY) | Adj. EBITDA 78.7 (15.2%) | Exceptionals (4.0) | D&A 26.4 | Net interest +1.0 | Associates +4.9 | Net to holders 40.7. FY49: sales 1,967.6, EBITDA 297.8 (15.1%), net 151.0. TTM ROIC reported 13.4% / rule basis 20.2%.
 FY49 Q3 (Oct–Dec 2048): Revenue 495.0 (continuing; +8.9% YoY) | Adj. EBITDA 74.1 (15.0%) | Exceptionals (3.9) | D&A 25.9 | Net interest +1.0 | Associates +4.8 | Net to holders 37.6. FY49 YTD sales 1,450.4, EBITDA 219.1. TTM (Q88–Q91) EBITDA 291.3, ROIC reported 13.5% / rule basis 20.0%.
 FY49 Q2 (Jul–Sep 2048): Revenue 481.2 (continuing; +5.5% YoY) | Adj. EBITDA 71.9 (14.9%) | Exceptionals (4.5) | D&A 25.4 | Net interest +1.0 | Associates +4.7 | Net to holders 35.8. FY49 YTD sales 955.4, EBITDA 145.0. TTM (Q87–Q90) EBITDA 287.6, ROIC reported 13.7% / rule basis 19.9%.
 FY49 Q1 (Apr–Jun 2048): Revenue 474.2 (continuing; +9.0% YoY) | Adj. EBITDA 73.1 (15.4%) | Exceptionals (4.4) | D&A 25.0 | Net interest +0.9 | Associates +4.6 | Net to holders 36.9. TTM (Q86–Q89) EBITDA 282.5, ROIC reported 13.9% / rule basis 19.8%.
@@ -83,16 +84,16 @@ FY36 Q4 (Jan–Mar 2036): Revenue 104.5 | Adj. EBITDA 19.9 | Exceptionals (0.8) 
 | Net income to holders | 9.2 | 9.46 | 9.42 |
 TTM (Jan–Dec 2035): Valves sales 374.4; continuing EBITDA 74.0; underlying net ~37.8 (EPS ~$0.40). ROIC TTM ≈ 14.9% (EBIT 51.1 × 0.75 / capital ~257; dip from heavy capital in progress: Phase 6 CWIP, Voltrix 17.75, FlowLogic).
 
-## Balance sheet 31 Dec 2048
-Cash 296.0 | Receivables 190.5 | Inventory 37.1 | Other CA 7.6
-PP&E 599.25 | Voltrix 25.77 | Flow Arabia 169.85 | Goodwill & intangibles 99.55 | Other NCA 3.9 | **Total ≈ 1,429.5**
+## Balance sheet 31 Mar 2049
+Cash 303.7 | Receivables 194.0 | Inventory 37.1 | Other CA 7.6
+PP&E 626.85 | Voltrix 25.77 | Flow Arabia 174.75 | Goodwill & intangibles 96.55 | Other NCA 3.9 | **Total ≈ 1,470.2**
 Payables 50.8 | Other CL 13.3 | Bonds 100.0 (7-yr @ 6.13%) | Other NCL 12.15
-**Liabilities ≈ 176.25 | Equity ≈ 1,253.25**
-NET CASH ≈ +196.0. Capital for ROIC ≈ 1,058 (rule basis ≈ 715). Shares 92.18M.
+**Liabilities ≈ 176.25 | Equity ≈ 1,293.95**
+NET CASH ≈ +203.7. Capital for ROIC ≈ 1,091 (rule basis ≈ 723). Shares 92.18M. Dividend ~$30.2M after July AGM.
 
 ## Kaveri / ownership
 Kaveri 0% of VPIL (and sold its Voltrix stake after Dec lock-up). Out completely.
-92.18M shares @ $29.30 → market cap 2,700.8
+92.18M shares @ $30.10 → market cap 2,774.6
 Family 39.5% | Kaveri 0% | Halden 12.8% | Himalaya 11.6% | Sahyadri 9.7% | Meru/Sundaram/Pragati/Bharat Growth 3.4% | new long-term funds 6.5% | rest ~16.5%.
 
 ## Succession / Chair
@@ -138,16 +139,16 @@ A Kavita renewed 3 yrs to 31 Mar 2050 (board 11–2; Thomas + Anjali wanted 2 yr
 Q83 facts: JV Phase 4 OPENED 18 Dec (+$40M JV cap). Sales 452.3, EBITDA 64.7 (14.3%; noise −2.23). Retrofit 203 boards, 188 pilots, ~$54.8M. No lost-time injury 2 quarters; LTIFR ~1.1. VOLTRIX CRISIS: short-seller report 3 Dec alleging revenue-recognition issues in smart-meter contracts; Voltrix audit committee started independent investigation; CFO resigned; shares −31.3% to ~$537M (−49% from $1,063M peak); our 19.1% ≈ $102.6M (cost basis $25.8M); our observer attends. Kuroda steady (~10% cuts in 4 states). Repo 2.75, steel stable, INR 112.
 ## Decisions made (FY47 Q4, executed in Q84)
 'End meeting' approved the team's Hydrokraft plan: sell only if best bid >=$118M with protections, else fix. RESULT: Tomoe Industrial (Japan) signed 20 Mar 2047 at $120.4M; protections: Rajkot jobs kept 3 yrs (all ~640 staff transfer), 5-yr casting supply deal with Dahej (~$12M/yr), non-solicit, 12-month transition services, protection for VPIL water customers; closing expected June 2047 (Q85); gain ~$45M pre-tax (~$36M after tax) booked at closing. Ravi Gupta stays CEO under Tomoe (2 yrs). Capital discipline rule in force. Voltrix: hold + investigation: interim finding — no evidence of fabricated revenue, contract accounting aggressive; final report due May; shares +16% to ~$623M; stake ≈ $119M.
-Q84 facts: Sales 466.6, EBITDA 68.1 (14.6%). GULF WIN: Rabigh desalination expansion $48M (VPIL $29M, JV $19M). Planning-system rollout slipped 3 months (+$0.8M). Rajkot→Bharuch consolidation completed (Mar). Retrofit 212 boards, 196 pilots, ~$57.4M. Third quarter without lost-time injury (LTIFR ~1.1). Kuroda steady. Repo 2.5, steel stable, INR 116.0.
+Q84 facts: Sales 466.6, EBITDA 68.1 (14.6%). GULF WIN: Rabigh desalination expansion $48M (VPIL $29M, JV $19M). Planning-system rollout slipped 3 months (+$0.8M). Rajkot→Bharuch consolidation completed (Mar). Retrofit 212 boards, 196 pilots, ~$57.4M. Third quarter without lost-time injury (LTIFR ~1.1). Kuroda steady. Repo 2.5, steel stable, INR 116.5.
 B2B note (answered Jan 2047 turn): VPIL is 100% B2B/B2G; no consumer sales; ~70% public-sector-linked (water boards 45%, EPC contractors on public projects 25%), industrial 15%, distributors 10%, other 5%.
 ## Decisions made (FY49 Q1, executed in Q89)
 Player: EXPAND INTEGRATION OFFICE -> Programme Office: Head of Programmes Rahul Bose* (ex-programme director, engineering major; starts 1 Aug), 8 programme managers (5 hired), outside assurance on the 3 big projects, stage gates, weekly dashboard to Kavita + monthly to Margin Committee, ~$2.5M/yr; 13 projects rated 9 green / 3 amber (incl. Houston stage 3 permitting) / 1 red. A Kavita FY48 bonus: policy (~50%). B FY49 goals approved: $2,000M / $330M / margin >=16.5% (Q4 exit >=17.5%) / LTIFR <=0.9 / ROIC 17. C COO SUCCESSION: Vikrant Chadha named COO-designate now (Neha, Dan disappointed but stayed; offered expanded roles). D Dividend: 20% of underlying FY48 profit (~$27.4M, $0.30) after July AGM (AGM pay-vote roll 84.7%).
 Q89 facts: continuing sales 474.2, EBITDA 73.1 (15.4%; noise +3.0). US WIN: $38M 3-yr order (Houston). PROJECT HOME interim: pilot results — leak water loss −22% in fitted homes; insurer claims −11%; NPS 62; Shield wants 100,000 homes in 2049; Stage 2 decision Q3 2048. Retrofit 258 boards, 236 pilots, ~$71.5M. LTIFR 0.8 (7th quarter without lost-time injury). Voltrix −7.9% to ~$1.0B; stake ≈ $191M. Kuroda steady (~15% cuts in 8 states). Capital rule lifted (tripwire: TTM margin <14.5%); projects spent so far $39M. Cash $315.3M, net cash $215.3M. Repo 2.5, steel stable, INR 115.
-## Decisions made (FY49 Q4 prep; executed in Q91)
-A Kavita condition: WAIT, review in April 2049. B Houston stage 3: SWITCHED CONTRACTOR (+$1.0M) — did NOT recover the lost month (delay stays ~4 months, live Q4 2049). C Calibration lab expansion + FlowSure quality review ($0.6M) done (12 findings fixed). D Riyadh parts hub ($1.5M) approved (opens Apr 2049).
-Q91 facts: continuing sales 495.0 (+8.9% YoY), EBITDA 74.1 (15.0%): seasonal +2.5, margin surprise +1.2, Delta Flow Care price war −1.0, recall reversal +1.0, noise −2.49. KEY EXEC RESIGNATION: CTO Dr. Rohit Banerjee resigned 12 Dec — joining Tokai Sensors (KuroNet partner) in March; 6-month non-compete; Rohan sent reminder letter; Dr. Ananya Rao* (VP Platform) acting CTO. Service: Delta Flow Care cut AMC prices another 10%; we won 4 AMC from them; our service margin −1.2pts; ServeAll 80 of 120 technicians cross-trained, pipeline 9 boards, second contract not yet. Retrofit 276 boards, 252 pilots, ~$77.3M. Project Home: 55,000 homes fitted. LTIFR 0.8 (9th quarter without lost-time injury). Kuroda India: ours ~13.6%. Voltrix +12.7% to ~$1.26B (new peak); stake ≈ $241M (~19% of VPIL equity). Cash $296.0M, net cash $196.0M. Repo 2.5, steel stable, INR 116.
-## Pending decisions (FY49 Q4, Jan–Mar 2049) — awaiting player
-A CTO replacement: promote Dr. Ananya Rao (rec) / external search with Ananya acting / split roles (CTO + Chief AI Officer). B Protect IP/team from Tokai: retention for 25 key platform engineers ($1.0M) + enforce non-compete (legal ~$0.2M) (rec) / enforce only / none. C CEO-timeline scenarios for April review (Dev's committee): A Kavita stays to 2050 with reset conditions / B Arvind CEO 1 Apr 2049 / C Arvind CEO 1 Apr 2050 as planned: authorise preparation (rec) / not. D Project Home retail pilot: AquaSafe via plumbers in Pune + Mumbai, ~$3M (rec) / $6M / defer.
+## Decisions made (FY49 Q4, executed in Q92)
+A Dr. Ananya Rao promoted CTO (accepted). B Retention awards ($1.0M) for 25 key platform engineers accepted (none left) + non-compete enforced ($0.2M legal; Tokai tried to hire 3 engineers — blocked; Rohit joined Tokai 1 Mar; no dispute). C Dev's committee authorised to prepare three CEO-timeline scenarios for April review. D Project Home retail pilot: AquaSafe via ~120 plumbers' stores in Pune + Mumbai ($3M): 3,100 units in 6 weeks, good reviews (results Q93).
+Q92 facts: continuing sales 517.2 (+9.9% YoY), EBITDA 78.7 (15.2%). ServeAll second contract: Madhya Pradesh Jal, 4,500 valves, $0.8M/yr (total $1.8M/yr; pipeline 14 boards). Riyadh parts hub opened 15 Mar. Retrofit 285 boards, 258 pilots, ~$80.0M. Project Home: 70,000 homes fitted. LTIFR 0.8 (10th quarter without lost-time injury). Houston stage 3: permits resolved, live Q4 2049. Kuroda steady (ours ~13.6%). Voltrix −3.6% to ~$1.22B; stake ≈ $233M. Kavita proposed (pre-review) reset conditions: margin 16.5% by FY51. Cash $303.7M, net cash $203.7M. Repo 2.5, steel stable, INR 116.5.
+## Pending decisions (FY50 Q1, Apr–Jun 2049) — awaiting player
+A CEO timeline (Dev's review): 1 Kavita to 2050 with reset conditions (margin 16.5% by FY51, safety, cost) and Arvind CEO from 1 Apr 2050 as planned (rec) / 2 Arvind CEO immediately (1 Apr 2049) / 3 Kavita extended 2 yrs, Arvind 2052. B Kavita FY49 bonus: policy ~56% (rec) / strict 40% / board vote. C Kavita FY50 goals: sales $2,200M, profit $350M (15.9%), margin >=15.9% with Q4 exit >=16.5%, LTIFR <=0.8, ROIC rule 17: approve (rec) / higher / lower. D Dividend Jul AGM: 20% of FY49 net 151.0 = ~$30.2M ($0.33; rec) / 25% / 30%.
 
 ## Plant leadership (set Jan 2046; names new to the file marked *)
 Vadodara: Meghna Pillai* (plant head, ~1,350 staff); Rajkot/Hydrokraft: Ravi Gupta (CEO) with plant head Kiran Parmar* (~520); Bharuch: Harish Trivedi* (plant head, ~360; key for Phase 2); Dahej/Tidewater: Sanjay Kulkarni (MD) with foundry head Dinesh Chauhan* (~480); Sensor lines: Anita Deshmukh (head), Bengaluru Pooja Hegde*, Hyderabad Srinivas Reddy* (~420); Dammam JV: Vikram Joshi (CEO), operations head Yusuf Ansari* (~220); Ohio: AmeriFlow president Dan Whitaker* with plant manager Teresa Alvarez* (~210); Houston: Marcus Webb* (~160). Field service ~640. Reporting: plant heads -> business/region heads -> COO Arvind Rao; CSO Neil D'Cruz oversees safety with plant safety officers; ~5,300 staff total.
@@ -285,6 +286,8 @@ Cost of $100 sales: materials 44, labour & plant 17, freight/warranty 5, selling
 - FY49 Q2: Approved items 1,3 + ServeAll; robotic cell, Project Home scale, bigger roles. → Continuing sales 481.2, EBITDA 71.9 (14.9%), ROIC 13.7% (19.9% rule), net cash 188.4, share $28.20.
 
 - FY49 Q3: Wait on Kavita condition, switch Houston contractor (no gain), lab + Riyadh hub. → Continuing sales 495.0, EBITDA 74.1 (15.0%), ROIC 13.5% (20.0% rule), net cash 196.0, share $29.30. CTO resigned to Tokai.
+
+- FY49 Q4: Promoted CTO, retention+enforcement, authorised CEO scenarios, retail pilot. → FY49 continuing sales 1,967.6 / EBITDA 297.8 (15.1%) / ROIC 20.2% (rule); net cash 203.7; share $30.10.
 
 ## Learning profile
 - Growth/partnership-minded; strong negotiator; consultative; delegates; invests aggressively with low dividends; prefers upside bets (Voltrix top-up) even when they weigh on ROIC.
