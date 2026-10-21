@@ -4,7 +4,7 @@
 > Paste this file into a new conversation to resume.
 
 ## Meta
-- Current sim date: start of FY2046 Q4 (1 Jan 2046). Player = NON-EXECUTIVE CHAIR since 1 Apr 2039. Kavita CEO (to 31 Mar 2047); Arvind Rao COO (emergency CEO); Vikram Sethi CFO; CHRO Meenakshi Rajan; CMO Ritu Anand; LID Dev; Chief Safety Officer Neil D'Cruz (from 1 Jan 2046). Quarter 79 (FY46 Q3) played. Kavita FY46 goals: sales $1,610M (pace ~$1,575M), profit $277M (pace ~$245M), ROIC $16.5 rule basis (18.4 ✅), margin >=17.0% (15.5 ❌), LTIFR <=1.0 (1.4 ❌). Vision FY2050: $2.4B/$430M/17. State Report #16 due after Q82. STANDING INSTRUCTION: NO SALE OF VOLTRIX EQUITY WITHOUT DISCUSSING WITH THE CHAIR FIRST.
+- Current sim date: start of FY2047 Q1 (1 Apr 2046). Player = NON-EXECUTIVE CHAIR since 1 Apr 2039. Kavita CEO (to 31 Mar 2047; formal review under way, report by Sep 2046); Arvind Rao COO (emergency CEO); Neha Kapoor ACTING HEAD OF MANUFACTURING (from 1 Feb 2046); Vikram Sethi CFO; CHRO Meenakshi Rajan; CMO Ritu Anand; CSO Neil D'Cruz; LID Dev. Quarter 80 (FY46 Q4) played. FY46 RESULT vs Kavita goals: sales $1,587.7M (≥1,610; 98.6%), operating profit $245.0M (≥277; 88.5%), ROIC rule basis 17.9% (≥16.5 ✅; reported 13.0%), margin 15.4% (≥17.0 ❌), LTIFR 1.3–1.4 (≤1.0 ❌). Bonus: policy ~36% (5 equal goals), strict ~20%. FY46 net $129.6M (EPS ~$1.41; ~$1.31 ex-gain). Vision FY2050: $2.4B/$430M/17. State Report #16 due after Q82. STANDING INSTRUCTION: NO SALE OF VOLTRIX EQUITY WITHOUT DISCUSSING WITH THE CHAIR FIRST.
 - Difficulty: Realistic / Hard
 - CEO tenure COMPLETE: 44 quarters (1 Apr 2026 – 31 Mar 2037). ALL THREE STRETCH GOALS HIT at 31 Mar 2037: sales $456.5M (≥350 ✅), operating profit $87.3M (≥75 ✅), ROIC $16.7 (≥16 ✅) → full bonus (up to 150%). Vision 2040 REFRESHED (approved Apr 2037): sales $600M, profit $130M, ROIC $17. SUPERSEDED Oct 2038 by FY2043 targets: sales $900M, profit $175M, ROIC $17 (~65%). Kavita's FY38 goals (approved, reset): sales $520M, operating profit $100M, ROIC $16.5. Executive Chair: 12-month initial term, half CEO fixed pay, no bonus, Lead Independent Director Justice Raghavan safeguards.
 - Reporting currency: USD m (INR/USD 97.0)
@@ -16,10 +16,11 @@
 VPIL = listed valves company: Valves (100%; SensAqua, AquaSense, Hydrokraft, AmeriFlow [Ohio], FlowLogic Analytics [bought 20 Dec 2035], Saudi sales co 80/20, UAE hub) + corporate. Holdings: Flow Arabia JV 50/50 (Dammam util ~88%); Voltrix ~20.5% after selling 5% in Q41 ($8.0M to Greenline 3.5% + a Gulf fund 1.5%, gain $4.5M pre-tax; cost basis now 14.27; Series C $20M at $150M pre: VPIL $9.0M, Greenline $8.0M, Kaveri $3.0M [~1.8%]; our stake worth ~$43M). Car Parts sold to Kaveri Mar 2033.
 Board: CEO + 9 non-exec (family 3: Rajendra chair, Priya, Aditya; investors 2: Thomas, Anjali; independents 4: Raghavan [Lead Independent Director], Dev, Lata, Mrs. Narayanan) + Kavita (exec director). Employees ~3,150.
 
-## Project Spearhead status (Q79)
-Net cash ~30.0; bond $100M. Retrofit 166 boards; platform ~74 subs.
+## Project Spearhead status (Q80)
+Net debt ~13.3; bond $100M. Retrofit 176 boards; platform ~76 subs. Houston ~84%.
 
 ## Income statement — continuing (USD m)
+FY46 Q4 (Jan–Mar 2046): Revenue 427.5 (+10.6% YoY reported) | Adj. EBITDA 63.6 (14.9%) | Exceptionals (4.2) | D&A 21.4 | Interest (0.3) | Associates +3.7 | Net to holders 31.0. FY46: sales 1,587.7, EBITDA 245.0, net 129.6. TTM ROIC reported 13.0% / rule basis 17.9%.
 FY46 Q3 (Oct–Dec 2045): Revenue 396.5 (+9.8% YoY reported; organic ~+14%) | Adj. EBITDA 61.4 (15.5%) | Exceptionals (3.6) | D&A 20.7 | Interest (0.3) | Associates +3.6 | Net to holders 30.3. FY46 YTD sales 1,160.2, EBITDA 181.4. TTM (Q76–Q79) EBITDA 243.7, ROIC reported 14.2% / rule basis 18.4%.
 FY46 Q2 (Jul–Sep 2045): Revenue 382.0 (+8.4% YoY reported; organic ex-sold line ~+14%) | Adj. EBITDA 59.5 (15.6%) | Exceptionals (3.8) | D&A 20.3 | Interest (0.3) | Associates +3.5 | Net to holders 29.0. FY46 YTD sales 763.7, EBITDA 120.0. TTM (Q75–Q78) EBITDA 242.1, ROIC reported 14.6% / rule basis 18.6%.
 FY46 Q1 (Apr–Jun 2045): Revenue 381.7 (+12.3% YoY; organic ~+14%) | Adj. EBITDA 60.5 (15.9%) | Exceptionals (3.0) + AmeriFlow gain +11.0 (after-tax 8.8) | D&A 19.8 | Interest (0.4) | Associates +3.4 | Net to holders 39.3 (30.5 underlying + 8.8 gain). TTM (Q74–Q77) sales 1,481.7, EBITDA 240.7, net 131.8 (EPS ~$1.43; ~$1.33 ex-gain), ROIC reported 15.2% / rule basis 18.7%.
@@ -71,16 +72,16 @@ FY36 Q4 (Jan–Mar 2036): Revenue 104.5 | Adj. EBITDA 19.9 | Exceptionals (0.8) 
 | Net income to holders | 9.2 | 9.46 | 9.42 |
 TTM (Jan–Dec 2035): Valves sales 374.4; continuing EBITDA 74.0; underlying net ~37.8 (EPS ~$0.40). ROIC TTM ≈ 14.9% (EBIT 51.1 × 0.75 / capital ~257; dip from heavy capital in progress: Phase 6 CWIP, Voltrix 17.75, FlowLogic).
 
-## Balance sheet 31 Dec 2045
-Cash 130.0 | Receivables 162.5 | Inventory 42.1 | Other CA 7.6
-PP&E 487.35 | Voltrix 14.27 | Flow Arabia 118.85 | Goodwill & intangibles 98.55 | Other NCA 3.9 | **Total ≈ 1,065.1**
-Payables 50.8 | Other CL 13.3 | Bonds 100.0 (7-yr @ 6.13%) | Other NCL 8.15 (Aquila earn-out 1.5)
-**Liabilities ≈ 172.25 | Equity ≈ 892.85**
-NET CASH ≈ +30.0. Capital for ROIC ≈ 864 (rule basis ≈ 665; capacity projects ~$198.5M excluded). Shares 92.18M.
+## Balance sheet 31 Mar 2046
+Cash 86.7 | Receivables 169.0 | Inventory 44.6 | Other CA 7.6
+PP&E 508.45 | Voltrix 25.77 | Flow Arabia 122.55 | Goodwill & intangibles 131.55 | Other NCA 3.9 | **Total ≈ 1,100.1**
+Payables 50.8 | Other CL 13.3 | Bonds 100.0 (7-yr @ 6.13%) | Other NCL 12.15 (Aquila earn-out 1.5; FlowSure earn-out 4.0; other 6.65)
+**Liabilities ≈ 176.25 | Equity ≈ 923.85**
+NET DEBT ≈ 13.3. Capital for ROIC ≈ 938 (rule basis ≈ 677; capacity projects ~$217M + FlowSure ~$44M excluded). Shares 92.18M. Dividend after July AGM.
 
 ## Kaveri / ownership
 Kaveri 0% of VPIL (and sold its Voltrix stake after Dec lock-up). Out completely.
-92.18M shares @ $23.20 → market cap 2,138.6
+92.18M shares @ $22.60 → market cap 2,083.2
 Family 39.5% | Kaveri 0% | Halden 12.8% | Himalaya 11.6% | Sahyadri 9.7% | Meru/Sundaram/Pragati/Bharat Growth 3.4% | new long-term funds 6.5% | rest ~16.5%.
 
 ## Succession / Chair
@@ -121,10 +122,11 @@ Q77 facts: Sales 381.7 (organic ~+14%; sold line −9.4), EBITDA 60.5 (15.9%; ma
 ## Decisions made (FY46 Q3, executed in Q79)
 A 'Safe Plants 2046' full programme ($8M/2 yrs) launched: CSO Neil D'Cruz (ex-safety head, global steel co.) joins 1 Jan 2046; contractor safety rules in force; machine guarding at Rajkot done (3 of 9 high-risk fixed, rest by Mar); near-miss reporting live (1,240 reports first month); 15% of managers' bonuses tied to safety; no lost-time injury this Q; LTIFR 1.5 -> 1.4. B Voltrix: hold; requested 2nd board seat — REFUSED (observer seat granted); Voltrix +6.7% to ~$654M; stake ≈ $125M. C External margin review commissioned (Halcyon & Partners, $1.2M); early preview: SG&A grew ~19% vs sales ~10%; buckets: product mix, SG&A, procurement; first findings Q80.
 Q79 facts: FlowSure closing SLIPPED to ~15 Jan 2046 (founder's older patents held personally; clean-up; no price change). Sales 396.5, EBITDA 61.4 (15.5%). Retrofit 166 boards, 156 pilots, ~$44.3M; platform v3 upgraded on 22 boards. Bharuch Phase 2 ~92% built (commissioning Q2 2046), JV Phase 4 ~80%, Dahej Phase 2 ~85%. Houston ~78% used. Kuroda Gujarat Phase 2 ~35% used; no new cuts. Repo 2.75, steel +2%, INR 110.
-## Decisions made (FY46 Q4, Jan–Mar 2046; time PAUSED for Voltrix + governance briefing meeting)
-B CEO formal review started: board committee led by Dev + outside adviser (~$0.3M), report by Sep 2046. C Chair-led investor outreach on pay + safety before AGM (~$0.1M).
-DECIDED A: TAKE UP IN FULL (~$11.5M) to hold 19.1% (player, Jan 2046; engine had advised selling rights ~break-even). [then:] Voltrix $60M rights issue (1-for-10 at ~$6.02, 8% discount to ~$6.54; underwritten): engine math after meeting — expected value of taking up ≈ break-even (rights worth ~$0.47/share ≈ $0.9M for us); options: sell rights (~$0.9M; stay ~17.4%; engine rec) / take up half (~$5.8M → ~18.2%) / take up full (~$11.5M → 19.1%). NB: selling rights touches the Chair's Voltrix instruction — discussed here.
-Snapshot (Jan 2046): Board 13: Chair (player), CEO Kavita Menon; family Rajendra Vardhan (former Chair until 2037; current title not recorded), Priya, Aditya; investor directors Thomas (Halden), Anjali (Sahyadri); independents Dev (LID), Lata, Dr. Leena Varghese (software/digital), Mark Ellison (US/international), Sunita Krishnan (audit chair), Peter Lindqvist (industry; Safety Committee chair). Retired: Justice Raghavan (LID until Jul 2044), Mrs. Narayanan (Jul 2044). Management: CEO Kavita Menon; COO Arvind Rao (emergency CEO); CFO Vikram Sethi; CHRO Meenakshi Rajan; CMO Ritu Anand; CTO Dr. Rohit Banerjee; CSO Neil D'Cruz; Strategy Nikhil Bansal; GC Rohan D'Souza; India Ops Neha Kapoor; Smart valves/sensors Anita Deshmukh; Hydrokraft/Rajkot Ravi Gupta; Dahej integration Suresh Naik (Tidewater MD Sanjay Kulkarni); Saudi JV CEO Vikram Joshi; retrofit sales Karan Mehta; People & Culture Farah Sheikh. Shareholders (92.18M sh @ $23.20): Family 39.5% ($845M), Halden 12.8% ($274M), Himalaya 11.6% ($248M), Sahyadri 9.7% ($207M), long-term funds 6.5% ($139M), Meru/Sundaram/Pragati/Bharat Growth 3.4% ($73M), others 16.5% ($353M); Kaveri 0%. Tenure: CEO Apr 2026–Mar 2037 (11 yrs), Exec Chair Apr 2037–Mar 2039 (2 yrs), non-exec Chair since Apr 2039; 19y9m at Dec 2045.
+## Decisions made (FY46 Q4, executed in Q80)
+Voltrix rights: took up IN FULL ($11.5M; stake 19.1%; total cost basis ~$25.8M). New role approved ('end meeting'): Head of Manufacturing (Neha Kapoor acting from 1 Feb; external search ~$0.35M); all plant heads report to it; Dammam JV dotted line; plant-leadership bench programme ($0.5M/yr) under the role (named successors for 6 of 8 plants; two rotation moves planned in 2046). Ravi Gupta objected to losing Hydrokraft autonomy: compromise — remains Hydrokraft CEO, Rajkot plant head reports to new role. CEO review (Dev + adviser) and investor outreach under way.
+Q80 facts: FlowSure CLOSED 15 Jan 2046 ($40M cash + earn-out up to $8M, fair value 4.0); Dr. Bhatia stays; integration lead Pallavi Desai. Sales 427.5 (noise +7.2; FlowSure 6.25), EBITDA 63.6 (14.9%). Bharuch Phase 2 commissioning began Mar (opens Apr 2046, ON TIME). Dahej Phase 2 SLIPPED 2 months (live ~Aug 2046), +$1.5M. Kuroda cut ~10% in 4 states (−$1.6M) using Phase 2 capacity (~40% used). US WIN: $33M 3-yr order (Florida Water Authority). Houston ~84% used. Retrofit 176 boards, 164 pilots, ~$47.1M. Safe Plants: remaining high-risk items closed; LTIFR ~1.3; no lost-time injury this Q. MARGIN REVIEW (Halcyon) first findings: SG&A growing 2x sales; ~28% of tenders below 12% margin; fragmented steel buying (savings potential ~$18M); proposes Margin Plan 2.0 (+2.0pts by FY48). VOLTRIX −11.1% to ~$635M (post-rights); stake ≈ $121M. Repo 2.75, steel +2%, INR 110.5.
+## Pending decisions (FY47 Q1, Apr–Jun 2046) — awaiting player
+A Kavita FY46 bonus: policy ~36% / strict ~20% / board vote. B FY47 goals: sales $1,800M, profit $285M, margin >=15.8%, LTIFR <=1.2, ROIC rule 16.5: approve (rec) / higher / lower. C Margin Plan 2.0 (HQ headcount discipline 3%, price floor 12% on tenders, shared buying via new role, hiring freeze review): approve (rec) / adjust. D Dividend Jul AGM: 20% of FY46 net 129.6 = ~$25.9M ($0.28; rec) / 25% (~$32.4M) / 20% + 1% buyback.
 
 ## Plant leadership (set Jan 2046; names new to the file marked *)
 Vadodara: Meghna Pillai* (plant head, ~1,350 staff); Rajkot/Hydrokraft: Ravi Gupta (CEO) with plant head Kiran Parmar* (~520); Bharuch: Harish Trivedi* (plant head, ~360; key for Phase 2); Dahej/Tidewater: Sanjay Kulkarni (MD) with foundry head Dinesh Chauhan* (~480); Sensor lines: Anita Deshmukh (head), Bengaluru Pooja Hegde*, Hyderabad Srinivas Reddy* (~420); Dammam JV: Vikram Joshi (CEO), operations head Yusuf Ansari* (~220); Ohio: AmeriFlow president Dan Whitaker* with plant manager Teresa Alvarez* (~210); Houston: Marcus Webb* (~160). Field service ~640. Reporting: plant heads -> business/region heads -> COO Arvind Rao; CSO Neil D'Cruz oversees safety with plant safety officers; ~5,300 staff total.
@@ -238,6 +240,8 @@ Cost of $100 sales: materials 44, labour & plant 17, freight/warranty 5, selling
 - FY46 Q2: Approved FlowSure mandate (earn-out structure), dividend 25%, Lindqvist safety chair. → Sales 382.0, EBITDA 59.5, ROIC 14.6% (18.6% rule), net cash 24.6, share $22.80. Voltrix −20%; second safety incident.
 
 - FY46 Q3: Approved Safe Plants (full), hold Voltrix + seat request, external margin review. → Sales 396.5, EBITDA 61.4, ROIC 14.2% (18.4% rule), net cash 30.0, share $23.20.
+
+- FY46 Q4: Approved Voltrix full take-up, new Head of Manufacturing role + bench programme, CEO review, outreach. → FY46 sales 1,587.7 / EBITDA 245.0 / margin 15.4% / ROIC 17.9% (rule); net debt 13.3; share $22.60.
 
 ## Learning profile
 - Growth/partnership-minded; strong negotiator; consultative; delegates; invests aggressively with low dividends; prefers upside bets (Voltrix top-up) even when they weigh on ROIC.
